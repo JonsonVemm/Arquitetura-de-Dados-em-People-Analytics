@@ -1,0 +1,301 @@
+ID_Colaborador,Nome,Data_Nascimento,Genero,ID_Cargo,Data_Admissao,Data_Desligamento,Status,Salario_Base
+1,Brenda Alves,1979-05-02,Masculino,1,2022-04-02,,Ativo,11769.38
+2,Henry Gabriel Carvalho,1967-08-05,Masculino,4,2023-10-01,,Ativo,4244.22
+3,Ísis Borges,2000-10-19,Feminino,11,2022-02-24,,Ativo,11758.35
+4,Ana Beatriz Alves,1966-12-29,Masculino,10,2021-12-23,,Ativo,7774.02
+5,Igor Montenegro,2001-08-02,Masculino,2,2021-05-03,,Ativo,5232.97
+6,Gael Henrique Silva,2004-11-03,Outro,9,2021-04-19,,Ativo,4985.47
+7,Dra. Mariah Câmara,1991-03-10,Feminino,8,2025-09-15,2026-02-04,Desligado,9865.82
+8,Lara Abreu,1971-06-26,Feminino,13,2021-01-27,,Ativo,12572.74
+9,Sra. Manuela da Mota,1971-03-14,Masculino,6,2025-09-28,,Ativo,5973.39
+10,Lucca Caldeira,1966-12-06,Feminino,13,2023-06-01,,Ativo,6707.43
+11,Aylla Fogaça,1984-01-10,Feminino,7,2022-01-15,,Ativo,3708.95
+12,Julia Aparecida,1991-11-19,Feminino,10,2024-11-09,,Ativo,5806.51
+13,Camila Garcia,1965-12-24,Masculino,12,2021-06-27,,Ativo,8242.81
+14,Laís Pires,2002-09-16,Masculino,7,2022-05-27,,Ativo,3485.0
+15,Sr. Bernardo Aparecida,2005-08-13,Feminino,11,2024-04-15,,Ativo,10231.5
+16,João Vitor Barros,1976-06-17,Feminino,10,2025-01-21,,Ativo,4903.61
+17,Mateus da Mota,1991-06-22,Masculino,1,2021-10-12,,Ativo,10765.79
+18,Maria Clara Castro,1985-10-22,Masculino,4,2024-03-31,2024-07-20,Desligado,13331.05
+19,Sr. João Felipe Sampaio,2007-02-18,Feminino,5,2025-04-06,,Ativo,8167.63
+20,Ana Sophia Pereira,2003-10-30,Feminino,3,2025-02-03,,Ativo,7127.26
+21,Vitor Siqueira,1977-04-11,Masculino,11,2023-05-09,,Ativo,5837.22
+22,Ravi Garcia,1978-12-27,Masculino,10,2021-10-20,,Ativo,10437.23
+23,Hellena Rodrigues,1982-09-08,Masculino,3,2023-09-30,,Ativo,8278.25
+24,Ian Andrade,1982-01-31,Masculino,11,2024-01-11,,Ativo,11102.02
+25,Juliana Azevedo,1974-12-23,Feminino,11,2023-06-19,,Ativo,6553.53
+26,Luara Cunha,2005-03-22,Masculino,1,2021-08-18,2022-12-30,Desligado,12563.07
+27,Maria Laura Ramos,1991-11-04,Masculino,2,2025-07-02,2025-12-16,Desligado,5137.29
+28,João Carvalho,1977-05-26,Masculino,4,2024-07-12,,Ativo,10692.98
+29,Dra. Zoe da Luz,2000-05-25,Feminino,11,2025-06-09,,Ativo,8235.65
+30,Maria Liz Fonseca,1975-07-18,Feminino,3,2023-12-21,,Ativo,5582.84
+31,Thomas Monteiro,1966-10-21,Feminino,12,2023-12-13,,Ativo,9807.32
+32,Daniel Cassiano,2003-04-26,Feminino,4,2025-06-24,2026-01-25,Desligado,14966.57
+33,Otávio Peixoto,1964-12-09,Masculino,9,2022-07-21,,Ativo,8668.95
+34,Maria Helena Peixoto,1992-06-20,Masculino,2,2021-07-12,,Ativo,4410.52
+35,Isis Novaes,1961-05-26,Outro,13,2022-10-18,,Ativo,11006.02
+36,Bruna Rodrigues,1997-02-27,Feminino,7,2021-09-18,,Ativo,7270.24
+37,Luigi Camargo,1980-08-03,Masculino,9,2026-04-02,,Ativo,5642.68
+38,Eduarda Marques,1960-11-02,Masculino,11,2021-02-17,,Ativo,11509.02
+39,Dra. Julia Montenegro,1972-10-10,Feminino,13,2023-12-29,,Ativo,10512.02
+40,Bianca Pires,1980-12-04,Feminino,5,2022-04-02,,Ativo,7934.57
+41,Sofia Pereira,1974-02-25,Masculino,12,2026-02-02,2026-03-04,Desligado,13448.16
+42,Marcelo Teixeira,1971-08-12,Feminino,9,2023-12-15,,Ativo,12024.53
+43,Vitória Abreu,2001-05-17,Feminino,11,2022-03-12,,Ativo,6230.56
+44,Dr. Antony Camargo,1985-04-26,Masculino,3,2023-03-26,,Ativo,7173.92
+45,Isaque Araújo,1977-01-03,Feminino,13,2022-10-24,2025-12-01,Desligado,14030.43
+46,Anna Liz Barros,1993-09-09,Masculino,10,2021-01-03,,Ativo,6551.95
+47,Vitor Vargas,1969-03-05,Masculino,2,2021-03-21,,Ativo,14113.73
+48,Renan Novaes,1971-11-09,Masculino,4,2024-06-13,,Ativo,3224.06
+49,Vinícius Pereira,1989-05-31,Feminino,2,2021-11-19,,Ativo,11648.84
+50,Vitor Hugo Sá,2007-07-25,Feminino,13,2021-10-11,,Ativo,9158.83
+51,Leonardo Guerra,2006-04-29,Masculino,3,2022-05-31,,Ativo,10746.89
+52,Maria Fernanda Macedo,1995-11-03,Masculino,5,2022-11-08,,Ativo,9095.92
+53,Bárbara da Cruz,1975-11-28,Feminino,9,2025-09-30,2026-02-15,Desligado,11940.81
+54,Lucca Almeida,2000-08-26,Masculino,12,2023-04-04,,Ativo,6396.45
+55,Heloísa Pastor,1975-08-09,Feminino,8,2025-03-10,,Ativo,13745.18
+56,Brayan Santos,2003-07-26,Feminino,2,2026-01-24,,Ativo,5598.82
+57,Ian Azevedo,1962-10-03,Masculino,1,2021-09-20,2023-09-12,Desligado,9853.86
+58,Sr. Théo da Costa,1979-07-27,Masculino,10,2023-08-01,,Ativo,5252.72
+59,Raquel Cunha,1997-04-24,Feminino,11,2021-10-18,2025-11-05,Desligado,3235.92
+60,Renan da Cruz,1992-10-20,Masculino,6,2021-10-04,2022-01-06,Desligado,3385.72
+61,Esther Brito,1967-03-20,Masculino,11,2023-09-02,2025-04-24,Desligado,8567.68
+62,Marina Fogaça,1989-06-11,Feminino,12,2022-06-26,,Ativo,14193.93
+63,Nina Siqueira,1964-04-21,Feminino,4,2026-04-21,,Ativo,12307.74
+64,Beatriz Araújo,1988-01-07,Masculino,2,2025-07-26,2025-11-30,Desligado,3711.64
+65,Sra. Bianca da Cruz,1973-08-27,Masculino,6,2025-11-01,,Ativo,7794.73
+66,Vitor Gabriel Machado,1970-02-27,Feminino,12,2026-03-28,,Ativo,3177.14
+67,Emilly da Mota,1992-02-06,Feminino,1,2022-02-08,,Ativo,7532.77
+68,Breno Macedo,1998-01-25,Feminino,4,2024-10-21,2025-03-11,Desligado,4894.88
+69,Benicio Rezende,1997-05-28,Masculino,3,2026-01-12,,Ativo,7773.52
+70,Caleb Sá,1976-09-14,Outro,8,2024-02-15,,Ativo,5622.58
+71,Nicolas Mendonça,1993-05-17,Feminino,13,2021-11-05,2024-05-30,Desligado,13266.86
+72,Murilo Araújo,1971-10-28,Feminino,1,2022-02-06,,Ativo,10651.81
+73,Agatha Gomes,1978-08-31,Feminino,2,2021-03-02,,Ativo,14079.59
+74,Laura Lima,2008-01-08,Masculino,3,2023-08-27,,Ativo,7580.18
+75,Dra. Raquel Cassiano,1973-07-16,Feminino,4,2026-05-26,,Ativo,13308.13
+76,Henrique Araújo,2000-01-12,Feminino,7,2021-08-29,2022-08-31,Desligado,2526.94
+77,Dra. Ana Liz Souza,1981-12-16,Masculino,5,2025-05-19,,Ativo,14081.48
+78,Benicio Pacheco,1993-01-23,Feminino,7,2026-02-07,2026-05-21,Desligado,11207.39
+79,Vitória Castro,1964-06-27,Masculino,3,2026-06-17,,Ativo,4873.72
+80,Anna Liz Cirino,1965-04-13,Masculino,1,2023-06-11,,Ativo,9739.75
+81,Ana Lívia Rocha,1976-08-16,Masculino,12,2021-09-07,,Ativo,6420.06
+82,Bárbara Nunes,1977-05-16,Masculino,10,2021-07-25,,Ativo,8459.86
+83,Ana Cecília Pinto,1966-03-13,Masculino,1,2022-10-07,,Ativo,14509.74
+84,Stephany Dias,1978-05-13,Feminino,3,2021-11-25,,Ativo,3356.52
+85,Levi da Costa,1978-09-10,Masculino,11,2021-10-06,,Ativo,13272.74
+86,Caroline Rios,2004-07-18,Feminino,2,2025-07-12,,Ativo,14269.95
+87,Raul Dias,1965-07-22,Feminino,10,2023-10-06,,Ativo,9931.49
+88,Raul Pinto,1998-12-06,Feminino,7,2021-12-02,,Ativo,10717.16
+89,Brayan Nascimento,1975-02-14,Feminino,5,2024-07-19,,Ativo,5053.24
+90,Julia Cardoso,1984-05-14,Feminino,5,2024-07-10,2025-04-10,Desligado,7447.32
+91,Joaquim Freitas,1980-01-05,Feminino,8,2024-05-13,,Ativo,6452.21
+92,Pedro Lucas Nogueira,2008-06-29,Masculino,8,2021-10-25,2021-12-13,Desligado,10264.49
+93,Vinícius Albuquerque,2006-01-24,Masculino,2,2022-02-14,,Ativo,9220.43
+94,Letícia Ribeiro,1967-09-01,Masculino,6,2023-12-23,2024-06-05,Desligado,13510.8
+95,João Camargo,1967-11-26,Feminino,6,2023-09-28,,Ativo,6062.34
+96,Dra. Daniela da Mata,1979-10-17,Masculino,9,2025-11-30,,Ativo,11294.25
+97,Giovanna Silva,1983-12-14,Masculino,9,2021-02-02,2024-11-30,Desligado,6242.23
+98,João Montenegro,1993-11-11,Feminino,3,2022-03-01,,Ativo,5805.82
+99,Benjamim Borges,2003-10-13,Masculino,12,2022-03-15,,Ativo,9415.3
+100,Kamilly Aparecida,1960-11-10,Masculino,10,2024-01-21,2024-12-04,Desligado,5132.87
+101,Sr. João Castro,1990-09-07,Feminino,4,2024-11-05,,Ativo,11093.71
+102,Mariane Novais,1961-04-11,Masculino,9,2023-12-18,,Ativo,8606.65
+103,Breno Sales,1970-10-05,Feminino,2,2021-07-28,,Ativo,10428.56
+104,Ana Carolina Freitas,2000-04-04,Masculino,1,2024-02-08,,Ativo,2544.32
+105,Clara Lopes,1969-04-16,Feminino,11,2022-06-20,,Ativo,14747.47
+106,Leandro Fonseca,1963-05-02,Masculino,12,2022-10-24,,Ativo,8022.94
+107,Sr. Josué Rios,1967-08-12,Feminino,9,2025-10-18,,Ativo,2620.87
+108,Dr. Eduardo da Costa,1971-09-05,Feminino,12,2021-11-05,,Ativo,13799.11
+109,Noah Alves,1972-10-28,Masculino,6,2021-05-28,,Ativo,9781.37
+110,Sra. Maria Sophia Rios,1977-07-04,Masculino,7,2022-08-30,,Ativo,4093.07
+111,Emanuel Viana,2008-05-04,Masculino,6,2024-06-16,,Ativo,13737.27
+112,Mateus Andrade,1992-08-25,Feminino,6,2021-06-13,,Ativo,5125.96
+113,Guilherme Marques,1984-05-30,Feminino,11,2023-10-20,,Ativo,3784.92
+114,Ian Câmara,1962-03-25,Feminino,12,2025-07-23,2026-07-05,Desligado,4431.92
+115,Evelyn Guerra,1982-12-15,Masculino,13,2023-08-28,2024-08-24,Desligado,12634.65
+116,Bernardo Vargas,1979-08-12,Masculino,1,2025-08-16,,Ativo,4742.01
+117,Dr. Vitor Gabriel Farias,1962-07-01,Masculino,13,2024-09-22,,Ativo,14135.2
+118,José Pedro Cavalcanti,2000-02-16,Masculino,5,2023-10-14,,Ativo,4489.97
+119,Arthur Miguel Caldeira,2001-03-19,Feminino,7,2022-03-19,,Ativo,13402.08
+120,Manuella Siqueira,1981-12-18,Feminino,4,2026-04-12,,Ativo,4994.66
+121,Sophia Camargo,1986-10-31,Masculino,5,2026-03-01,2026-06-28,Desligado,12756.7
+122,Esther da Cunha,1963-08-22,Feminino,1,2023-07-22,2024-11-19,Desligado,10750.41
+123,Sra. Agatha Moreira,1997-04-05,Masculino,6,2025-06-21,,Ativo,5982.54
+124,Fernanda Fonseca,1989-12-19,Outro,13,2021-10-12,,Ativo,5989.06
+125,Lucas Pinto,1981-12-24,Masculino,9,2025-06-26,2026-07-08,Desligado,6639.37
+126,Camila Silveira,1981-01-20,Feminino,2,2021-04-24,,Ativo,13462.98
+127,Luana Rios,1988-05-29,Feminino,10,2023-12-06,2024-07-05,Desligado,14531.68
+128,Dr. Juan Novaes,1969-04-12,Masculino,1,2023-12-24,,Ativo,3855.03
+129,Otto Rios,1986-06-02,Masculino,12,2025-11-15,2026-03-13,Desligado,12330.35
+130,Emanuella Pimenta,1999-05-07,Feminino,10,2025-11-23,,Ativo,14802.95
+131,Nathan Novaes,1960-08-24,Outro,7,2022-04-19,,Ativo,13743.81
+132,João Pedro Costela,1989-11-14,Masculino,5,2023-02-18,,Ativo,3054.83
+133,Luna Martins,1990-09-06,Masculino,9,2025-11-22,2025-12-22,Desligado,14069.69
+134,Hadassa Moraes,1992-10-26,Masculino,6,2023-03-19,,Ativo,7891.22
+135,Srta. Antonella da Paz,1995-09-11,Feminino,10,2024-09-14,,Ativo,6423.95
+136,Lívia Borges,1976-08-07,Masculino,5,2022-05-26,2026-07-08,Desligado,8839.03
+137,Luana Câmara,1974-03-03,Masculino,7,2025-07-31,2026-02-13,Desligado,11215.11
+138,Apollo Aparecida,1977-04-12,Masculino,4,2022-06-06,,Ativo,7755.58
+139,Ana Sophia Marques,1988-10-26,Masculino,11,2025-04-02,,Ativo,11851.68
+140,Evelyn Silva,2008-01-02,Masculino,10,2022-12-14,,Ativo,9613.82
+141,Sabrina Guerra,1977-03-22,Feminino,1,2025-07-22,2026-05-28,Desligado,6298.44
+142,André Sá,1967-11-15,Feminino,7,2023-05-11,,Ativo,12321.99
+143,Hellena Cavalcanti,2007-12-22,Feminino,8,2024-08-12,,Ativo,8022.33
+144,Nicole Aragão,1998-07-20,Masculino,9,2023-05-26,,Ativo,8414.83
+145,Davi Marques,1969-09-10,Masculino,11,2022-11-27,,Ativo,3559.94
+146,Vitória Novais,2001-02-20,Feminino,2,2024-10-04,,Ativo,12730.29
+147,Dr. Thiago Lima,1997-11-25,Feminino,4,2023-08-21,2025-06-16,Desligado,12582.04
+148,Eduarda Souza,1992-12-02,Masculino,1,2022-08-27,,Ativo,3077.67
+149,Joana Sá,1977-06-11,Feminino,10,2026-05-01,,Ativo,13121.72
+150,Kamilly Vargas,1996-02-03,Feminino,8,2021-10-26,,Ativo,7680.51
+151,Isabella da Mota,1990-07-21,Masculino,12,2023-03-08,,Ativo,11204.43
+152,João Pedro da Costa,1979-02-09,Masculino,7,2026-07-18,,Ativo,5549.81
+153,Dr. Vitor Hugo Barros,1970-01-13,Outro,13,2021-01-23,,Ativo,13255.51
+154,Igor Gomes,2007-11-04,Feminino,13,2022-03-13,,Ativo,7814.33
+155,Heitor Azevedo,1988-11-06,Feminino,13,2022-12-22,,Ativo,14474.58
+156,Luísa Nogueira,1992-04-28,Feminino,1,2026-03-18,,Ativo,9467.57
+157,Ana Liz Costela,1989-03-17,Outro,8,2022-05-13,,Ativo,4166.74
+158,Alícia Teixeira,1999-10-17,Masculino,9,2026-03-19,2026-07-12,Desligado,14848.66
+159,Pietra Abreu,1984-07-22,Feminino,13,2024-07-23,,Ativo,13642.82
+160,Mathias Leão,1997-03-30,Feminino,9,2025-10-14,,Ativo,8073.92
+161,Dra. Ísis Pereira,1975-08-17,Masculino,12,2022-10-14,,Ativo,13268.69
+162,Hellena da Mata,1990-04-11,Feminino,5,2026-01-18,,Ativo,11897.21
+163,Ana Gomes,1983-06-29,Masculino,13,2024-02-10,2026-05-04,Desligado,9016.25
+164,Maria Luiza Silveira,1971-11-07,Masculino,5,2023-09-07,,Ativo,7998.41
+165,Carolina Pinto,1996-12-18,Feminino,4,2024-03-16,,Ativo,5896.44
+166,Matteo Pastor,1999-01-10,Masculino,9,2024-08-02,,Ativo,3507.22
+167,Amanda Barros,2004-05-10,Feminino,4,2022-09-10,,Ativo,7287.94
+168,Catarina Martins,1972-12-25,Feminino,12,2022-09-18,,Ativo,5174.41
+169,José Pedro Garcia,1982-11-23,Masculino,6,2025-08-27,2026-04-22,Desligado,9282.64
+170,Rafael Duarte,1983-08-02,Feminino,1,2025-08-31,,Ativo,5085.43
+171,Lara Sá,1989-04-22,Feminino,7,2025-09-17,,Ativo,13810.48
+172,Bruno Melo,1961-12-08,Feminino,13,2021-03-22,,Ativo,9696.13
+173,Dra. Ana Júlia Ferreira,1975-11-17,Masculino,1,2026-05-08,,Ativo,14284.27
+174,Ana Lívia Vasconcelos,2004-12-20,Feminino,13,2024-05-08,,Ativo,7374.83
+175,Arthur da Cruz,1974-03-09,Masculino,9,2025-09-13,,Ativo,11843.95
+176,Eduardo da Costa,1969-03-17,Masculino,8,2023-06-23,,Ativo,5242.77
+177,Bruna Nunes,1975-06-14,Feminino,8,2025-11-21,,Ativo,2862.81
+178,Jade Vargas,1985-09-20,Masculino,11,2024-10-08,,Ativo,10989.27
+179,Danilo Vasconcelos,1971-10-06,Masculino,12,2025-07-15,,Ativo,4563.06
+180,Cauê Pacheco,1962-05-14,Masculino,10,2026-03-30,2026-05-15,Desligado,9176.55
+181,Marcos Vinicius Gonçalves,1974-02-11,Masculino,10,2025-06-02,,Ativo,9554.9
+182,Joaquim Caldeira,2008-01-23,Masculino,2,2021-04-22,,Ativo,10534.37
+183,Dante Vieira,1999-02-17,Feminino,3,2022-07-10,2025-03-11,Desligado,3128.56
+184,Luiz Felipe Nascimento,1989-10-08,Masculino,4,2025-04-02,2025-10-16,Desligado,8183.74
+185,Maria Eduarda Azevedo,1995-01-18,Feminino,13,2024-10-14,,Ativo,13495.5
+186,Manuela Albuquerque,1989-03-15,Feminino,13,2024-02-14,,Ativo,14390.05
+187,Bianca Lopes,1985-04-07,Masculino,5,2025-09-23,,Ativo,12936.39
+188,Natália Santos,1971-01-11,Feminino,1,2026-04-11,,Ativo,11862.8
+189,Emanuelly Siqueira,1996-02-15,Feminino,4,2021-08-02,2023-08-18,Desligado,10626.8
+190,Júlia Pimenta,1997-03-29,Feminino,1,2021-06-14,2025-10-05,Desligado,14370.15
+191,Nina Lopes,2000-12-08,Masculino,1,2023-03-28,,Ativo,10266.7
+192,Lorenzo da Cruz,1966-07-08,Masculino,3,2023-09-05,,Ativo,8419.51
+193,Rael da Cruz,1992-03-29,Masculino,10,2022-04-14,,Ativo,14346.96
+194,Maria Helena Fernandes,1962-07-28,Feminino,12,2026-03-20,,Ativo,5703.05
+195,Lunna Cirino,1993-10-18,Masculino,3,2025-02-19,,Ativo,10073.66
+196,Luiz Gustavo da Luz,1983-10-12,Feminino,5,2022-04-15,2023-04-15,Desligado,3851.23
+197,João Guilherme Novais,1961-04-23,Masculino,5,2021-04-16,,Ativo,9697.46
+198,Esther Barros,1977-01-15,Masculino,7,2025-03-18,,Ativo,14268.38
+199,Sra. Rebeca Novais,1976-12-21,Feminino,10,2023-03-24,2023-09-25,Desligado,11132.68
+200,Sra. Rebeca Machado,1961-10-16,Masculino,2,2023-09-22,,Ativo,11214.91
+201,Juan Câmara,1988-02-20,Masculino,11,2024-05-20,,Ativo,10005.15
+202,Srta. Lorena Ribeiro,2000-03-11,Masculino,13,2022-05-11,,Ativo,14798.05
+203,Dr. Yuri Moura,1984-01-05,Masculino,6,2021-06-18,,Ativo,9159.32
+204,Luísa Fogaça,2008-06-12,Feminino,2,2025-02-26,,Ativo,8824.51
+205,Júlia das Neves,1977-09-22,Feminino,7,2024-10-29,2024-12-10,Desligado,12779.14
+206,Dante Silveira,1973-09-21,Masculino,7,2022-03-09,,Ativo,14509.84
+207,Sr. Vitor Gabriel Teixeira,2007-08-02,Masculino,7,2026-02-27,2026-05-07,Desligado,4701.71
+208,Gael Cunha,1993-07-26,Feminino,10,2024-01-12,,Ativo,12602.49
+209,Vinicius Peixoto,1979-11-16,Feminino,8,2026-06-04,,Ativo,7944.68
+210,Gael da Rocha,1976-02-06,Masculino,6,2024-01-05,,Ativo,13146.41
+211,Sr. Kevin Albuquerque,1996-12-18,Masculino,5,2021-12-21,,Ativo,13520.39
+212,João Guilherme Aparecida,1964-04-30,Masculino,13,2023-09-26,,Ativo,8308.86
+213,Lavínia Sampaio,1969-03-18,Masculino,6,2025-04-02,,Ativo,2858.75
+214,Rebeca Caldeira,1961-06-14,Masculino,3,2024-08-24,,Ativo,8594.37
+215,Larissa Melo,1993-03-12,Feminino,13,2024-12-24,,Ativo,5729.41
+216,Manuela Cirino,1964-02-11,Masculino,10,2024-02-20,,Ativo,11264.8
+217,Rhavi Camargo,1965-01-24,Feminino,9,2024-02-06,,Ativo,2626.89
+218,Rebeca Barbosa,1999-11-19,Masculino,2,2023-02-22,,Ativo,5516.95
+219,Ana Júlia Cassiano,1970-10-09,Masculino,8,2025-07-23,,Ativo,9439.7
+220,Liz Barros,1977-07-04,Feminino,12,2023-09-12,,Ativo,8451.16
+221,Oliver Pereira,2001-03-08,Outro,8,2026-07-04,,Ativo,12411.66
+222,Heloisa Vasconcelos,1996-03-06,Feminino,5,2022-01-17,,Ativo,5269.96
+223,Milena Macedo,1980-11-07,Masculino,11,2023-09-24,2025-07-12,Desligado,9769.44
+224,Mariane das Neves,1999-04-25,Masculino,9,2026-04-23,2026-08-01,Desligado,6796.97
+225,Ana Liz Pimenta,1967-05-16,Feminino,6,2024-09-16,,Ativo,11285.69
+226,Heitor da Luz,2005-07-24,Masculino,5,2024-01-15,,Ativo,5642.55
+227,Emanuel da Costa,1972-06-12,Masculino,12,2022-05-10,,Ativo,4907.3
+228,Ana Vitória Castro,1960-10-19,Masculino,12,2022-05-05,,Ativo,9198.3
+229,Milena Sales,2001-01-10,Feminino,4,2023-01-29,,Ativo,5204.81
+230,Lavínia Andrade,1976-05-15,Feminino,5,2026-06-07,,Ativo,11557.31
+231,João Miguel Sampaio,1991-07-08,Masculino,2,2024-03-05,,Ativo,12907.85
+232,Igor da Luz,2003-02-25,Masculino,4,2024-04-28,,Ativo,7011.01
+233,Fernanda Lima,1968-06-05,Feminino,12,2024-05-23,2024-07-06,Desligado,9176.69
+234,Heloisa Ramos,1970-10-04,Masculino,1,2024-01-29,,Ativo,14678.69
+235,Diego Barbosa,1964-09-04,Outro,12,2024-04-11,,Ativo,14301.12
+236,Leandro Peixoto,1999-05-09,Outro,2,2026-07-04,,Ativo,13409.0
+237,Pedro Lucas Campos,1992-07-06,Masculino,8,2024-03-10,,Ativo,8483.93
+238,Sra. Maria Luiza da Mata,1994-09-04,Outro,3,2024-10-27,,Ativo,14568.72
+239,Sabrina Macedo,1966-02-03,Masculino,8,2023-11-01,,Ativo,3926.09
+240,Ana Cecília Lopes,1982-07-21,Masculino,8,2021-09-25,2024-01-23,Desligado,3426.03
+241,Isis Alves,1966-10-31,Masculino,3,2021-08-08,,Ativo,4364.97
+242,Antônio Teixeira,2006-05-14,Masculino,2,2024-05-29,,Ativo,14923.98
+243,Asafe Teixeira,1972-07-16,Masculino,9,2022-05-01,,Ativo,12055.54
+244,Stella Rezende,1990-09-17,Feminino,13,2023-07-14,,Ativo,9032.16
+245,Fernando Pacheco,1990-04-12,Masculino,5,2026-01-20,2026-06-12,Desligado,13252.08
+246,Rebeca Borges,1992-08-08,Masculino,5,2025-10-23,,Ativo,9607.87
+247,Dr. Lucas Gabriel Duarte,2006-03-22,Feminino,10,2021-09-04,,Ativo,14501.36
+248,Enrico Farias,1988-08-18,Feminino,13,2022-02-11,,Ativo,5097.35
+249,Sra. Laura Ribeiro,1987-11-14,Feminino,5,2023-05-15,,Ativo,10755.35
+250,Ana Carolina Marques,1966-08-11,Outro,3,2022-10-06,2024-03-10,Desligado,9399.9
+251,Dr. Lorenzo Camargo,1988-02-14,Masculino,1,2022-10-04,,Ativo,7606.47
+252,Agatha Ribeiro,1997-07-17,Masculino,5,2026-04-09,,Ativo,2908.0
+253,Maria Sophia Aragão,1973-05-20,Feminino,12,2024-03-26,,Ativo,6033.98
+254,Maria Cecília Pinto,1994-07-17,Masculino,11,2026-02-03,2026-03-23,Desligado,5417.8
+255,Melina Teixeira,1964-02-17,Masculino,13,2023-12-20,2026-04-04,Desligado,10313.23
+256,João Felipe Novaes,1969-07-14,Feminino,7,2023-03-22,,Ativo,3934.7
+257,Pedro Lucas Sampaio,1993-08-08,Masculino,5,2023-07-10,2024-06-09,Desligado,12832.89
+258,Arthur Pires,2002-01-19,Feminino,1,2021-10-20,,Ativo,4574.03
+259,Emanuel das Neves,1998-02-07,Masculino,10,2024-06-13,,Ativo,11861.97
+260,Yuri Jesus,1966-12-17,Feminino,2,2024-03-28,2025-07-20,Desligado,8358.72
+261,Danilo Martins,1968-08-11,Feminino,12,2024-05-30,,Ativo,7531.36
+262,Daniela Monteiro,1980-06-24,Masculino,9,2024-01-21,2025-07-16,Desligado,8672.44
+263,Júlia Leão,1993-06-14,Feminino,1,2021-11-26,2025-05-03,Desligado,13617.79
+264,Isabelly Marques,1998-02-17,Feminino,10,2024-08-13,,Ativo,5629.6
+265,Matheus Correia,2001-05-28,Masculino,4,2022-01-10,,Ativo,14523.89
+266,Catarina Azevedo,1979-06-02,Outro,11,2021-03-26,2025-08-08,Desligado,12767.77
+267,Manuela Viana,1995-03-03,Masculino,13,2021-06-14,2025-10-23,Desligado,4689.88
+268,Alexandre da Paz,1980-12-07,Masculino,5,2025-12-17,,Ativo,4768.61
+269,Rebeca Cassiano,1991-01-02,Feminino,8,2025-11-21,2026-06-01,Desligado,14613.19
+270,Rafaela Ferreira,1983-03-29,Feminino,6,2026-04-10,,Ativo,7604.35
+271,Ísis Garcia,1991-08-09,Masculino,2,2024-08-08,2026-07-25,Desligado,13221.66
+272,Sr. Isaque Oliveira,1986-09-05,Masculino,7,2024-09-12,,Ativo,11170.92
+273,Noah Aparecida,1982-04-09,Feminino,11,2024-03-26,,Ativo,14314.92
+274,Sra. Maria Helena Gomes,2005-10-13,Masculino,8,2021-05-31,,Ativo,3600.75
+275,Clarice Monteiro,1963-02-20,Masculino,6,2023-10-31,,Ativo,3949.02
+276,Theodoro Pastor,1983-03-18,Masculino,9,2025-07-14,,Ativo,12811.59
+277,Pedro Lucas Brito,1996-05-29,Masculino,11,2021-01-05,,Ativo,13367.09
+278,Alice Silveira,1970-06-06,Feminino,1,2026-03-08,2026-07-21,Desligado,4844.78
+279,Daniela Barbosa,1992-07-26,Feminino,10,2025-01-21,,Ativo,11955.54
+280,Lucca Pinto,2007-10-04,Masculino,13,2025-12-16,,Ativo,3145.15
+281,Anna Liz Farias,2006-07-05,Feminino,9,2023-12-30,,Ativo,4137.67
+282,Maria Helena Dias,2003-04-10,Feminino,8,2024-03-25,,Ativo,13510.58
+283,Sra. Ágatha Andrade,2002-08-21,Masculino,2,2026-06-09,,Ativo,2860.87
+284,Isaac Pires,2007-03-11,Feminino,12,2023-09-08,,Ativo,4479.73
+285,Ian Souza,1966-10-08,Feminino,7,2021-02-26,2024-05-02,Desligado,3665.12
+286,Beatriz Teixeira,2003-09-29,Masculino,8,2022-04-10,,Ativo,14338.26
+287,Srta. Melina Cavalcante,2007-11-05,Masculino,8,2022-09-23,,Ativo,14158.16
+288,Arthur Aparecida,1982-09-10,Masculino,12,2024-04-10,2025-10-13,Desligado,5917.81
+289,Juan Fogaça,1986-02-15,Masculino,8,2026-05-31,,Ativo,5546.64
+290,Clara da Cruz,1996-10-06,Feminino,7,2022-08-16,,Ativo,4882.63
+291,Emilly Cavalcante,1972-07-13,Outro,2,2022-07-14,,Ativo,5953.09
+292,Mateus Pinto,2007-02-08,Feminino,6,2025-08-27,,Ativo,14178.1
+293,Theo Pacheco,1970-05-11,Feminino,1,2023-12-31,,Ativo,6035.49
+294,Ravi Porto,1977-11-25,Feminino,10,2024-05-07,,Ativo,9749.04
+295,Jade Rios,1961-04-04,Feminino,3,2026-06-29,,Ativo,8081.84
+296,Laura Rocha,1997-10-24,Masculino,6,2026-06-07,,Ativo,6655.5
+297,Brayan Macedo,1984-02-19,Feminino,8,2025-03-26,,Ativo,14160.65
+298,Letícia Porto,1989-06-29,Feminino,10,2023-02-12,2024-07-15,Desligado,7287.14
+299,Sra. Mirella da Rosa,1974-03-05,Feminino,1,2025-08-10,,Ativo,6477.2
+300,Rafaela Caldeira,1976-10-04,Feminino,12,2026-04-22,,Ativo,13917.88

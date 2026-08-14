@@ -1,0 +1,2127 @@
+ID_Ocorrencia,ID_Colaborador,Data_Ausencia,Tipo_Ausencia,Horas_Perdidas
+9326dffd-5be4-4f51-9269-869861a11729,1,2024-05-31,Atestado Médico,8.0
+4b943e30-b303-4438-be21-10d04bbe4aff,1,2025-12-21,Atestado Médico,8.0
+a881bfd3-d47d-477b-ba5a-91ca059dd55d,1,2025-11-27,Atestado Médico,8.0
+90e0b95f-0212-4554-8644-58b46553867d,1,2023-02-07,Atestado Médico,8.0
+bea29dfe-c73f-4e1b-af90-8e3cdd750e98,1,2025-01-10,Atestado Médico,8.0
+9b3d74bd-e91e-414e-8c8e-29e3f93e08d5,1,2022-06-16,Atestado Médico,8.0
+e776b886-d534-4e1d-bf29-84f5bec39a37,1,2022-12-16,Atestado Médico,8.0
+cc8218da-c696-45e6-8944-051be726be23,1,2025-01-24,Atestado Médico,8.0
+5a31b4cc-cd4b-49a9-9b68-9c883ae909fe,1,2025-07-23,Atestado Médico,8.0
+9ef2b93e-30ac-4d7b-a2f9-63a33810ae66,1,2024-02-10,Falta Injustificada,8.0
+b88ec318-c16d-43ed-ad81-f8bd402913ec,1,2022-10-24,Atestado Médico,8.0
+d69d42f1-ae4c-44ff-a8c0-1f05c478f6f1,1,2024-09-19,Falta Injustificada,8.0
+e7457704-18df-4c3c-a0d4-de3d2303f6c6,2,2026-04-23,Falta Injustificada,8.0
+4f1639a0-0a17-491e-a576-9411a0a11839,2,2023-11-01,Atestado Médico,8.0
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,2,2024-07-22,Atraso,3.9
+1712fb16-21a4-444f-bb7b-ee035d678bb1,3,2023-01-06,Atraso,1.5
+bf5ae7e6-53a3-4d5a-8b8c-5bdce8dd5e5a,3,2026-07-13,Atestado Médico,8.0
+21d53971-3367-49b5-acf6-bf756a5e6920,3,2023-08-20,Atestado Médico,8.0
+f8b38a8b-e05f-48bc-8a16-a06cc958e75e,3,2024-01-18,Licença Paternidade/Maternidade,8.0
+e9da484a-8075-4f1f-87e5-f0fe5da8d6d2,3,2025-08-23,Falta Injustificada,8.0
+41c8ca8c-2a1f-455a-9499-da9945c45a3e,3,2026-01-12,Atestado Médico,8.0
+7b5a611a-f1b6-4afe-931e-df1ae9ff1cae,3,2024-05-18,Atestado Médico,8.0
+bf1e8366-4b8e-43d4-8e76-07adf7a67b94,3,2025-10-16,Atestado Médico,8.0
+1d7bc313-cde2-4f1c-96b6-0afcded255d0,3,2022-08-07,Atestado Médico,8.0
+2408a6dc-1346-41a9-b680-2cdb77e490c7,3,2023-12-28,Falta Injustificada,8.0
+dc322c97-39c1-4262-b76c-8edec1101266,3,2025-12-06,Atestado Médico,8.0
+fadd7ea3-aca5-42fd-b966-442aad238d36,3,2025-02-20,Atestado Médico,8.0
+cdf974a7-d882-45c1-b79e-fd7065bcc272,3,2024-04-12,Falta Injustificada,8.0
+ca6a2224-171e-46cc-9da3-6f1b8eac0a33,3,2023-12-04,Atestado Médico,8.0
+895ccd99-43b3-4eb4-8390-2c5d6502d6a2,3,2025-08-30,Atestado Médico,8.0
+ac3e7b0d-5e5b-413d-b46c-db771fa382e8,3,2026-03-06,Falta Injustificada,8.0
+95a5bafa-431d-429f-ac1e-86d8bfbf397b,3,2026-05-29,Atraso,4.4
+f0b6f83f-a377-46f1-9289-f0ab618ae305,3,2025-03-08,Atestado Médico,8.0
+3bdbc09e-acc2-46a0-9bbc-91f75f18e583,3,2022-05-08,Atestado Médico,8.0
+e25d36eb-9e9a-4f83-8668-03ee78b2b549,3,2025-08-11,Atestado Médico,8.0
+ea4e3617-53f8-482b-8fb8-64e4f1738856,4,2023-04-17,Atestado Médico,8.0
+102efde5-a5cc-4bf7-b8ab-854c9c2e58de,4,2025-07-07,Atestado Médico,8.0
+e8cda0cc-76da-4ca0-92e8-2f38a2a9d4d8,5,2022-08-11,Atestado Médico,8.0
+688613db-a634-4e78-8d5c-55c7b379cb1e,5,2025-07-10,Atestado Médico,8.0
+f23e323d-0b9b-4934-a3c8-6d301dde7969,5,2021-11-04,Atestado Médico,8.0
+7e1ca5a1-fef5-48a6-8dea-d6450986bbeb,5,2023-10-08,Atestado Médico,8.0
+e3236d1a-3c1b-4acc-98e1-93311dba1267,5,2021-11-20,Atestado Médico,8.0
+7421ff46-637e-4b01-a2ba-e10e899ca782,5,2025-08-07,Atestado Médico,8.0
+be3e6e57-f30a-4e32-aba4-fc035efa9c5b,5,2024-11-20,Atestado Médico,8.0
+6b4be411-8a4a-4e2d-b22b-5b98b24cc64f,5,2025-04-13,Atestado Médico,8.0
+278ed00d-ba02-46ef-be05-5787965befdf,5,2026-03-25,Atraso,1.7
+19597b5a-a7a8-4636-aa35-df59e2aa7a5d,5,2022-04-08,Atestado Médico,8.0
+687a4850-9d9b-4231-bd45-d8efd56ce8ea,5,2025-03-24,Falta Injustificada,8.0
+08601833-479d-4cda-b396-ea37f065c817,5,2023-01-06,Falta Injustificada,8.0
+71818dcf-379e-4c6e-9edb-0d3cb0b63bcf,5,2026-05-27,Atestado Médico,8.0
+dafec8a9-3c71-40be-b357-956071d79665,5,2021-07-01,Atestado Médico,8.0
+af88bdec-fb1e-443b-996f-4dfa5cd8fe1a,5,2021-08-05,Atestado Médico,8.0
+fa53e34d-e6d5-401d-8b62-1d415e09a9ee,5,2023-02-26,Atestado Médico,8.0
+65ec7acd-0f80-45f5-9bd2-0c98a5135ea0,5,2025-10-19,Falta Injustificada,8.0
+1f45dbfd-f7dc-47e0-b097-4b2b46a02a9b,5,2021-08-25,Atestado Médico,8.0
+74685b98-d2fe-4fde-9918-b3e5f2f25eef,6,2023-04-23,Atestado Médico,8.0
+a446be72-364c-411a-a9ab-364a1777e8cb,6,2023-05-26,Atestado Médico,8.0
+0577aea9-f899-4246-98de-8ebba3b5cece,6,2023-09-18,Atestado Médico,8.0
+3e5a87e3-5560-4b22-896b-5edb0cf2b69b,6,2022-02-11,Falta Injustificada,8.0
+90882eaf-c977-4598-a03c-8c25fd235def,6,2022-09-01,Atestado Médico,8.0
+c3e15a85-d46e-4104-9190-6f5034885a46,6,2024-04-10,Atestado Médico,8.0
+3748967f-961d-43ba-b508-43f08de08fc2,6,2023-08-10,Atraso,5.0
+541c7a86-3ba5-4d2f-9ea4-5c19d0243d72,6,2025-09-28,Falta Injustificada,8.0
+e68933a9-c9e4-4e8c-a5c6-1c45c63d04ee,6,2022-04-22,Atestado Médico,8.0
+dbc080fd-46fb-4bf3-80b9-d4a3989240ac,6,2022-04-02,Atestado Médico,8.0
+21472a15-fcce-46f6-a50a-4578fbe94499,6,2022-04-12,Atestado Médico,8.0
+2cabd7e7-cc6b-46e5-802a-df9c8a4b8f7c,6,2021-09-27,Atestado Médico,8.0
+06998731-ddcf-4766-a93b-12cd1c24220e,6,2024-09-18,Atestado Médico,8.0
+ca3c6f5f-5bb5-440c-83cd-e2e321bddb41,6,2026-03-07,Atestado Médico,8.0
+52e2afd9-96bf-40ab-bce9-15e7c9d6a63b,6,2023-06-11,Atestado Médico,8.0
+0d6a05b3-43ef-4016-ac9b-662e040a3aae,6,2024-10-09,Atestado Médico,8.0
+86ad8a8c-6bc4-423e-bde1-3c1b20733f6d,6,2025-02-16,Atraso,2.7
+79eb4168-1045-46e5-bee3-eb791d181ee9,6,2026-06-01,Atestado Médico,8.0
+83639007-5cae-4610-872c-1fe372c22a16,7,2025-10-21,Atestado Médico,8.0
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,7,2025-11-13,Atestado Médico,8.0
+0b19f88e-9d77-445e-b206-c26938b77c07,8,2024-08-25,Atraso,2.8
+ddf275eb-e8a3-4341-8881-9065ba2c98ce,8,2022-07-03,Atestado Médico,8.0
+75424646-4d37-4539-857d-d3b3a8addf36,8,2024-10-23,Atestado Médico,8.0
+0f9240e1-07f9-4d05-b6ca-6b8ba4b1f991,8,2021-02-15,Atraso,7.3
+66d06371-d8e8-4ebb-ba9e-8eefffa361be,8,2023-09-06,Atraso,7.3
+7d824264-1ba3-42e7-afa4-15e56d204496,8,2024-11-14,Licença Paternidade/Maternidade,8.0
+12d0498d-718d-4d05-a8e2-2743b65feea9,8,2024-02-20,Atestado Médico,8.0
+9bb96155-5275-4b94-94ae-af5ce63658c9,8,2021-12-16,Atestado Médico,8.0
+466772ce-204e-478c-90d0-8d1125f934bf,8,2021-06-27,Falta Injustificada,8.0
+8c611654-95da-45c1-a211-50f99fd34579,8,2023-07-20,Atraso,7.6
+fe9fecaa-6182-4347-933f-5a72b64fa54a,8,2026-08-11,Atestado Médico,8.0
+7426b193-4b7e-4b3c-87d2-92a698eeac2b,8,2024-05-14,Atestado Médico,8.0
+1963c26d-6e21-4b09-9afd-4015816bcb9f,8,2022-10-01,Atestado Médico,8.0
+da509fed-1d4a-4d81-b3a7-d0e0cb08587d,8,2024-08-27,Falta Injustificada,8.0
+c4dabddb-e0b1-4aba-a6a2-7967a79b44b6,8,2026-06-20,Atestado Médico,8.0
+370bc063-dd90-479e-b888-f6ed8d244e3e,8,2023-06-14,Atestado Médico,8.0
+3a7e8e14-e359-4ee1-b399-1a476e191042,8,2024-12-10,Atestado Médico,8.0
+74188109-d3d1-4f0f-96c4-38e469efafb1,8,2022-06-23,Atestado Médico,8.0
+18578baf-bac7-42b9-aa7e-4c3666132e69,8,2023-08-20,Atestado Médico,8.0
+aa448259-5001-4b7b-ad40-67f450032b35,8,2025-10-24,Atestado Médico,8.0
+2713582c-f41e-43ac-9fd2-31094140752c,8,2022-10-07,Falta Injustificada,8.0
+112fa612-7969-4ed2-ac48-bf55afd380c4,8,2022-03-10,Atestado Médico,8.0
+17dded81-15da-405c-94ef-00aa175a81ec,8,2023-03-25,Atestado Médico,8.0
+bd21bc11-be9d-41ee-98b8-72456e8f75a1,8,2025-11-09,Atestado Médico,8.0
+8e6e5003-214f-4f12-8fd0-1cbd5f65c8ce,8,2023-10-13,Atestado Médico,8.0
+8fc42092-f4e5-49e5-9622-93480f5ae9d3,8,2021-09-02,Atestado Médico,8.0
+1f4a8ca1-ab85-4d59-9463-adc78fca7b6a,8,2022-05-27,Atestado Médico,8.0
+aa53c19c-dfa4-4b9f-9a85-6750692ac139,8,2023-03-19,Atestado Médico,8.0
+de3b496f-6c45-46f6-8012-a0fff0ede303,8,2024-04-12,Atestado Médico,8.0
+f7e8f8e5-0d2b-41ef-b897-6ec5ea74bb18,9,2026-07-19,Atestado Médico,8.0
+5a057c11-4ffc-46b1-99b4-79d449a214ae,9,2026-02-26,Atraso,7.9
+36760ce5-81e5-49f6-93f2-77cc1a85910d,10,2023-07-15,Atestado Médico,8.0
+39681c81-7b70-43b8-a81f-dec3279c658a,10,2025-08-19,Licença Paternidade/Maternidade,8.0
+d86a6460-59a1-420e-9bb4-3332d8e7012f,10,2024-12-14,Atestado Médico,8.0
+c33a1f6c-1d69-4fba-9e18-7b248e676a01,10,2023-06-17,Falta Injustificada,8.0
+cea60f4c-39e5-4ff0-92f8-37d447503f1d,10,2026-08-03,Falta Injustificada,8.0
+f97be2dd-8f9b-42ae-985c-16bd6dda4f8d,10,2023-09-09,Atestado Médico,8.0
+9d132363-9f29-4a8b-9184-6c39c4767556,10,2026-03-14,Atestado Médico,8.0
+06b89231-8e86-4f3c-a487-eeabaccb461a,10,2025-01-07,Atestado Médico,8.0
+d4578ad9-a867-4096-add8-77c89be71737,10,2024-09-14,Atestado Médico,8.0
+2e2fbf77-0769-49d6-8477-7442b18753e6,11,2026-07-15,Atraso,3.5
+4f199ec0-c32d-4526-b3e4-110a45f50c52,11,2025-08-10,Licença Paternidade/Maternidade,8.0
+01902620-59dc-4bd0-96fe-bfb9ebe9e207,11,2023-02-08,Atraso,5.3
+90fa6b57-24ac-4130-9eaf-528d2e709838,11,2025-11-03,Atestado Médico,8.0
+2451e5a4-11d0-49b2-a699-cd99a847bce7,11,2026-04-11,Falta Injustificada,8.0
+07d924ce-f8c8-4fae-a217-8f84bdb025ff,11,2026-01-30,Atraso,6.4
+3712f2d1-87cd-46a1-bf01-2e32177d6e7e,11,2025-11-09,Atestado Médico,8.0
+5744f596-7422-4167-ab7a-2460604e46cb,11,2022-10-22,Atestado Médico,8.0
+b8ba8368-4fc7-4768-9ebb-cca5284bf962,11,2025-07-24,Falta Injustificada,8.0
+914dcfae-f100-43a7-86de-b2f0530ac1c7,11,2022-08-01,Atestado Médico,8.0
+0d77c5a0-e222-46a6-95bf-be9798a21f1c,11,2025-07-23,Licença Paternidade/Maternidade,8.0
+9e2aa4ac-c122-45b3-a84c-03d227d415b6,11,2025-08-30,Atestado Médico,8.0
+45a88829-14e2-46e5-ac89-36bc0cbd3c03,11,2022-04-05,Falta Injustificada,8.0
+7c54535f-6c8c-4b6a-a974-d079716fda0a,11,2023-10-09,Atestado Médico,8.0
+45ee432d-6a07-4213-b129-cec79b69554d,11,2026-06-18,Atestado Médico,8.0
+1d2324e6-8329-40b7-8143-f426372f871a,11,2024-07-05,Atestado Médico,8.0
+4882d73c-1c63-45ab-ae0e-d1e8585d3f86,11,2022-03-24,Licença Paternidade/Maternidade,8.0
+7c93f6cc-97d7-4560-adb1-4670ad9fb00d,11,2025-04-15,Falta Injustificada,8.0
+0ba078e8-4ef4-42c1-aac9-331686e52753,11,2024-02-01,Atestado Médico,8.0
+996d5c50-fc04-4168-a52f-fb493873e57f,12,2025-02-09,Atestado Médico,8.0
+4d29d1ab-3455-42f7-81f7-c7ec0e0630cd,12,2025-09-07,Atraso,3.3
+2321d1e1-c471-44c0-b613-6e15f200c261,13,2022-06-21,Atestado Médico,8.0
+53ffd3a2-4a19-4501-8169-b9fcc3a00c6f,13,2022-08-12,Licença Paternidade/Maternidade,8.0
+bf3c5140-7f54-4511-81fa-964e1eb74b56,13,2022-03-24,Atestado Médico,8.0
+61554667-2112-407c-acfa-55b06e3f683a,13,2025-11-23,Atestado Médico,8.0
+8011316b-3ae8-4926-b423-ccde88575117,13,2024-07-05,Atestado Médico,8.0
+ce6322b6-ab05-447f-9556-b37d8f0881ee,13,2026-05-26,Atestado Médico,8.0
+dc9c96de-65a6-44c2-9273-8a235aaab32f,13,2023-07-16,Falta Injustificada,8.0
+04cc3ede-6fac-4673-8ad4-5230bdf66ba5,13,2024-06-18,Atestado Médico,8.0
+dcb33df3-13ee-4dc6-abd1-4d2c75b27455,13,2024-04-19,Atestado Médico,8.0
+92ca525a-6de5-4332-9364-f3d05024bdc6,13,2026-08-10,Atraso,2.9
+6aedfdc7-a3e0-4309-b5a1-b94967884209,13,2022-05-29,Atestado Médico,8.0
+0556daea-67b0-4283-9d7c-00984a1dab32,13,2022-12-05,Atestado Médico,8.0
+cd2372c2-2bff-417b-9324-01fcf758dce2,13,2026-08-11,Atraso,6.8
+d4ffa666-75c8-490d-9e3d-750df296d9f0,13,2024-03-09,Falta Injustificada,8.0
+168fae12-5ca2-40c9-ab76-07c9b08a4895,13,2026-01-03,Atestado Médico,8.0
+3e49fd09-1b19-48b8-9830-20816fcc57dd,13,2023-02-21,Atraso,6.2
+862268d1-6683-4107-96c0-44d06f887f28,13,2023-05-21,Falta Injustificada,8.0
+4f6e274b-deda-4027-a550-f74a1422373f,13,2025-12-30,Atestado Médico,8.0
+5543fc3c-38b8-424e-96ea-57b3beed10b6,13,2022-02-17,Atestado Médico,8.0
+82af085c-138d-494c-ab0a-beddc77444cb,13,2024-02-11,Falta Injustificada,8.0
+828c37e7-87d5-47be-9d30-d990a21b0307,13,2021-11-28,Falta Injustificada,8.0
+5970a859-c6b6-44ad-a7ea-8d5a31a3ac4d,13,2022-04-11,Atestado Médico,8.0
+d1a69d87-f54e-4019-ba35-844e59e1ac09,13,2025-09-18,Atraso,7.8
+3c7c1d85-25cf-4041-90a6-43fea53bc024,13,2026-04-23,Falta Injustificada,8.0
+328067a1-4187-422b-a57d-5e521a5165ca,13,2025-04-12,Atestado Médico,8.0
+c29d782b-2722-496e-9a36-d1ec2c6a6e9a,13,2025-07-19,Atestado Médico,8.0
+2d5972c6-134a-4a2f-a7cf-705cc257cf73,14,2024-08-17,Atestado Médico,8.0
+7e7e7419-a0c1-4035-85d9-5f51f387e1bd,14,2025-07-11,Falta Injustificada,8.0
+c2874f06-9050-47ef-8123-5c9176c5a0dc,14,2024-06-14,Atestado Médico,8.0
+ec955f87-ae5e-4365-b2eb-74749458054e,14,2022-11-27,Atestado Médico,8.0
+a2a2e91f-a49b-4cd9-9082-889be1cde87f,14,2024-08-12,Falta Injustificada,8.0
+dd3f487e-52bd-4661-9fe0-a8c7fc8d5b93,14,2022-06-24,Atraso,2.9
+26a524e3-50ee-4a92-a091-51e0f891b0c3,14,2023-02-04,Atestado Médico,8.0
+71348c2a-780b-4657-917b-355b70944bdb,14,2024-12-13,Licença Paternidade/Maternidade,8.0
+46510367-cbdc-4318-8d85-a3d2a1a27485,14,2024-06-19,Atestado Médico,8.0
+81e0d489-5a18-42a3-8e61-4bcd97674900,14,2026-03-04,Licença Paternidade/Maternidade,8.0
+73b0a091-7634-4169-8f76-e38812fe28bf,14,2026-08-07,Atestado Médico,8.0
+d4ea120a-5e65-4654-8e90-58b609a0a0f6,14,2026-03-03,Atestado Médico,8.0
+dd3f7d7e-a508-4c95-93a4-a492497de16d,14,2023-11-14,Falta Injustificada,8.0
+9d713084-171d-4bf9-9af4-81a7fa34d2e8,14,2025-09-05,Atestado Médico,8.0
+7674456f-626d-419d-81cf-325298159d6c,14,2024-07-15,Atestado Médico,8.0
+cab4923b-f448-4385-8de7-ad6c949077c2,14,2025-12-24,Falta Injustificada,8.0
+7321bf6b-0a80-46ec-a558-2e16bd29ede9,14,2024-06-25,Falta Injustificada,8.0
+a6ded1d8-9258-47b7-8f50-1889e8b77f7b,14,2023-01-03,Falta Injustificada,8.0
+79c2d2e4-9ae1-4991-924f-93ff30307633,14,2026-03-09,Falta Injustificada,8.0
+0fd6f47e-f52d-4af2-a69e-d4c980599b93,14,2023-09-17,Atestado Médico,8.0
+e62d2d06-cf9b-4558-9a7f-195b73557b9d,14,2025-01-16,Atestado Médico,8.0
+b6dd6257-fb7d-4f1c-97eb-89b1d65e59dd,16,2025-12-22,Atestado Médico,8.0
+2c2cd22b-a568-45c6-812a-1f9b15969802,16,2025-09-04,Atestado Médico,8.0
+7010ed13-b526-422d-bf6c-21f70a0537f0,16,2025-03-26,Atraso,5.4
+85d2d0a6-8629-4b5d-b07d-f251fdb1429e,16,2026-05-11,Atestado Médico,8.0
+5f733a3e-5d28-4aa4-a8a3-97799c1c3517,16,2025-11-26,Atestado Médico,8.0
+68a51c68-632d-4b5e-886b-b6bfeafde7d9,16,2026-03-15,Atestado Médico,8.0
+990f0c5b-adcc-4daf-969f-3ab3c6435300,16,2025-05-20,Atraso,2.0
+a5b5cdc2-a181-485e-8a0a-c6ac0d67d38e,16,2025-02-28,Atestado Médico,8.0
+18318aa3-5466-4d19-90df-997455ab946d,16,2025-11-28,Atestado Médico,8.0
+48bddb3e-62f5-4f2b-adaa-44ca8ed6ad5e,17,2022-06-06,Atestado Médico,8.0
+a8149562-da00-4f16-b946-9bcf4082cbb9,17,2022-04-29,Falta Injustificada,8.0
+df8f4197-9a4a-49b2-a806-133cf6e39356,17,2023-02-04,Atestado Médico,8.0
+952e6abb-14dd-4061-9557-36f8267eddce,17,2024-10-16,Atraso,1.9
+598ddaec-eaaf-4543-a434-a678a9e27ba9,17,2024-04-28,Atraso,3.6
+b2cf952d-a7f3-43b3-b7ba-f55e4f6b58c8,17,2025-12-11,Atestado Médico,8.0
+98549f22-2102-49c9-a457-5bc4a981b098,17,2025-09-07,Falta Injustificada,8.0
+4f40c22f-15b0-4530-b020-e992b576255e,17,2024-10-22,Atraso,3.9
+caaa5bbe-a4bb-4962-a06e-0e1c8f158449,17,2025-12-10,Falta Injustificada,8.0
+ab8cbf97-20b7-4785-902c-e0c154170a17,17,2025-11-08,Atestado Médico,8.0
+bd20563b-f275-45f3-9436-a7a8b3ecb951,17,2022-08-24,Atestado Médico,8.0
+86c1b6cb-e996-40f7-af77-520eff4625af,17,2024-02-08,Falta Injustificada,8.0
+6c645c15-aba3-41cb-a561-e1e917ec889c,17,2025-06-14,Atestado Médico,8.0
+5cd33369-04aa-41b7-9ca0-c428822c4d32,17,2022-05-02,Falta Injustificada,8.0
+36d55494-f37f-450d-ae25-b5ee4f11d8dc,17,2026-06-15,Atraso,4.4
+7c7c404e-c422-403e-b29a-6339577bc55a,18,2024-05-05,Atraso,1.2
+23377bbc-fffe-47c8-b9fe-b99c31274148,19,2025-07-26,Atestado Médico,8.0
+d82c7565-4bb9-47ec-93c1-175427aa7cbc,19,2025-11-19,Atestado Médico,8.0
+c5580bb2-81f7-43fb-99e4-5c6ac9c23e69,19,2025-11-19,Atraso,7.7
+e238fe93-bd17-45e8-95ca-69ab8a2e6a93,19,2026-06-17,Licença Paternidade/Maternidade,8.0
+56363094-a974-41db-89a9-d1c186cac6f4,19,2025-10-08,Atestado Médico,8.0
+218c6e1c-9e37-4f7a-842c-bc39e05b46c5,20,2026-02-14,Atraso,4.8
+29890880-277d-4be9-a070-b6a198e52499,21,2023-09-10,Atraso,3.8
+c566aa81-b15e-44f6-94d3-07952e4bebc4,21,2024-05-31,Atestado Médico,8.0
+2a60c652-e714-4668-8f1d-7d3a9feefdff,21,2024-01-14,Atestado Médico,8.0
+692e07b6-0b2f-4d5c-b00b-5d5fb89f72f3,21,2025-11-25,Atestado Médico,8.0
+3ccec76c-b836-4448-ad26-1ec55d42b9e9,21,2023-11-12,Atestado Médico,8.0
+48f1096d-9c4f-4b46-b1b7-01aaf836f571,21,2024-07-16,Atestado Médico,8.0
+72ecf16e-c8a7-43e9-bfa0-16c2c09cb506,21,2023-06-21,Licença Paternidade/Maternidade,8.0
+4f3949a8-3d3a-4582-88b4-f4743be79df4,21,2023-08-20,Atestado Médico,8.0
+78116802-c8cc-4cfe-8f01-f944f7315749,21,2025-03-22,Atestado Médico,8.0
+5e2ad32d-31ab-4b56-95c9-fdc7e76adca9,21,2024-09-18,Atestado Médico,8.0
+fc043f08-9207-4158-b277-1f63ada58417,21,2024-01-21,Atestado Médico,8.0
+48223120-c4f9-4ccd-b630-a8a770cafdd8,22,2024-12-19,Atraso,2.4
+87079ad4-80be-4e35-a1c2-645ac7332304,22,2026-06-15,Atestado Médico,8.0
+d11fc8c0-297c-44ff-b75d-599f6b2d5b09,22,2026-02-03,Atestado Médico,8.0
+236e1608-9acb-494a-8d1f-5318331f63fb,22,2024-11-28,Falta Injustificada,8.0
+a4244f23-0d5b-47cd-8000-35f0df7d0dd7,22,2022-12-18,Atestado Médico,8.0
+8df661da-5f07-41a5-9fc6-20ce7b07fd31,22,2025-02-01,Atestado Médico,8.0
+d88c656d-b61e-4fdb-9a43-5206ef2ddcc4,22,2023-01-05,Atestado Médico,8.0
+48f9e3d0-1fea-41e0-99e6-04b38412a335,22,2026-05-12,Atestado Médico,8.0
+45d5a68d-290a-4abb-835b-9fea1578d709,22,2023-02-09,Atestado Médico,8.0
+25b8a42f-836b-45c7-a7c2-25da73069588,22,2023-08-23,Atestado Médico,8.0
+f24823ab-177a-4a5f-affe-33b3d4bf7a4b,22,2026-02-21,Atestado Médico,8.0
+737d1fb6-d113-46e0-b8d7-7b9ae916da57,22,2022-08-18,Atraso,6.5
+06d3db93-ee33-488d-997e-6845e27718c5,22,2025-02-21,Atestado Médico,8.0
+808389c8-657e-41c9-8da2-3e5c6a36af18,22,2021-10-25,Atestado Médico,8.0
+fe9936a3-62db-4850-bc5b-f3a75fbbf0b1,22,2023-05-10,Falta Injustificada,8.0
+07374c86-397b-4f51-9ffa-46ef14e4180c,22,2026-08-13,Atestado Médico,8.0
+d6d441cc-195d-42f8-ae4a-9b5d519554e3,22,2022-08-12,Falta Injustificada,8.0
+ca97ebf5-55d5-46af-a663-d2cdb6f6dbf1,22,2022-07-13,Atestado Médico,8.0
+4970ed9a-09ce-4cfb-a339-ba1925637cc3,22,2024-10-30,Atraso,2.8
+b231c60b-78f2-4e6b-946b-415deada79a3,22,2022-10-12,Atestado Médico,8.0
+b49e04cc-c243-49e7-a387-eaf6d4c3a832,22,2022-06-02,Atestado Médico,8.0
+01582463-9d87-46a0-b2d7-8bdd781799ff,22,2025-07-04,Atestado Médico,8.0
+41843b03-04dd-4054-9448-23f7e7e646c7,22,2021-12-11,Atraso,1.9
+8c7e6f42-2646-4af9-95c0-244d3735262d,22,2023-10-23,Atestado Médico,8.0
+871c0884-9bdf-40f2-ba2c-0f19f0b2a5d1,22,2026-03-25,Atestado Médico,8.0
+49c10669-c6b3-4fe6-9c76-bdf66c5a6c93,23,2025-07-24,Atestado Médico,8.0
+0c394ec7-1f31-4405-8d18-3eba3cd5fd7f,23,2023-11-01,Falta Injustificada,8.0
+cb3cf8ca-a392-4731-ab79-afcc3d0a5f0c,23,2024-09-20,Atestado Médico,8.0
+1c612ec2-1014-4131-b505-65f59f708368,23,2025-03-26,Atraso,1.4
+98c3e3ca-7ff4-4ec6-a7b7-b4c6d6312a80,23,2026-02-08,Atestado Médico,8.0
+83efa9f3-a1c7-4c8a-8435-1b64893ad232,23,2024-05-19,Atestado Médico,8.0
+24c173b9-b7f2-4572-bdef-a84993364f7e,23,2024-02-07,Atestado Médico,8.0
+9d642932-0066-453d-ade2-99a14a90cd0c,24,2025-04-14,Atestado Médico,8.0
+6aa42c9f-9217-4475-bd95-9e3f5a5226e6,24,2026-03-17,Atestado Médico,8.0
+15eacbcf-ab10-41ce-aa14-3cd82ff3cde4,24,2025-01-15,Atestado Médico,8.0
+11536e99-5c50-4720-b982-f4e08603156a,24,2025-06-19,Falta Injustificada,8.0
+81e03a5e-8b48-4496-86ab-d4e7f4124360,24,2025-09-09,Atestado Médico,8.0
+8ddce719-81f3-4dd4-bd03-4adac9525185,24,2024-05-01,Atestado Médico,8.0
+785ac5d0-df92-4621-a3f4-c69d0534a101,24,2025-04-17,Atestado Médico,8.0
+fb25664d-630a-4767-a2bb-522b0b251279,24,2025-06-09,Atestado Médico,8.0
+04287378-bf50-43f4-80ef-39355f90bed6,24,2024-08-24,Atestado Médico,8.0
+5844f9fc-114b-4547-89dc-72b85b6a8102,24,2025-10-01,Atestado Médico,8.0
+a0d572c8-a837-4e68-bba2-05ca3dba6da8,24,2024-02-24,Atestado Médico,8.0
+bc3536df-94f7-4dba-8581-1d2d1a89b71e,24,2026-01-24,Atraso,6.5
+0b599562-2227-419f-951f-f086c1b5b5ca,24,2026-06-16,Atraso,5.6
+d0421dfa-56ab-487a-8bc7-8e815a304528,24,2024-11-14,Atestado Médico,8.0
+c775e395-d494-45f0-acd2-a404a48e40f1,24,2025-04-24,Atestado Médico,8.0
+b20507bb-fb16-4757-b6f1-86abaf475b49,27,2025-10-12,Falta Injustificada,8.0
+cfbe4fe9-2ea9-4542-a1b9-70d07a8104de,28,2026-06-14,Atestado Médico,8.0
+c6b469ef-b74e-4a93-9027-5b532285b2ef,28,2024-10-30,Atestado Médico,8.0
+4b1f0d7b-0977-4513-b52a-7d25f1901b7e,28,2025-11-26,Atestado Médico,8.0
+33107475-ca86-4225-8b36-e356339b77a8,28,2026-07-11,Falta Injustificada,8.0
+eef16694-50ca-432d-8aba-590ee2c328aa,28,2025-10-09,Falta Injustificada,8.0
+fd372539-65f2-42f9-83f0-2dc74f612217,28,2024-09-25,Atestado Médico,8.0
+40d92bce-7930-4a20-8b04-0f49d0be73ee,29,2025-11-20,Atestado Médico,8.0
+30ec2796-a59b-457f-80d7-ac73095ffa81,30,2024-02-26,Atestado Médico,8.0
+c7e53bbb-dcb5-4c53-9b62-a8df493e904d,30,2024-04-28,Falta Injustificada,8.0
+54f90429-a7de-42cc-9da4-f4a70c3ce284,30,2024-09-27,Atestado Médico,8.0
+5e368127-cca1-445c-9fdd-980a45f18619,30,2025-09-20,Atestado Médico,8.0
+be4969ec-6667-43bb-a3b5-63606fdc0bad,31,2025-01-06,Falta Injustificada,8.0
+62fb26d7-f4db-4a07-a506-f6707092947d,31,2025-08-15,Atestado Médico,8.0
+7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0,31,2025-06-08,Falta Injustificada,8.0
+ec9f9c54-5e0a-42ab-bf5d-b163b12b6680,31,2024-10-09,Atestado Médico,8.0
+cd180a82-4447-4eab-84ef-4324cc1b4157,31,2025-03-21,Atestado Médico,8.0
+14348f62-6cac-428c-ba22-006515260718,31,2025-05-13,Atestado Médico,8.0
+d284f54e-febe-40db-9a3a-61036e3c4532,31,2025-08-23,Falta Injustificada,8.0
+523ae993-4b34-46bc-8ba4-35cc2e326567,31,2025-02-25,Atraso,1.7
+a9320094-53f2-4f11-947f-65701a43db54,31,2025-11-30,Licença Paternidade/Maternidade,8.0
+9a45693d-7227-490e-8e76-833a4baf0f5e,31,2024-04-08,Atestado Médico,8.0
+b0946d2a-2aa9-4b43-ad15-f16fb7b8c1a5,32,2025-10-12,Falta Injustificada,8.0
+0ad7c9a2-7277-46ec-99fe-fbbc71a3fad2,33,2023-10-31,Atestado Médico,8.0
+5a4153b3-e95f-476c-9eba-c186ba108217,33,2024-11-14,Atestado Médico,8.0
+46494296-6f58-42c3-bf86-cc319d66e815,33,2024-06-14,Atraso,6.8
+f2a9dc8a-ca9e-4a62-bae3-114ba3b442bd,33,2024-10-14,Atestado Médico,8.0
+a334058a-abd2-4512-9335-e5db0eaf04b5,33,2024-11-18,Atestado Médico,8.0
+cd14a03e-8359-4af6-9d01-f55f67fd64c4,33,2023-01-31,Atestado Médico,8.0
+f3ea0184-28f4-43ce-aded-da80bff9507d,33,2024-04-21,Atestado Médico,8.0
+9b89e5cb-d942-444c-a48d-31ec07f8d4f0,33,2024-12-11,Atestado Médico,8.0
+08e895d7-702c-4821-8804-0fb7ad973b67,33,2024-04-21,Atestado Médico,8.0
+c74cc890-3c6a-4174-9136-34a520509c62,33,2026-04-13,Atestado Médico,8.0
+6202bee6-5cb5-469c-9dc7-b3e6a52964ff,33,2023-12-25,Atraso,3.6
+9ae77eab-084a-4780-9136-f1f8f31046dc,33,2023-05-29,Licença Paternidade/Maternidade,8.0
+f2e6195f-732e-4016-add7-02c92747b93c,33,2026-05-27,Atestado Médico,8.0
+c359810a-71a6-414c-9f3c-44dc5ef787b8,33,2025-03-18,Atestado Médico,8.0
+878aaed9-233f-4c82-92ec-89af13aec376,34,2022-01-14,Atestado Médico,8.0
+a6499cdc-507b-4072-a5e5-8f345df06e8c,34,2026-03-11,Atestado Médico,8.0
+1d0af7f7-f5e4-4471-bfe6-8c9c4758367b,35,2023-04-26,Atestado Médico,8.0
+7fc15858-2fa0-4842-bc55-300b06a241af,35,2025-03-20,Falta Injustificada,8.0
+8fc9c86b-e9dd-4bf5-a311-9aca848af440,36,2025-11-20,Atestado Médico,8.0
+42a259a6-c664-4285-8303-cbc11e2595b8,36,2025-11-09,Atestado Médico,8.0
+ff11c8ba-36ee-4640-b23e-f466b43bd27f,36,2023-10-21,Atestado Médico,8.0
+ea9e5c8d-b1a8-471f-891b-90e99ca3fbb3,38,2024-06-02,Atestado Médico,8.0
+1f652a87-333e-4344-bdbf-4bc1ffa623d0,38,2026-06-30,Atraso,4.9
+73b911d8-12f5-431a-9a52-d2ee22bf18f5,38,2022-12-24,Falta Injustificada,8.0
+71f2ce8f-b69f-48c3-a60f-d4202c33350c,39,2025-02-21,Atestado Médico,8.0
+ae92ea71-cf7d-4b43-9679-742fff4c96d6,39,2024-12-25,Atraso,7.1
+51d08109-fc90-4838-9874-1408f7b217c7,39,2026-02-04,Atestado Médico,8.0
+109fd8ee-b5a4-4200-98f0-dd23aaf78c67,40,2026-04-17,Atraso,1.4
+e42e5037-4a55-4ea0-8acb-be098ccc9cea,40,2023-11-12,Falta Injustificada,8.0
+b6391f04-2852-4385-99f2-dd0d4cc9f5f2,40,2025-08-13,Atestado Médico,8.0
+a3404f08-b341-41b8-ad65-22b4b5a5f8e6,40,2024-01-01,Atestado Médico,8.0
+823dd107-5c8a-4066-8b2f-afa32c913a7c,40,2024-03-22,Atestado Médico,8.0
+3373730e-fc31-4597-9f11-9c0f3967e60a,40,2022-10-31,Atestado Médico,8.0
+ca55e38b-3c9a-4e10-a38d-6f44cac4d0eb,40,2025-06-28,Falta Injustificada,8.0
+8dd4595b-5c63-46f3-86ba-8cd37e7838c9,40,2025-02-04,Atestado Médico,8.0
+cdbcc653-77a7-48b7-9e70-f65f9280c5aa,40,2023-06-11,Atestado Médico,8.0
+9ca8a5c4-2138-4fe0-8d38-bbd8fba6abf7,40,2023-02-12,Licença Paternidade/Maternidade,8.0
+4f2dad3f-10d4-4e39-9612-37c9e25df9a8,40,2025-12-06,Atraso,4.4
+b807d78a-b788-45d1-bfe5-75f665edcfe3,40,2022-11-09,Atestado Médico,8.0
+c4e7f7dd-6929-4e73-8693-fd9d7a89cbeb,40,2024-03-19,Atestado Médico,8.0
+12e153a6-932c-4e01-92c6-5ee468d0a2a8,42,2026-02-02,Atestado Médico,8.0
+a4704d48-5128-49b1-b8ed-e0ca20156a72,42,2024-09-25,Atestado Médico,8.0
+ae1b9f69-7740-4831-b331-874912fc7a87,42,2025-07-24,Atraso,2.6
+e0c1ff1e-20da-4972-9832-1ee48471b4b0,43,2025-05-03,Atestado Médico,8.0
+a3c988e4-8d22-48e6-87bf-4fbcd43cdd6d,43,2026-06-30,Atestado Médico,8.0
+f75d1e3c-c48d-4650-ae95-22d696792482,43,2025-09-05,Atestado Médico,8.0
+e9247069-80bb-4e52-aec0-126921084dd9,43,2025-08-19,Atestado Médico,8.0
+1fc905f8-d4d6-4735-8e2f-8958de431e06,43,2025-12-23,Falta Injustificada,8.0
+2a26f770-4ddb-4b36-a72c-058884a2576c,43,2025-10-18,Licença Paternidade/Maternidade,8.0
+b596ca7c-ef4a-4a88-9299-e5052976aab2,43,2025-04-25,Atestado Médico,8.0
+f0df1684-f28e-4122-9894-f7f139b86bb2,43,2022-05-04,Atestado Médico,8.0
+d88f1c94-48b7-43d5-a519-dd7e84d67c4f,43,2025-08-10,Atestado Médico,8.0
+a29319fa-3240-47a1-8027-ab7d143029a9,43,2025-11-18,Atraso,6.8
+200b2903-4642-4c45-8d03-f17af4d375c1,43,2023-09-10,Atraso,1.2
+8892042f-9d4b-4bf9-8d85-e9c7a0017720,43,2023-09-22,Atestado Médico,8.0
+2b2bb8e9-a417-4093-80a8-a23d17eaec83,43,2026-02-18,Falta Injustificada,8.0
+27794685-94a5-4fde-b10d-27c89780c215,44,2025-02-18,Falta Injustificada,8.0
+b87b6384-9fdd-4e2e-a8a2-b7ad2bd3cdcd,44,2025-03-13,Atestado Médico,8.0
+d7b00bdc-566e-4cbe-9aea-622fe6e987ca,44,2023-04-07,Atraso,2.3
+d342af08-0a8b-45b4-9049-4583ec86a890,44,2024-01-13,Atestado Médico,8.0
+0ba36279-14cb-4564-8743-7c3bdd20c3bf,44,2026-05-28,Atestado Médico,8.0
+93a74792-c561-48dc-a436-4fcdf2d3f761,44,2025-06-23,Atestado Médico,8.0
+c4576cc3-35f7-49bc-a6b0-745843c07d43,44,2023-08-15,Atestado Médico,8.0
+a394ed54-9e3c-4a88-aaa5-6e6d92779574,44,2024-01-10,Atestado Médico,8.0
+a08dd21b-e395-4cb1-bf7f-6c0a07c0d116,44,2023-05-27,Falta Injustificada,8.0
+f4e7069a-a454-4937-8a27-ebf28baaf744,45,2025-10-14,Atestado Médico,8.0
+ce000af0-3eb0-4181-bba2-45884d560a3d,45,2024-01-07,Falta Injustificada,8.0
+4c24a053-67f5-4e02-af5b-8f47ceae71cf,46,2025-09-18,Atestado Médico,8.0
+0f5675f8-b048-4aa1-92ae-5c22741b77f5,46,2026-02-04,Atestado Médico,8.0
+7bf7e1d3-6a66-4fce-b089-fc6d2877f5d9,46,2024-10-30,Atestado Médico,8.0
+9b4e164b-5716-4c2e-b43a-da2a76e5ae78,46,2022-10-09,Atestado Médico,8.0
+b7e6a14c-dc8a-4922-9005-680f24c778a5,46,2025-02-26,Falta Injustificada,8.0
+dc5be7d1-fcef-4972-bbf4-83ce51beb80e,46,2024-07-02,Atestado Médico,8.0
+2179e3f0-6612-4ab4-b9b2-1e6e586a346a,46,2024-08-23,Atestado Médico,8.0
+8fc85fc0-83d5-4ceb-9edb-b8eec2baf0e0,46,2021-12-16,Atestado Médico,8.0
+776abf09-3de2-4859-91b1-943c1b2ededb,46,2021-08-06,Falta Injustificada,8.0
+3f779cae-7318-496d-8479-06121f5d988f,46,2022-10-02,Atraso,2.1
+4a4b5563-0cf4-47ef-98c8-a61624108e9a,46,2021-07-25,Falta Injustificada,8.0
+9d896047-dd39-4793-a257-a4a2f204be89,46,2021-12-03,Atestado Médico,8.0
+dd84cacc-f672-4464-bf8e-a40a6b0ae0e3,46,2024-01-22,Atestado Médico,8.0
+53d2d56d-d040-4587-a8e2-13bce6fdd7af,46,2025-12-22,Atestado Médico,8.0
+500e15c0-b89b-4f7f-93e3-4c35ef0a573d,46,2025-10-05,Atestado Médico,8.0
+7f8e5483-28ca-4a1d-835b-ec2c3098f7b2,46,2026-06-15,Atestado Médico,8.0
+7faeb748-7781-421e-83c5-01cbfef7d9ea,46,2025-12-18,Atestado Médico,8.0
+05eee1d4-7f53-488e-8efc-8248e10b1a47,46,2025-08-26,Atestado Médico,8.0
+8164ceec-64ab-451b-b1fa-c6e7170d7507,46,2024-01-26,Atestado Médico,8.0
+3713b466-3da0-4476-b778-c676750d112e,46,2023-06-04,Falta Injustificada,8.0
+0cf0374c-0c74-4c0f-9a57-553995560a2d,46,2022-04-14,Atestado Médico,8.0
+e1e0fffc-98f6-4d7f-beb1-62f14806f804,46,2024-11-16,Atestado Médico,8.0
+78786140-ac2a-4f71-a77d-95f1d7c4fe9c,46,2025-10-29,Falta Injustificada,8.0
+d8e049de-0217-4a0e-8964-90ab4926ce5f,46,2022-04-02,Atestado Médico,8.0
+e1e89e7e-2249-4f66-ae51-484d1b84edc3,47,2025-01-07,Falta Injustificada,8.0
+c38c1dec-5da3-4a73-ba3d-f7ff43b47ee5,47,2025-01-08,Atestado Médico,8.0
+668c8477-0b95-417c-9dae-1201673ba8bd,47,2024-07-17,Atestado Médico,8.0
+31d4ee09-8fd3-4afc-91fd-fa4f0d18ab95,47,2023-12-12,Licença Paternidade/Maternidade,8.0
+12d2fa06-49e1-4d13-8da0-04955cce5ba9,47,2024-03-04,Falta Injustificada,8.0
+c3affcfe-734a-4ca3-8116-e3fc62e7c1a6,47,2024-12-16,Falta Injustificada,8.0
+fd350c5f-d347-4a3b-879b-c6378cc36f3b,47,2022-12-12,Atestado Médico,8.0
+1e6a6628-9c6d-42d5-ae2e-9af99f8cc29f,47,2021-06-22,Atestado Médico,8.0
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,47,2022-06-15,Atestado Médico,8.0
+56ce4b42-fc9e-4dcb-8b7e-62685f89ed12,47,2023-06-08,Atestado Médico,8.0
+c14565c7-5d98-4115-b05e-eefe8ece1128,47,2024-07-30,Atraso,1.4
+8255da61-9a3b-4319-b2f5-751024eeb4a6,47,2022-05-13,Atestado Médico,8.0
+0b990034-0a4e-4552-8005-1b1066c14dca,47,2022-11-28,Atraso,7.6
+554227de-b6ad-448b-a314-d0c809f64405,47,2025-07-09,Atestado Médico,8.0
+74fd33d1-84f2-4d0f-b947-4bfacdd0b4d4,47,2021-12-27,Atestado Médico,8.0
+83f82f16-e4a4-474c-9b33-e3a42620f9a9,47,2025-07-03,Atestado Médico,8.0
+9cf20859-ee6e-4e72-93f5-91dc23c8afdb,47,2022-08-26,Atraso,3.0
+fd98fe33-6498-4be9-a999-bbef518b2f21,47,2021-11-21,Falta Injustificada,8.0
+4c9a9f24-d7b4-4294-bd44-089d9dd2f9de,49,2026-01-26,Licença Paternidade/Maternidade,8.0
+d40ac5e9-81df-4517-961c-921097fe56c5,49,2024-04-18,Falta Injustificada,8.0
+b56ff8ce-7d66-471e-8847-6c56827c9f8c,49,2022-11-13,Falta Injustificada,8.0
+d0d4ea67-7992-4faa-8cbf-131d901bcdef,49,2022-08-10,Licença Paternidade/Maternidade,8.0
+ac7e937c-54cc-4e2a-9e4c-b287044251db,49,2024-01-06,Atestado Médico,8.0
+956d80e4-6aa2-4216-bada-98f51c0f0bdc,49,2024-11-13,Atestado Médico,8.0
+b9aed8e4-e615-49c8-8bf8-1f864ec3f970,49,2025-10-30,Atestado Médico,8.0
+06d25913-a117-4719-b023-a0eadf41e335,49,2023-03-05,Atraso,4.5
+f791f1e5-43f9-4d6b-b97e-be8798cf1188,49,2026-07-22,Atraso,5.7
+c6b28def-f8d8-47f1-886c-6544a7d4cf50,49,2023-11-14,Atestado Médico,8.0
+b8adad87-3a40-45dd-93df-d9079416e4dc,49,2022-04-15,Falta Injustificada,8.0
+2ba6adb3-7afe-4114-9561-c8130d259caa,49,2024-02-10,Atraso,7.0
+9ea7017c-b89f-4039-a107-cc4686341718,49,2022-02-13,Atestado Médico,8.0
+25d4a0fc-6154-4765-9756-ba9cc64c9647,49,2024-04-30,Atestado Médico,8.0
+08150147-3e00-480e-ae44-1e21d25864f2,49,2021-12-27,Atraso,4.2
+1c221cea-b355-46a5-b2bd-92f29293f705,50,2026-08-11,Atestado Médico,8.0
+504e2687-70e7-4756-84d9-145e30d73df7,50,2023-07-14,Falta Injustificada,8.0
+b0c4a01c-69b7-40fa-a6c4-32f66b352f85,51,2024-10-26,Atestado Médico,8.0
+c66495a7-8077-4e33-a90e-7e6234323ec6,51,2025-08-17,Atraso,3.8
+df70fb2a-78bb-42a5-aba7-42d29c89d374,51,2026-01-01,Atraso,3.9
+0ff1aa9f-ba37-4623-bc5f-d4ddd92f3c1e,51,2023-01-21,Atraso,3.8
+35145890-84c8-4c46-a359-5fa4b4adaf89,51,2024-03-26,Atestado Médico,8.0
+a987b218-ff84-4aef-9336-723b8f964685,51,2023-05-17,Atraso,6.6
+50521700-6077-46a3-8685-abaa7a768555,51,2025-11-16,Licença Paternidade/Maternidade,8.0
+e980f808-75ac-424c-ac55-aef7f4e95734,51,2024-12-28,Atestado Médico,8.0
+5ab28d4a-8bd8-4fcd-97a2-be4e887b03e5,51,2026-04-12,Licença Paternidade/Maternidade,8.0
+b88e830f-de1e-494a-85a1-1f5cad05b912,51,2024-06-10,Atestado Médico,8.0
+b17cfb21-cdbc-4c1c-a4af-e7bdae455cc6,51,2022-11-27,Atestado Médico,8.0
+31383975-7bf3-4a34-9c2d-fa9743ad3d62,51,2024-11-10,Atestado Médico,8.0
+8edec44d-476c-468c-bf1b-e0d0f5141058,51,2023-01-02,Atestado Médico,8.0
+f910abb3-f105-4252-b990-e2c94c6a70f4,51,2023-10-11,Atestado Médico,8.0
+49fc2cd8-c56b-4d4c-8c30-77c4fb756923,51,2024-11-08,Falta Injustificada,8.0
+b47a1c5b-b0b3-4015-b510-2852b4746349,51,2025-09-18,Atestado Médico,8.0
+594b2a3a-7ad4-45a1-9129-950d7d2f4e58,51,2024-08-28,Falta Injustificada,8.0
+cb9faf6d-ef3a-4f27-af06-fccb8f7c1d59,51,2025-05-08,Atestado Médico,8.0
+1f33242d-49ac-4087-8601-5028b8beff3d,52,2025-01-26,Atestado Médico,8.0
+6133a34d-8b0e-4eb1-ad37-1d9e92cf6021,52,2024-08-04,Atestado Médico,8.0
+d1812f77-6500-4423-baeb-cd19e5508ea2,53,2025-12-25,Falta Injustificada,8.0
+cdfb4db9-c5e7-4b23-b461-3f09585abefb,53,2025-11-25,Atestado Médico,8.0
+49a22441-0ac4-4e85-8a5b-1aff257f7595,54,2024-03-13,Falta Injustificada,8.0
+58ab4778-143b-45e3-b6d1-f6bbf48f709c,54,2023-09-07,Atraso,4.6
+41a64fed-a7ed-48d8-b13f-8f8cec8be537,54,2023-11-23,Falta Injustificada,8.0
+33baba88-36c7-46fa-baa4-f052bf519362,54,2026-03-25,Atestado Médico,8.0
+eedaa802-4568-4426-89e0-3e22d3f4a49b,54,2026-02-11,Atestado Médico,8.0
+23245211-4588-4c1b-b238-48498fe069b6,54,2024-05-05,Atraso,7.3
+963a8617-bdab-47e7-9d9d-028e1bf645f6,54,2025-03-19,Atestado Médico,8.0
+ab7a3d1c-0cfe-4683-be11-bafe3d4196fe,54,2025-03-23,Atraso,6.1
+a35055e4-39c5-4df9-87f2-55d6e7ba26ac,54,2024-01-31,Atestado Médico,8.0
+69ce1e4e-19a6-42c9-8d70-0ea43b9b2d45,54,2024-07-30,Atraso,1.7
+19bd4f93-78ef-4666-b7a4-c719548e1f6b,55,2025-09-28,Falta Injustificada,8.0
+01539221-2331-4a28-8550-eca8ae62990c,55,2025-09-03,Atraso,5.2
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,55,2025-05-26,Atestado Médico,8.0
+ef5e4376-a723-4b72-a82b-163a286ed390,55,2025-09-07,Falta Injustificada,8.0
+7a3a10e1-79c7-43a0-a0de-cc3de1721c83,56,2026-05-22,Atestado Médico,8.0
+f6c31218-c183-4315-b30f-8be1a689b424,56,2026-08-05,Atestado Médico,8.0
+a55990e7-4910-4ade-9238-0bf24988e418,56,2026-06-17,Falta Injustificada,8.0
+16e6e5c0-c4cb-494f-a86e-8e630f25477d,57,2023-05-06,Atraso,4.1
+88ffbd40-3b72-486d-92fa-675fa6fd0cb1,57,2023-04-21,Atraso,5.5
+efc9909e-d9af-4e09-b91e-3d6ebd1a8f4b,57,2023-06-21,Falta Injustificada,8.0
+2cd10b9f-ebe5-441f-a9c9-6c52098c60b3,57,2022-08-16,Atestado Médico,8.0
+2d007d05-d66d-4627-a1da-ce6a6afa828c,57,2023-06-24,Atestado Médico,8.0
+ff46a6bf-094d-416d-ab6d-2fedef158d5b,57,2022-08-09,Falta Injustificada,8.0
+7ed17aab-c9b7-49bc-a5a1-6fa9d61169a1,57,2022-02-21,Atestado Médico,8.0
+f64e3dfc-bfbe-4c7a-afc5-97382fb21e66,57,2022-12-14,Atestado Médico,8.0
+e0723d96-4a1a-41f5-ad10-f004df4e713e,57,2021-11-28,Atestado Médico,8.0
+9165f2ed-4c63-4e95-825f-55430997623a,57,2023-01-13,Atestado Médico,8.0
+fba57cc8-edaf-4766-9b78-0ede9a4ffc0c,57,2022-12-16,Atestado Médico,8.0
+fd359f6a-7450-4887-88d9-084655c551fc,57,2023-06-28,Atestado Médico,8.0
+7e710b55-8639-4d41-8b15-bd94a42d0cd7,58,2025-02-13,Atestado Médico,8.0
+d9df0d0e-225a-4d6c-b045-8043e3a68a70,58,2023-11-24,Atestado Médico,8.0
+315c167a-45d8-46ad-b7d0-359e811414f8,58,2025-07-21,Atraso,4.6
+2999394c-54a7-469b-9cd6-6b09cf0e6d2b,58,2025-04-27,Atestado Médico,8.0
+41dc1c60-a5f6-4735-b57b-6b29bb2aa146,58,2026-03-03,Atestado Médico,8.0
+bc92fd81-039b-458c-afaa-be0bb7f60cdf,58,2026-02-11,Falta Injustificada,8.0
+915a1c30-4b86-45a1-8a6f-bff8564cfbd2,58,2023-10-17,Atestado Médico,8.0
+2ced3c0d-3173-44b5-81dd-484aaca58d95,58,2023-11-25,Atraso,3.6
+e5a4983b-a383-489a-9b2c-6ac89c678393,58,2025-03-10,Falta Injustificada,8.0
+83e96ef4-6d7d-45d0-93b5-9af767ce378f,59,2025-05-30,Atestado Médico,8.0
+ab545a15-669d-41ff-9634-725b53f30073,59,2022-04-20,Atestado Médico,8.0
+23ff23d3-fb4f-488a-af4d-d219186b2880,60,2021-12-02,Atraso,5.1
+3f800385-ef92-40b6-92d7-8f107a3a6e96,62,2025-09-08,Atraso,5.6
+3c4b1eec-6231-4e73-82c2-d2eb01bf9e73,62,2024-04-14,Atestado Médico,8.0
+f43ba052-4459-4d6e-80f6-3229725d4259,62,2025-11-16,Falta Injustificada,8.0
+b90ed44b-951c-45d5-8d4c-5280546252e7,62,2025-02-24,Atestado Médico,8.0
+a757cb10-42f5-45b9-82ed-73ce92a81713,62,2025-04-17,Atraso,2.1
+0fe76149-3c7e-4368-b159-48475c0b9b10,62,2022-10-30,Atestado Médico,8.0
+4e8adc4b-7724-4041-9e43-fbd2aaf407f7,62,2025-01-03,Atraso,1.7
+80a52e65-afa2-4559-a7c9-620428e333b6,62,2024-05-29,Falta Injustificada,8.0
+b41c504f-e346-4415-a526-7a2bec50ace4,62,2026-06-27,Falta Injustificada,8.0
+1e0ef546-b0b6-4edf-8f9c-4027c5144d98,62,2022-12-15,Atestado Médico,8.0
+4b87959f-f0cd-4f05-aa87-855ea38295d3,62,2025-04-24,Atestado Médico,8.0
+3818cfd3-3889-436a-9d58-17e85e175b66,62,2026-02-08,Atestado Médico,8.0
+27372b52-7a6a-4107-a231-9050f5159494,62,2023-06-14,Atestado Médico,8.0
+9b11b530-fd24-4c11-bf6b-8cdf74797b61,62,2022-09-14,Atestado Médico,8.0
+8c9aa1e9-b3b2-4337-aa74-dbb75fa5e0aa,64,2025-11-15,Falta Injustificada,8.0
+899ac252-c1e1-494a-b888-3058e9ad0e9b,64,2025-11-15,Atestado Médico,8.0
+37e9d2e2-d35a-407a-aa02-17d0cd4f8b2b,65,2026-07-26,Atestado Médico,8.0
+c1369c65-ae2a-4341-bf59-e4f2c3093b6e,65,2026-01-21,Atraso,3.5
+14f573d0-c991-4032-9f85-c77798874bfe,65,2026-03-25,Atraso,3.7
+b42a0456-8736-4a84-b25e-134d86879aa9,65,2026-04-23,Atraso,5.8
+906d5c8c-ead0-4c89-93fe-8a295c9deee0,67,2025-08-23,Atraso,5.5
+8c32bdb2-d42a-495e-8fcf-601f1cb9b73a,67,2022-06-22,Atestado Médico,8.0
+929c93b3-33c0-4bf1-8167-999fe723ada3,67,2023-12-15,Atestado Médico,8.0
+53ff8461-2a1f-4b61-a65c-b9d989628f6e,67,2022-08-20,Falta Injustificada,8.0
+1dc1e7eb-711c-4673-8535-1a69dabf984e,67,2025-03-26,Falta Injustificada,8.0
+95492a82-b787-4f8d-b495-311eae27d432,67,2025-11-28,Atestado Médico,8.0
+82a7f586-e61d-4cde-9747-f3877d23d479,67,2024-04-09,Licença Paternidade/Maternidade,8.0
+741423b5-0e3e-45f2-8f06-71c7720b274b,67,2023-09-12,Atestado Médico,8.0
+74f0beae-6a59-43ce-8364-35e321c71aa3,67,2023-07-09,Atestado Médico,8.0
+765e6cb5-8f0d-4540-8ec7-d662905c7bdd,67,2026-03-01,Atestado Médico,8.0
+b928e23f-4ee4-434e-8e92-0136ac3a812f,67,2025-10-14,Atestado Médico,8.0
+d1031424-4124-4bb4-a55c-e5080592bfa5,67,2025-06-26,Atestado Médico,8.0
+940c3503-37c8-4152-beed-0af900c59f30,67,2022-12-12,Atestado Médico,8.0
+58330b30-6c77-4e95-8b98-1ccd12b2102d,67,2023-12-22,Atraso,1.6
+fe7ee362-8a89-40f0-9052-91d3b34c6c73,67,2025-10-29,Atestado Médico,8.0
+11ab3d11-e4eb-4000-af40-d1620f6ce9bf,67,2022-11-24,Atestado Médico,8.0
+081fc6dc-78d9-488a-af0b-ea4ffc737d92,67,2024-01-25,Atraso,3.2
+c4db5a62-2e13-418d-a8ab-80ea497ec6d1,67,2025-10-13,Atraso,5.9
+fa740cc8-a43a-4b7a-840d-487422ab7752,67,2024-04-20,Atraso,1.9
+6b9cd71c-f6ba-445b-a558-71e3bab2b77d,67,2026-01-29,Licença Paternidade/Maternidade,8.0
+61ea2f30-e42e-407a-be2b-d9875fdcabbf,67,2022-07-31,Falta Injustificada,8.0
+e821e716-eac8-4da1-9e9f-6f5b72d35458,67,2023-11-04,Atestado Médico,8.0
+aec76a82-148b-4376-a02a-4e5760a399d4,67,2025-03-28,Atestado Médico,8.0
+8a0f9508-dfe2-40a0-a96b-3c42f6d22a7b,67,2024-03-20,Atestado Médico,8.0
+59077299-dc3b-4dd8-a74e-02a9220b9ea9,67,2025-09-17,Atestado Médico,8.0
+8989c5ab-fe2b-44d8-adb0-728d1e5ebe54,68,2024-11-22,Atestado Médico,8.0
+ba54e920-2099-4180-8762-3997649f7d88,70,2025-07-19,Falta Injustificada,8.0
+00e3a026-d5b6-4e85-b902-39d9fa8dae42,70,2025-02-19,Atestado Médico,8.0
+4c61845e-fa7e-4d94-85d1-fb63c194f97f,70,2024-03-04,Atestado Médico,8.0
+8b60c511-b816-4aeb-ac6a-7c8576876c62,70,2025-02-20,Atestado Médico,8.0
+d2c7bffb-6118-433b-882c-cd1e6c93a791,70,2024-12-27,Falta Injustificada,8.0
+589decb0-75eb-49c2-bf5c-f2f33acb43a3,70,2024-08-17,Atestado Médico,8.0
+effa2002-3040-413c-8690-fb1527b608dc,70,2024-09-21,Atraso,3.4
+1ce362f8-c3f7-45fe-b99b-2b5ae00da49d,70,2026-04-09,Atestado Médico,8.0
+6b535a19-a902-473f-8f39-f648083f64c3,70,2025-06-26,Atestado Médico,8.0
+e23ddfaa-efad-49e9-841c-147e9d6b9b62,70,2024-08-29,Atestado Médico,8.0
+34c1c3ea-3d9c-4e64-8401-5cede39836bb,70,2024-10-03,Licença Paternidade/Maternidade,8.0
+08987462-980c-495c-99d4-5deb1139fa12,70,2024-07-04,Atestado Médico,8.0
+b40a9181-ac09-4db7-9908-6e477249f62c,70,2024-07-22,Falta Injustificada,8.0
+bd9419aa-3ea6-45b2-8c76-0d28df495037,71,2022-09-03,Atestado Médico,8.0
+3bfda8a6-705f-4df5-a6fa-dca00b531932,71,2024-03-18,Atestado Médico,8.0
+dd1d6cd1-c11f-4bf5-b79e-f4678a2db2e6,72,2022-09-01,Atraso,4.6
+80ff5173-23df-4cd7-8e73-1dd7c6ac1b04,72,2025-02-15,Falta Injustificada,8.0
+d0d75e37-3bf2-425f-8a0d-2b73fe54ee4b,72,2026-03-29,Falta Injustificada,8.0
+51a3ac26-937b-479b-bb44-badcea98fef8,72,2025-01-19,Atraso,1.3
+ac2b0cfc-c5c5-4060-9911-21e793d563ae,72,2023-12-27,Atraso,7.1
+4d406f1b-3ca5-4e29-9217-1bf3d18183d1,72,2025-07-25,Falta Injustificada,8.0
+a903ae67-fc56-4b53-a4ac-b722e0527739,72,2022-11-01,Licença Paternidade/Maternidade,8.0
+4ceda164-69df-44e9-b896-41dd8570b59f,72,2025-06-13,Falta Injustificada,8.0
+f2d2393f-8e85-440d-8f9a-eb7046707cd6,72,2024-03-18,Falta Injustificada,8.0
+e95d2761-bc36-4c59-a134-edfc97777f10,72,2022-12-18,Falta Injustificada,8.0
+6d5d0477-adc2-4178-a041-16122cd58759,72,2023-01-04,Falta Injustificada,8.0
+f8e8035b-0c00-488a-bee1-011a8e4c3ab5,72,2023-02-11,Atestado Médico,8.0
+abdd1a8f-a4b0-4c89-b10b-ce9c582b91ee,72,2025-12-25,Atraso,6.4
+519894d8-8643-4603-892a-7d7c61935990,72,2023-01-11,Atraso,6.0
+26332018-6883-4c6e-aa94-4054b2414482,72,2022-05-06,Atestado Médico,8.0
+c12169db-2f12-4150-a05f-b1eb4cc57e0d,72,2024-05-27,Licença Paternidade/Maternidade,8.0
+d96e684f-3db0-474e-b938-878a89b5aab0,72,2024-02-22,Atestado Médico,8.0
+b523c0de-db87-429c-8cfd-0fc139b02e2a,72,2025-11-22,Atestado Médico,8.0
+ea2c7a51-7688-411f-8e47-58be24f43c62,72,2026-02-18,Falta Injustificada,8.0
+f7c0d5f7-69a5-4b4f-8ff8-869d0ec0713d,72,2023-06-07,Atestado Médico,8.0
+2253e706-87ad-4b26-8eaa-58416aa0426d,72,2024-08-03,Licença Paternidade/Maternidade,8.0
+340de049-4147-4506-be2b-f9c9636f6e5c,72,2025-07-10,Licença Paternidade/Maternidade,8.0
+ec170298-143d-45b3-a58e-83dd548c1d84,72,2023-09-12,Atestado Médico,8.0
+17abb863-5efe-4f4f-98dd-bbc073253aa3,72,2026-04-26,Atestado Médico,8.0
+30c36756-d453-4867-b97e-6224891f6912,72,2026-04-19,Atestado Médico,8.0
+ac75c344-608e-449e-84b9-e6020d31812e,73,2022-06-24,Falta Injustificada,8.0
+dfa59722-0a1f-49df-9a59-19749adf4709,73,2024-02-28,Atraso,2.7
+c2fe8954-cdfd-4531-b02b-783112a1fe7d,73,2026-07-31,Falta Injustificada,8.0
+8f10d33e-abe4-4e7d-b96c-1163966be275,73,2025-09-13,Atestado Médico,8.0
+de95d695-3579-4143-bab9-9428378e6510,73,2025-07-25,Falta Injustificada,8.0
+f4ff3f3a-4d9d-4aeb-953d-2625e8334da5,73,2023-10-18,Atestado Médico,8.0
+efe9b3d0-3639-48bf-83ec-e8ffe8b3d763,73,2026-03-27,Falta Injustificada,8.0
+1e086f20-bdd1-41b0-b64a-b6ec30a5648e,73,2025-11-06,Atestado Médico,8.0
+7a9a8ef5-c11b-41c4-bfe3-f366bf337a15,73,2022-04-03,Falta Injustificada,8.0
+9aba0f15-b214-4062-be1a-963eea18d32c,73,2023-03-25,Atestado Médico,8.0
+ea45ba41-6589-4da1-b45a-f934b42a2d93,73,2024-12-20,Atraso,7.6
+c68813fe-5255-4c75-8d55-119e3d44cb2c,73,2023-08-21,Atestado Médico,8.0
+889d4b76-775c-40b5-a173-0c4848769153,73,2023-10-03,Falta Injustificada,8.0
+42f5b3f5-4ef4-434d-9bf8-6f3ca6129a1c,73,2025-06-24,Atraso,3.0
+7f4d908c-e1ff-46c0-8347-f1da5c11ab6d,73,2023-04-23,Atestado Médico,8.0
+fb37afae-cd85-43ca-993e-638d774c0afa,73,2023-12-26,Atraso,4.7
+d6f89f7a-c2fa-4da8-b830-8631b8f0188e,73,2026-08-01,Falta Injustificada,8.0
+5ee68495-3400-49c3-aa11-905b51facefa,73,2022-01-27,Atestado Médico,8.0
+90019ed4-0bb4-41e7-a9f7-53f1501ba851,73,2025-09-29,Atestado Médico,8.0
+255b30e2-bdc2-474b-b8a5-6b49dd34aa18,73,2022-04-14,Falta Injustificada,8.0
+ef4c5119-8da5-439b-82c2-17970426fcc9,73,2025-08-28,Atestado Médico,8.0
+6ae66582-b852-43cd-9442-b5e695831d58,73,2024-07-22,Atestado Médico,8.0
+54720d2d-3239-4ffb-a704-6f254b91b8cb,73,2021-12-10,Atestado Médico,8.0
+d5574241-91dd-49bf-a13d-2de93ae28023,73,2026-01-22,Falta Injustificada,8.0
+a7946320-8cf6-48b8-bfd2-38c33ee82983,73,2022-07-27,Atestado Médico,8.0
+41e02a89-566a-4ce7-af52-1b94f186e47a,73,2021-06-16,Atraso,5.5
+f76d15fd-7d16-45a0-9253-d966c36b9a0a,73,2026-01-25,Atraso,3.6
+7d97ac0f-bd56-49c4-a446-1663b93b17fb,73,2026-05-28,Atraso,1.7
+cb8383f2-bb96-4602-ab11-5c3675f8e3a8,74,2024-05-08,Falta Injustificada,8.0
+b86677aa-23d4-426b-ab54-ff7a5a2837b2,74,2025-04-01,Atestado Médico,8.0
+eab9eb02-2f1d-4121-bd02-4c6d8bea75c1,74,2024-02-14,Falta Injustificada,8.0
+a44d9fec-fd85-47fa-8ac9-7b01e3ad64d4,74,2024-07-20,Atestado Médico,8.0
+08a8ac7f-8621-48ad-8f09-105cf50d7a37,74,2025-03-07,Atestado Médico,8.0
+f1f7d904-1307-4157-98c1-28e7d6cd3155,74,2026-03-04,Atestado Médico,8.0
+c3abb5f1-0c6b-4074-ab10-2c9bd1682e09,74,2026-07-13,Atestado Médico,8.0
+d7b102a9-2332-450e-a992-896e01a25ed1,74,2024-06-23,Falta Injustificada,8.0
+b509109b-1166-48ce-bb3f-3800a175a9c3,74,2026-02-07,Falta Injustificada,8.0
+8177b661-37fe-432c-8257-185126a9e100,74,2024-03-01,Atestado Médico,8.0
+9e2a7324-0f79-48a7-9f8a-14bd74bd0c93,74,2024-11-23,Atestado Médico,8.0
+9dd43675-ef14-4064-aab0-7015a3422e50,74,2026-03-07,Atraso,7.2
+7ce40679-a8c6-4bc0-bbb3-447be9aa144b,74,2023-10-20,Atestado Médico,8.0
+8d388327-883f-43c6-81b1-58e90406ff44,74,2025-12-23,Atestado Médico,8.0
+8787ea21-0448-4a22-8308-aa5e694d7b00,74,2023-12-14,Atestado Médico,8.0
+fa3c1628-8926-41df-8655-68b7b8e19f56,74,2025-11-15,Falta Injustificada,8.0
+d02b1243-8091-4ac1-8463-750e49646b96,75,2026-06-25,Falta Injustificada,8.0
+ce610199-6e3a-4ba8-ac8d-6c7db2a6e468,76,2021-10-09,Atestado Médico,8.0
+1b656dab-2de4-4e91-a8e6-e840f090f5a0,76,2022-03-08,Atestado Médico,8.0
+261e2555-863e-4f2a-98a8-06efeb053fc4,76,2021-12-21,Falta Injustificada,8.0
+86c5d1d6-9ea9-4508-b122-75923db02235,78,2026-02-19,Falta Injustificada,8.0
+446f64dd-5abc-46e5-90b1-e3eb409e7a80,80,2024-03-18,Atestado Médico,8.0
+5f804eeb-143a-4aff-a59b-0105cb80f288,80,2023-08-28,Atraso,3.0
+90a3fbbf-7580-4050-a7f1-698cf5948a54,80,2026-02-02,Atestado Médico,8.0
+39d1c7ff-b27e-4442-bd7f-e9733e42df5b,80,2024-03-21,Atestado Médico,8.0
+d90dd19b-d3fb-4043-af1d-5a1a4ccb2355,81,2025-08-21,Atraso,4.3
+dbb44021-fdde-44af-a75b-395a14a34f7f,81,2025-02-18,Atestado Médico,8.0
+17efa621-081c-49d4-8274-37eba65f7b8a,81,2021-09-17,Falta Injustificada,8.0
+8d7dd772-608e-4f5c-a117-727067c0518b,81,2022-02-16,Atestado Médico,8.0
+026b5383-a301-4c03-8e5d-8c6a79db7862,81,2021-10-15,Atestado Médico,8.0
+7ff6b824-152a-4aec-abdf-cb41b3eda8f1,81,2023-02-13,Atraso,2.5
+c8cce2c2-a518-4418-af14-b3f6d867888b,81,2022-07-10,Atestado Médico,8.0
+dba3496f-fa32-4f69-90db-fad654ce26be,81,2024-10-04,Atraso,7.6
+873570a2-e511-4961-9869-a217f94d8fcb,81,2025-02-04,Atestado Médico,8.0
+361f6d90-3ad1-4a33-8ae4-ac11eb4d8f42,81,2024-08-22,Atestado Médico,8.0
+e336c243-b139-4476-9e3c-e88be6b9d31a,81,2024-01-21,Atestado Médico,8.0
+0beb7c34-4566-4c48-b9ba-630a9118c400,81,2022-04-22,Falta Injustificada,8.0
+ecf32053-af36-48cc-9308-7974ec95b3ac,81,2026-01-13,Atestado Médico,8.0
+90422eb7-8b04-4f53-a639-49d447c68688,81,2023-04-20,Atraso,2.7
+edc3a1c3-2dea-4d2d-886c-405fa879d8f8,81,2022-05-14,Atestado Médico,8.0
+f622d842-0402-4b3c-9082-11a5d9b59f84,81,2021-12-13,Atraso,2.7
+c093bfb0-24e9-4cfd-9647-ff9f3508507a,81,2025-04-07,Atestado Médico,8.0
+65f6ba53-d226-48b3-b674-410dd218c9d6,81,2026-02-18,Atraso,5.4
+299656e2-4c9d-4907-93b2-2cecedcabf94,81,2022-01-13,Falta Injustificada,8.0
+d5aba8ae-9112-4bc0-bd8f-95f4905f9096,81,2022-04-22,Falta Injustificada,8.0
+e582b678-ad52-49dd-a39f-c471d9750f00,81,2026-05-17,Licença Paternidade/Maternidade,8.0
+c16f9bcc-6243-4ed7-94ec-3f338a624cbd,81,2024-06-26,Falta Injustificada,8.0
+fd0ce433-ca5e-451b-a3d3-cd4cbd5ff093,81,2025-01-11,Falta Injustificada,8.0
+8033f5c2-1413-464d-b962-c8a7b076a7dc,81,2024-09-08,Atestado Médico,8.0
+0dbf0caf-588a-4f87-b96d-40f8bed63da0,83,2025-08-27,Atestado Médico,8.0
+d6b361e4-3b6d-4a0d-afe5-040b1901ef87,83,2025-12-27,Atraso,2.7
+c4dd8df5-9aec-46a8-9731-16091375ee90,83,2023-07-28,Falta Injustificada,8.0
+658e54a2-9879-4f35-b471-99869d264599,83,2024-05-25,Falta Injustificada,8.0
+07958c1f-538d-4b8c-8607-b1e9f80b2cea,83,2025-03-04,Atestado Médico,8.0
+fe1a1ba9-c896-4c5b-85f8-c28da255e1bb,83,2022-10-10,Atestado Médico,8.0
+5b167158-3a67-470c-bd98-302f735741e5,83,2026-03-19,Atestado Médico,8.0
+6e8d9644-601b-4bcb-b0ee-bcce8d93e14a,83,2024-09-28,Falta Injustificada,8.0
+a921cb4c-95fb-4976-ae00-7b7e2f8c83e5,83,2024-02-11,Atestado Médico,8.0
+9e5d9c7a-c5ac-4354-95f0-0cb4614c721d,83,2025-12-18,Atestado Médico,8.0
+b68e47fa-3f17-4534-8c4d-58194b9dfd58,83,2025-02-06,Atestado Médico,8.0
+277b0667-4499-40a6-9500-717012d15585,83,2023-10-25,Atestado Médico,8.0
+a247541d-c8ad-4899-b630-794d6147adeb,83,2026-06-28,Atestado Médico,8.0
+5111d31d-63be-441d-bd5a-0c9e277eb0aa,83,2026-07-06,Atestado Médico,8.0
+01547950-176d-421f-9b46-ebdc5c56d9bc,83,2023-03-31,Falta Injustificada,8.0
+5c238d8d-71da-45b9-8eea-9db8f165d779,83,2025-09-13,Atestado Médico,8.0
+21ebfaa9-1a2b-469c-850f-69eec2e79a98,83,2024-10-14,Atestado Médico,8.0
+72e76b51-6e54-4c6d-aff8-e87e16591c89,83,2023-02-22,Atestado Médico,8.0
+68759545-832f-42c4-8e03-70cf8e969227,83,2025-09-18,Atestado Médico,8.0
+5a9a206a-16f1-42a2-86b9-19aa1a7167c7,83,2025-10-25,Atestado Médico,8.0
+991965ea-98d0-4c2c-97d3-0f328de1596c,84,2026-04-23,Atestado Médico,8.0
+629ef3d8-dd1c-4267-930d-dda6c8d0f9e5,84,2024-09-29,Falta Injustificada,8.0
+6346d4ef-69ef-44e3-8ab6-821c0328c136,84,2025-01-02,Atestado Médico,8.0
+e6b0da0a-b98f-4dbe-95ae-de0fc777a07f,84,2022-01-05,Falta Injustificada,8.0
+fa698cd2-fe23-40f3-a7bb-aefc8f3dc97f,84,2024-02-02,Atraso,7.1
+2b69c95e-8567-4b58-926b-ffa53e245fbf,84,2022-02-22,Falta Injustificada,8.0
+238b05b7-2b64-477c-a177-a771af70de70,84,2025-06-18,Atestado Médico,8.0
+7e3d5ee4-44b6-4ec1-8d16-f04944d7df9a,84,2024-01-26,Atestado Médico,8.0
+6f46f1b1-2ace-4aa9-9032-46b3255bfc1c,84,2023-12-29,Atestado Médico,8.0
+7bf69552-4cbc-4044-abcd-5ce746a56fe8,84,2023-04-28,Atestado Médico,8.0
+406f64d6-5c72-4ebd-93b1-1e59c85cd714,84,2026-02-02,Atraso,1.1
+a002352a-b88c-4dde-bf20-86c2f1b88d65,84,2026-04-27,Atestado Médico,8.0
+320f72c0-9dde-4188-9803-b22e7eece88d,84,2022-04-12,Atestado Médico,8.0
+4dfe1117-22af-411f-9b62-8a9d75366b9f,84,2023-11-01,Falta Injustificada,8.0
+550c2fe9-654c-41d9-b2e6-182801bb819c,84,2023-04-02,Falta Injustificada,8.0
+cdd7f460-6140-47d3-9ec4-ea48d773f98d,84,2026-01-04,Atestado Médico,8.0
+55b145e4-70b2-4304-945c-d88ddcb9075e,85,2025-04-14,Atestado Médico,8.0
+dc08bf29-d2d3-4488-90c3-00186e3cdd4f,85,2022-05-06,Atestado Médico,8.0
+22d90db3-982a-4277-b966-d59fa6aa59e5,85,2026-02-02,Atestado Médico,8.0
+f280df1d-9a6c-4db9-9217-1c884ce953a7,85,2025-01-09,Atestado Médico,8.0
+506e50c7-7aa0-41e9-b36b-00cbb1fead13,85,2025-11-19,Atestado Médico,8.0
+f7fe604f-65f3-4779-b6ee-5cdb2d79a2d1,85,2026-01-02,Atestado Médico,8.0
+b1e8c09d-bc20-49f2-8a9c-589e51b30182,85,2023-08-17,Atestado Médico,8.0
+936cd31c-f7bf-4244-bdb2-a7aaa205e54f,85,2022-07-06,Atestado Médico,8.0
+60452909-536d-47d7-be0f-84cec82f78fd,85,2022-01-04,Atestado Médico,8.0
+64976593-c92e-4c93-9105-c8d647c1c017,85,2023-09-27,Atestado Médico,8.0
+905881df-ee9b-43e1-9d27-c09a5d71a898,85,2024-10-28,Falta Injustificada,8.0
+8bae591e-ff4c-410f-979c-30cf33261887,85,2023-08-30,Licença Paternidade/Maternidade,8.0
+8cd34c62-c482-4b71-ae84-b81c2e0fb5b3,85,2026-04-29,Atestado Médico,8.0
+762cdfbc-ba2a-47ba-b3f8-1c3106e3f949,85,2025-05-14,Atestado Médico,8.0
+703e957f-35ab-4466-b557-8b00f166cdcf,85,2022-09-29,Atestado Médico,8.0
+b15da72d-d4ce-427c-8a94-ae9fcc351e4f,85,2026-06-02,Falta Injustificada,8.0
+cbb02a8b-d908-4121-91a7-ba2011b461e9,85,2026-02-17,Falta Injustificada,8.0
+7fd255ee-ac48-4366-a8bd-80d7cb881c32,85,2025-08-08,Atestado Médico,8.0
+3df51967-4d86-40bd-a222-4f9623a13e20,85,2024-05-14,Atraso,7.9
+b719bb68-2775-4e42-a89e-22f240afbf3f,85,2024-06-12,Atestado Médico,8.0
+12ef6101-6082-486f-8a00-ef586c521d13,85,2025-04-21,Atestado Médico,8.0
+7aaf2001-9912-416a-bd9e-8e2072f60958,86,2025-09-19,Falta Injustificada,8.0
+81b15db9-88cc-4d49-a69b-29b8950df1a0,87,2026-04-30,Atraso,1.3
+b113d50b-dea0-40c6-ab9e-d274ec6a37ad,87,2024-11-21,Falta Injustificada,8.0
+ca6caf9b-0969-4101-8b2c-550a6b15c11b,88,2026-05-10,Licença Paternidade/Maternidade,8.0
+e53f9644-b39e-4df2-9c0a-1febf7eae66e,89,2024-08-30,Atestado Médico,8.0
+a35fc9c1-9804-4562-8972-abbdcff2b1c4,89,2025-06-07,Licença Paternidade/Maternidade,8.0
+c4da2c2e-1bff-4279-95c1-604fea163354,89,2025-06-01,Atestado Médico,8.0
+5ae1dbad-aa29-40fd-a858-94df3f8c1097,90,2025-01-29,Atraso,7.9
+0b570720-9cd8-458b-a5a1-c8252a9528c3,90,2025-03-09,Atestado Médico,8.0
+ad6ecc57-a520-43d0-bbcd-bf5e902f3465,90,2024-11-16,Licença Paternidade/Maternidade,8.0
+c0afd193-f780-4f2f-a64d-5922a590fd3c,90,2024-07-28,Atestado Médico,8.0
+6e3255a8-cbd5-4c86-b739-36e954e38579,91,2026-03-06,Falta Injustificada,8.0
+423cad9d-193e-4783-82b3-42541b1f2eb1,91,2024-11-24,Atestado Médico,8.0
+84cfee39-bf31-429f-82bb-ad8438d5101f,91,2025-03-01,Falta Injustificada,8.0
+9342a09f-b00a-464c-949c-d8d48ed8a80d,91,2025-05-13,Atestado Médico,8.0
+64215e66-5fc6-4cd0-b21e-8b1f38958939,91,2026-07-21,Atestado Médico,8.0
+96add4df-adf7-4924-85b8-386b768b4f7e,91,2024-06-30,Atestado Médico,8.0
+584fc85b-2697-484d-801e-8690b0c07fcc,91,2026-03-15,Atestado Médico,8.0
+1ac3bf31-7b96-42d1-8649-bcf6ff69723d,91,2025-04-17,Atraso,2.9
+f633cc2d-eba9-40e1-aa7d-5d964ba17233,91,2026-08-09,Atestado Médico,8.0
+f0d0270f-d4d1-4d55-9db6-b84415fa9483,91,2025-05-24,Atraso,4.1
+4fd80bbb-592c-4107-a444-d301baeb286b,91,2025-06-26,Atestado Médico,8.0
+34f541c0-c8c5-4b2a-b490-adeb57d337d3,91,2026-06-13,Atestado Médico,8.0
+79e5c9aa-592a-4549-bba1-09d08567c805,93,2024-01-09,Falta Injustificada,8.0
+b25f13df-b8d4-4848-b02b-a49f18fdd2b9,93,2023-03-03,Falta Injustificada,8.0
+4cde1b6b-1132-467c-91a4-0d2a73d39457,93,2024-11-26,Atestado Médico,8.0
+1d763a66-b5f5-4cb0-8f68-58780b705933,93,2026-01-01,Atestado Médico,8.0
+a5e15b55-57d3-44dd-9963-dc7205c8234b,93,2024-11-28,Falta Injustificada,8.0
+2a131c1f-ccd0-45c1-ad59-00dd1bff3142,93,2024-03-07,Atestado Médico,8.0
+3e711433-bd90-481a-bbe0-e6b8ee0f65a8,93,2026-08-04,Atraso,4.6
+28fea761-8d49-4e3f-aca8-f78384182d35,93,2026-08-12,Atraso,1.6
+f55dce6d-6d26-4b37-8f52-42d354bbbcf8,93,2024-07-02,Falta Injustificada,8.0
+67b13040-cc39-4925-bb5a-e28876492e64,93,2022-07-25,Atestado Médico,8.0
+a3f66c61-2fb7-4dab-af38-3b43a137f8e4,93,2024-07-14,Falta Injustificada,8.0
+0779250a-6544-4313-aea0-5d13a84554c3,93,2025-07-01,Atestado Médico,8.0
+3283daa4-e212-4b7c-9d36-1cb6bcc57be0,95,2025-05-21,Atestado Médico,8.0
+638abdf6-6df7-4cd3-979a-a0517317591a,95,2025-07-16,Atestado Médico,8.0
+34ae4abd-36fc-40ac-b469-8db30123a348,95,2024-04-25,Atestado Médico,8.0
+cf08ea54-b429-4924-8098-675047419b48,95,2024-03-09,Atraso,3.3
+1a0c6c04-93cd-4291-9004-2d82cbc72f1a,95,2025-05-25,Falta Injustificada,8.0
+2fdc9992-8971-4eea-9f3a-098accac2fb5,95,2025-06-16,Falta Injustificada,8.0
+75220646-3273-45bf-9373-bf4d5da49cb9,95,2026-03-29,Atestado Médico,8.0
+dcd5bfae-abb3-46a7-8329-97801d2c2721,95,2026-02-16,Atestado Médico,8.0
+a39c9ec6-f746-4c02-8718-54c17d4ed26e,95,2024-09-03,Atestado Médico,8.0
+9c7eb575-637d-4cd6-98d3-148b503b4078,95,2026-03-25,Atraso,3.5
+591196dc-1d3e-403a-9645-f0e4647dc392,95,2023-12-23,Atestado Médico,8.0
+9e0b7b01-7536-49ef-9873-dad95a1baf0e,95,2025-09-19,Atraso,5.3
+b4bba73f-ac70-41d1-9051-267f2c2ac34b,95,2026-03-06,Atestado Médico,8.0
+9d4edb71-eb2e-480e-8c25-5823ccf4ffb0,95,2025-04-12,Atestado Médico,8.0
+224a66a6-ac0f-4801-95b2-4e1d97154633,95,2024-01-23,Falta Injustificada,8.0
+4e2d6255-3d13-4a3d-9e2c-2e7d502cf0ee,95,2024-02-28,Atestado Médico,8.0
+b1850eb8-5f90-4c87-aedc-017e1df05d18,95,2026-01-06,Atraso,3.5
+6b11b7cb-6372-4424-82c5-6b21243012da,96,2025-12-15,Atraso,2.0
+623ad0fc-9326-4d25-a34b-456298af5cca,97,2024-11-21,Atestado Médico,8.0
+a2b03c4b-7c96-4b55-af8d-8ded6c4c450b,97,2023-07-19,Atestado Médico,8.0
+a52fc3ec-eb4e-4281-b184-d1fc8991b01a,97,2021-04-14,Atestado Médico,8.0
+8e0ec033-2c59-4da8-bff9-6acfee4205ee,97,2021-10-18,Atraso,1.5
+23ea7956-49f1-437d-bd59-2e192ab7b2ef,97,2024-09-15,Atestado Médico,8.0
+7374ccbf-d78c-47d3-9088-50d32fe5b140,97,2023-02-22,Falta Injustificada,8.0
+5be9fdb3-dd92-4d7c-8db9-77a99e91a71c,97,2023-02-13,Falta Injustificada,8.0
+22f3f068-7c0f-449d-8274-0f73f3abea0d,97,2023-03-28,Falta Injustificada,8.0
+f6bd80c7-624a-4a50-90b1-fde031f3f0c0,97,2024-04-08,Atestado Médico,8.0
+7eb6581e-a72f-447d-8164-62cb8fc3d7d3,97,2021-04-09,Falta Injustificada,8.0
+6a66c184-7de1-4f5d-af48-47f068bd075b,97,2024-06-25,Atraso,2.1
+7d1b695e-71a0-449d-9703-262fb5cbe3f5,97,2023-08-12,Atestado Médico,8.0
+07e67cb0-90bd-4900-9529-e6f52ad11fe8,97,2023-03-03,Atestado Médico,8.0
+4ac66780-3874-4f3c-82d4-9b56cbbed980,97,2023-03-05,Atraso,4.1
+89a0b7eb-398f-469b-865c-c2cb085eb489,97,2021-07-09,Atestado Médico,8.0
+751303b9-c7de-46ea-ab0f-be4449e64c22,97,2024-04-22,Atraso,2.0
+c4134dc2-c5c5-4e8a-be15-ad1290ce77e9,97,2023-02-23,Atestado Médico,8.0
+1cfb655f-82c4-4e48-8cba-dae57eccdaf4,97,2023-04-28,Atestado Médico,8.0
+c66dceb3-4494-4e09-9d3c-a5a4929d6377,97,2022-11-07,Atraso,5.5
+5deaa737-fdab-4441-92c2-a9608b0901ab,98,2022-10-19,Atestado Médico,8.0
+0aa6fcb9-c1bc-4e59-9296-a12d8ac35ac4,98,2022-04-23,Atestado Médico,8.0
+8bddcee3-70fd-4672-b80f-16c5c28fa16b,98,2026-04-15,Atestado Médico,8.0
+1a37f6bd-6cd6-4011-bd61-f13b37f25d36,98,2023-03-17,Atestado Médico,8.0
+c0582da5-a757-475b-947f-83b1bc69c155,98,2024-12-17,Atestado Médico,8.0
+ffd2f491-dff3-49aa-8c36-a70c3f5e3b8c,98,2025-01-24,Atestado Médico,8.0
+593c572b-4347-4bca-b321-a8b20840405a,98,2024-05-01,Atraso,7.4
+7066e289-1644-44a0-9115-1fffdcb91d5f,99,2023-09-02,Atestado Médico,8.0
+c68fcba5-1e0d-42b5-be74-02cddd83ad03,99,2026-07-19,Falta Injustificada,8.0
+cf8a368e-35ba-4357-bca8-7f31cfd7f3b9,99,2023-08-30,Atestado Médico,8.0
+59c2f153-b06b-4f0c-9682-2e22bcd4344f,100,2024-09-05,Falta Injustificada,8.0
+a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff,100,2024-05-09,Atestado Médico,8.0
+23a4e70e-9dbc-45c0-aa7d-c57c6d9c5b50,100,2024-11-29,Atraso,3.0
+34fa32b6-d043-4e4c-b4e5-0699c8ebe27a,100,2024-09-28,Atestado Médico,8.0
+59cf0b0d-91f0-447d-8f32-1333ce315937,100,2024-05-02,Atestado Médico,8.0
+89ecbc51-98cb-4a52-87f5-301988438de2,101,2025-03-23,Atestado Médico,8.0
+b43cde0a-fa9f-410e-92da-f6812b1ac76c,102,2025-03-24,Atestado Médico,8.0
+44709848-929e-4c92-8a11-be444aea1b8f,102,2024-06-11,Atestado Médico,8.0
+fc48f615-83b0-435c-9ba6-fdf8f3d04ffb,103,2025-07-27,Atestado Médico,8.0
+1860ad28-d0af-4235-ade6-8f51e67093a0,103,2024-01-25,Licença Paternidade/Maternidade,8.0
+c9230c64-c006-4b5b-b678-39b222b5f457,103,2022-01-23,Atestado Médico,8.0
+fe1393cd-0f2d-4c15-ab34-6d3a695e5ea9,103,2026-02-11,Atestado Médico,8.0
+207bbe21-a7e8-418e-9df6-d4ac46feacd4,103,2025-05-24,Falta Injustificada,8.0
+3fead90a-21f8-472d-9db7-570eb390b059,103,2026-04-24,Falta Injustificada,8.0
+d4176230-5274-4e11-b61d-f906257035db,103,2023-05-13,Atestado Médico,8.0
+ad1db537-d7f3-4368-82ef-eecb3f5fbf4f,103,2025-04-25,Atestado Médico,8.0
+93d228d4-2465-4c39-bd4d-2add64880945,103,2023-07-09,Atestado Médico,8.0
+6a0aa7d5-a0b8-4755-84ca-a5a2a1e518a2,103,2025-07-20,Falta Injustificada,8.0
+a2356dd4-1355-48d0-b3b5-bad5600b4b35,103,2021-12-07,Falta Injustificada,8.0
+17d50f59-c4d5-48f7-a14f-e093cb6ad0c7,103,2024-08-27,Atestado Médico,8.0
+4739cc7b-bff3-4c8d-83ff-3e9667213a70,103,2024-08-11,Licença Paternidade/Maternidade,8.0
+5e7b72c8-e097-4edb-afb3-b939b1d81887,103,2023-03-14,Licença Paternidade/Maternidade,8.0
+53c93ae7-7cf0-4bb3-b343-d9eb7466ef02,103,2026-07-27,Atestado Médico,8.0
+c62dbaea-de70-4d30-80a2-136794fb09f0,103,2023-04-03,Atraso,7.0
+bb1e5ae8-17d8-41b8-bb93-cd40d8dff535,103,2025-07-24,Atestado Médico,8.0
+aa055442-a284-48fd-b55c-ee2af8ded777,103,2025-07-20,Atestado Médico,8.0
+1036708d-d9a0-4007-9bb4-7c18b28187c4,103,2025-07-01,Atestado Médico,8.0
+37c3b3c9-65d0-4517-88d0-0abdcbb18c79,103,2025-02-23,Atestado Médico,8.0
+363be5cb-d329-4724-adfd-171af7d7465d,103,2022-07-19,Atestado Médico,8.0
+d40e53ce-52a7-4a41-84be-d4867ea5a387,103,2026-01-08,Atraso,3.5
+93f37596-8c1c-4b05-9677-1f3648998e5f,103,2022-10-30,Atestado Médico,8.0
+7c3f1add-da38-4db5-90ee-b067216e9fe5,103,2022-04-02,Atestado Médico,8.0
+aebbb90e-e4e7-41de-97ff-51d9c9ce44bd,103,2022-09-12,Atestado Médico,8.0
+197dbae1-0bc2-4a72-8c64-8ca2c3231466,103,2026-01-05,Atraso,2.0
+75a72686-d632-4d31-88ac-ffcfa04d4d14,103,2026-01-01,Atestado Médico,8.0
+db8f0e32-edef-4003-9fce-01e3042b03ca,103,2024-05-04,Atestado Médico,8.0
+002c4c22-74de-4f70-b0f8-1dba28719b9b,105,2025-07-28,Atestado Médico,8.0
+33cb202e-6d84-414d-b541-91eafde91c42,105,2025-09-04,Atestado Médico,8.0
+21c50e41-e8ce-4951-b047-8ea4fee5ce69,105,2024-07-14,Atraso,4.3
+28b2bf21-4d47-4ed6-a666-3769e1d46f82,105,2025-07-23,Atraso,1.9
+462623be-e068-4849-aec7-1a30dfda35b2,105,2022-12-13,Atestado Médico,8.0
+40198303-5c45-4e4d-a793-13b817e52113,105,2022-11-01,Atraso,3.2
+e75f745a-aa1d-4fc6-9f31-273d1519830c,105,2026-06-27,Falta Injustificada,8.0
+6576a410-0d41-4e47-aa5f-da18a61f0b96,105,2026-07-01,Atraso,4.4
+b30e96e8-b9da-4f8c-8e35-da80a0279a18,105,2024-10-08,Atestado Médico,8.0
+a7cde143-6de2-4429-bbf0-d9c1c156e501,105,2024-10-05,Atestado Médico,8.0
+00473139-185d-4528-b425-8e191758d47e,105,2025-09-09,Atestado Médico,8.0
+21f89d06-13f3-4ade-ba10-013f36a2c52b,106,2023-07-07,Falta Injustificada,8.0
+ae13591e-84fa-4c72-b9e7-a4f197fb613a,106,2024-08-03,Atestado Médico,8.0
+b212a6ee-0210-4371-8260-a12371efe72a,108,2024-06-16,Atestado Médico,8.0
+fcf7b842-1edf-4bfa-912e-0eb557f479b5,108,2025-08-28,Atestado Médico,8.0
+21d63b0f-b1ac-440d-ac1c-c405dc3f42e0,108,2024-09-29,Falta Injustificada,8.0
+6210def6-3a9c-4308-9221-cddf7a4a902f,108,2023-10-11,Atestado Médico,8.0
+1a38aad6-ce53-4ffd-bb13-4f0216de66c9,108,2022-07-25,Falta Injustificada,8.0
+e1887eaf-5e18-45c3-9037-cd6b1a6b6a7d,108,2026-06-29,Atraso,6.5
+c601818b-61fa-41ba-a31a-e7c74c9bff5c,108,2025-06-07,Atestado Médico,8.0
+2215df00-dfdf-4e05-80ce-f31bd038e153,108,2025-02-20,Falta Injustificada,8.0
+249204c7-ad58-4b1b-be31-537aa43e558c,108,2022-11-12,Atestado Médico,8.0
+022b6683-9033-4a65-87cf-63fd11836c4f,108,2026-02-24,Atraso,7.8
+70aa5b0d-2a03-4ad4-a667-b9829c3de1b0,108,2024-04-09,Atestado Médico,8.0
+a0c9da72-368a-4d40-b8f1-4e3c59e7703a,108,2024-08-30,Falta Injustificada,8.0
+6965d1d1-eb7e-4e64-a6c0-747ebf8e8bfa,108,2022-02-26,Licença Paternidade/Maternidade,8.0
+dc268108-7140-41a1-afc2-ccfc9db7284b,108,2026-07-04,Atraso,1.9
+19b814fc-e587-4d89-9631-2fc6379d58f9,109,2023-02-09,Falta Injustificada,8.0
+96ee50e5-1f87-4b46-80a0-473a23d7e6a1,109,2022-04-30,Atestado Médico,8.0
+f69777a1-59fe-4d53-a24f-ea4bbae1e137,109,2022-04-24,Falta Injustificada,8.0
+23cbe943-ca84-4003-9083-4fef6dec6bbd,109,2023-03-19,Atraso,7.5
+159152f2-a505-4a9c-86e7-5a2c3f6eed9d,109,2022-09-01,Atestado Médico,8.0
+999a1d86-99db-4302-8dab-66d33f87dfc2,109,2023-05-06,Atestado Médico,8.0
+c76a8e0f-48f0-41f0-9b8b-38aeb89f3a92,109,2024-04-24,Atraso,7.3
+d90f74e9-06dd-46ca-b0c3-0a59f0f7ad22,109,2026-02-23,Falta Injustificada,8.0
+4d38e415-e036-45fc-a88d-4108d8d994b8,109,2021-11-05,Falta Injustificada,8.0
+82701238-9b5f-4f39-848b-34f034981735,110,2023-10-06,Atestado Médico,8.0
+4ba8a4ca-6449-4b6f-bf72-ae52304b2370,110,2026-03-22,Falta Injustificada,8.0
+e5dd98f1-c8a7-48ab-8df8-3e12a56b61e0,110,2025-10-01,Atestado Médico,8.0
+7eb0f62a-3d45-44eb-b465-5a21cb35097a,110,2024-03-14,Falta Injustificada,8.0
+7fe4a42e-3db7-48a6-9cdc-c4c262c965b2,110,2023-05-13,Atestado Médico,8.0
+873dc8bd-122d-47be-980b-c81ea3595d1f,110,2026-03-02,Falta Injustificada,8.0
+fca45567-0316-42d6-ba4a-58efe3837348,110,2024-05-11,Atraso,5.3
+21c9a15d-5104-4a16-af15-ab725c70ee97,110,2023-03-09,Atestado Médico,8.0
+91816091-d6c6-445c-9c5e-4e786307d4d1,111,2026-04-03,Atraso,2.2
+aed54a46-8bde-405b-9d8b-abd76bbdb66f,111,2026-01-31,Atestado Médico,8.0
+f45707c6-7894-4a15-8342-01db2c3aacdc,111,2024-11-20,Atraso,2.2
+0445c1a8-12af-47e4-8536-c66efcc4091b,111,2026-03-17,Falta Injustificada,8.0
+431e930f-0387-474d-9149-d096965d744f,111,2026-06-23,Atestado Médico,8.0
+0f7ae302-ec2e-4815-8a32-17d2373aedf8,111,2026-02-25,Falta Injustificada,8.0
+81b13b80-65e1-40f5-8a0e-e8c4f2dcb12b,111,2025-05-27,Atraso,6.9
+8044beb2-b66e-4bf4-a0ea-0251495743a2,111,2026-01-14,Atestado Médico,8.0
+b3a9dcaa-6c6f-4d2e-aa59-c043c4615234,112,2026-01-28,Atestado Médico,8.0
+895c4fde-a3fa-4069-9519-fd3866fba71d,112,2026-04-17,Falta Injustificada,8.0
+4708203b-2716-40c1-9db5-428389a3c811,116,2026-06-07,Licença Paternidade/Maternidade,8.0
+82e4dd4a-143a-41c5-8f56-0ed515669e36,116,2025-12-29,Falta Injustificada,8.0
+cedd069d-f96c-4a0a-b404-c02aebc1bb52,116,2026-07-15,Falta Injustificada,8.0
+6406face-53a5-4850-8950-ddd627c6cbb1,116,2025-12-01,Atestado Médico,8.0
+d5a386d9-c362-4810-a261-1b8d9620bee6,116,2026-06-04,Licença Paternidade/Maternidade,8.0
+10eceb1f-a4a5-4736-ae59-aa52a65be22b,117,2026-06-16,Atestado Médico,8.0
+bade8d5d-6fff-45cc-b2dc-6c344f67448e,117,2026-07-08,Atestado Médico,8.0
+0ed2ec9d-3d17-4712-98b2-2277f413db19,117,2024-10-23,Atestado Médico,8.0
+6f3a5115-ecb4-478c-9612-0aa63e9639ba,117,2026-02-13,Atestado Médico,8.0
+9bdc70d1-9cbf-4b8c-b410-2d5d1db14bfc,117,2026-06-26,Atestado Médico,8.0
+bddfa03a-aa84-40f8-8f2d-a2330e165b12,117,2026-04-03,Atestado Médico,8.0
+1e93d127-2cf7-4140-bd9b-c648a8761e85,118,2025-06-23,Falta Injustificada,8.0
+b3957a98-2320-4ff5-b538-f96c033e02f7,118,2026-06-29,Atestado Médico,8.0
+f3f8dea4-7f14-4afa-a9f0-ef7c02e7df89,118,2025-02-26,Atestado Médico,8.0
+c871d7b3-8468-474d-85e3-ade558c1aad6,118,2026-01-22,Atestado Médico,8.0
+2abe1585-425e-4259-b884-16d2d28fcf68,118,2025-06-14,Atestado Médico,8.0
+c7f7bda1-bff1-4840-a07e-863f5f32d5d8,118,2026-04-29,Atestado Médico,8.0
+e2ec13f4-bba1-4ed9-84cd-bfdddf9b141e,118,2024-03-11,Atestado Médico,8.0
+0783e43c-e65f-4d87-857c-74981e38f711,118,2024-02-13,Falta Injustificada,8.0
+45a08539-6de8-470a-8e9e-9ebd55c34853,118,2024-09-01,Falta Injustificada,8.0
+b65ad0f1-4350-4b06-9059-ea28861b4f5b,119,2024-07-17,Falta Injustificada,8.0
+13badc91-a0a5-4de6-939f-71a2f99cea5c,119,2024-12-04,Atestado Médico,8.0
+5c311464-82c2-49f0-b487-d7727f0386fa,119,2024-10-25,Atestado Médico,8.0
+911f730b-dbff-40b0-bfe6-70f30e3141ec,119,2023-05-10,Atraso,3.4
+414f4994-2845-4780-9e20-c9572ab8bd33,119,2023-01-07,Atestado Médico,8.0
+92ebeab0-e4ee-467c-9a57-f9e4c5f8e2f8,119,2023-12-19,Atestado Médico,8.0
+3a78b64a-1d86-40cb-b908-00f3ac93281a,119,2026-03-29,Atestado Médico,8.0
+0b461173-00a8-4473-8242-5912bda3c162,119,2024-01-01,Atestado Médico,8.0
+3e9aec86-0325-4fbd-9ce8-e1c5dbd30aec,119,2026-04-30,Atestado Médico,8.0
+620af158-5d2d-404f-b8c5-90730bc57207,119,2024-02-24,Atestado Médico,8.0
+ee6081ac-2dd0-422e-a66b-f2eaeb93f78c,119,2024-06-12,Atestado Médico,8.0
+8d888beb-090d-4655-9b84-2660f5d8fb91,119,2022-12-11,Atestado Médico,8.0
+bd9c4693-b6ca-4127-a9f8-7970cd98f9e2,119,2026-06-23,Falta Injustificada,8.0
+52619dec-3979-45f5-ab5b-c975a7dc2bc0,119,2024-04-15,Falta Injustificada,8.0
+b864ca08-ea75-452d-aa8f-cacb3f8e2d0d,120,2026-06-22,Licença Paternidade/Maternidade,8.0
+13f06822-d374-4a11-8571-295951e744e4,120,2026-04-25,Falta Injustificada,8.0
+8085c147-1e91-4f36-9f70-5b2592502e59,121,2026-03-31,Atraso,4.3
+2de982f8-0d7b-4c04-a6e5-9b32ac5f12ef,122,2024-03-08,Atestado Médico,8.0
+fb3df063-8409-45ea-8de9-18b33922a7e4,122,2023-11-25,Atestado Médico,8.0
+11a529b4-66a3-42d6-b43e-8c480bc1f9e5,122,2023-10-02,Atestado Médico,8.0
+48454343-ddb4-49dc-b710-6966e0827f76,122,2023-09-09,Falta Injustificada,8.0
+53c9fe59-4f89-43b2-9847-dc53c605e58a,124,2023-12-07,Atraso,7.0
+020a4497-74ed-4145-8d97-65c7161d5c87,124,2024-02-15,Atestado Médico,8.0
+9055a36f-4aa5-49d3-b35f-2f595e717fca,124,2023-03-04,Atraso,7.7
+9f6a6a65-bd54-4a04-8dcd-0009c8d57717,124,2022-09-04,Atestado Médico,8.0
+97790e84-5e47-4e22-b6c3-e6423e19fc1d,124,2026-05-05,Atraso,3.3
+c5c9fb91-ff6e-49ed-be4c-e29ff8cbab4c,124,2025-01-07,Atestado Médico,8.0
+e68373a3-bb82-4796-b207-343ec6a07656,124,2025-10-27,Atestado Médico,8.0
+3ec0a285-cbc4-4c0e-82ae-f6748beb4e78,124,2023-07-14,Atestado Médico,8.0
+68f82063-eeb1-4ad2-81a1-fb0f268b84b6,124,2022-11-04,Atestado Médico,8.0
+58af393c-8aa2-44c9-bba5-bd76061efb95,125,2025-09-15,Atestado Médico,8.0
+e09016b6-b186-45a8-96ee-526ba2cd1590,125,2026-03-08,Atestado Médico,8.0
+005fd0e6-55c3-42db-b374-190d0274ce40,125,2026-03-16,Licença Paternidade/Maternidade,8.0
+d95874c2-6053-4c1b-a845-10a1c2492e5e,125,2026-02-20,Atestado Médico,8.0
+1a9c672a-4eb9-447d-ba2a-c3d9bcf2fc3b,125,2026-03-08,Atestado Médico,8.0
+3cf88d20-fbad-493f-87a1-ec0234879e41,125,2025-11-30,Falta Injustificada,8.0
+0f554896-f610-496b-bdf5-9abf6b790d01,126,2021-06-10,Falta Injustificada,8.0
+b62edb49-2472-46a4-bf38-b918f8f9a45d,126,2021-10-25,Atestado Médico,8.0
+ebd8a3b1-0b3d-4c36-97d0-981047a2a10b,126,2026-08-11,Atestado Médico,8.0
+850ef0ad-d872-472e-a5b4-a1ae3b41c943,126,2023-07-08,Atestado Médico,8.0
+5f5ba255-e544-4887-b36a-b3ed69be173a,126,2024-02-23,Atestado Médico,8.0
+15bc2a3e-bf76-45d7-b97c-6c3c755d814b,126,2023-11-16,Falta Injustificada,8.0
+222df6a4-8163-46ce-9877-bc0694ad6252,126,2022-08-30,Atestado Médico,8.0
+13281726-64f4-44d6-91e9-1691a3209116,126,2022-07-08,Atestado Médico,8.0
+6f5b09a6-0ff1-451f-915c-b31b97867b12,126,2024-07-31,Falta Injustificada,8.0
+3c9d128a-2176-4930-b6d7-0248a995ecc3,126,2023-04-16,Atestado Médico,8.0
+50a46c85-d9d5-4b02-82d0-4d554aab47b2,126,2021-08-01,Atestado Médico,8.0
+b362c0d2-6498-4bde-8d02-54dbed1115d7,126,2021-08-05,Atestado Médico,8.0
+516c3b0a-5385-4918-bc40-15fad4f76322,126,2022-11-21,Atraso,4.5
+131eb723-3bcd-4203-859e-e67473e7f042,126,2026-04-05,Atestado Médico,8.0
+c7a9f33c-22d8-49d3-b3e4-f986f18cccdc,126,2026-01-14,Licença Paternidade/Maternidade,8.0
+27c8fc6c-1be5-44c3-95af-6d0cc5285425,126,2024-12-23,Atestado Médico,8.0
+774f6354-7316-4e64-aa14-7a961b0c62eb,126,2025-01-30,Atestado Médico,8.0
+893259f3-1ee8-4a4c-a811-34e250647c59,126,2023-12-13,Falta Injustificada,8.0
+3527a5c8-c534-4a08-b6f2-4d1c5bb8b9c8,126,2022-11-30,Atraso,4.8
+43d78f2b-769d-41e3-8eed-412473b0d676,126,2026-01-23,Falta Injustificada,8.0
+28597b34-1725-42c7-9eb2-a7b8da3c45ca,126,2021-11-30,Licença Paternidade/Maternidade,8.0
+d38e13e4-4de1-487b-afa1-4a55cebeabaa,126,2023-09-23,Atraso,1.9
+0a530df9-9a72-483c-b266-986cb46788bd,126,2022-10-17,Atestado Médico,8.0
+53ea4919-db48-42c2-95ff-2a1f370b9a29,126,2025-05-22,Atestado Médico,8.0
+3f8b4433-b60e-495c-9759-ba9625f88c74,126,2023-05-13,Falta Injustificada,8.0
+837217e0-6570-46ea-9b11-f51ff7e9101d,126,2025-08-05,Atestado Médico,8.0
+429a4a7c-4c80-433a-ad5b-e3c80c880714,126,2023-07-28,Licença Paternidade/Maternidade,8.0
+07f4fee5-2c82-489f-bd9c-fbb0d1f16485,126,2023-05-13,Atraso,1.3
+73c374a6-dac7-46b6-a786-3fb3f3bc9a71,126,2021-08-06,Atestado Médico,8.0
+3ff6579e-8cd4-490a-bf82-11bc8e52fc42,126,2024-07-04,Atestado Médico,8.0
+cdcc2d6a-1a16-498c-b648-776e183fea70,126,2024-06-17,Falta Injustificada,8.0
+030f9be9-1f17-4f93-a3c9-7a1ecb371d97,127,2024-03-07,Atestado Médico,8.0
+fb8986c8-c7ec-4e71-9493-47fc0fc98d2e,128,2024-03-08,Licença Paternidade/Maternidade,8.0
+d2dc42c8-32b8-48aa-a176-8dd738e7e019,128,2025-01-22,Atestado Médico,8.0
+a15b2e18-afb0-4406-9f4b-1a97668c879b,128,2025-05-23,Falta Injustificada,8.0
+95132c22-1583-4b99-a50a-13dcf004e897,128,2025-03-29,Atestado Médico,8.0
+d010318a-eadc-4960-8242-11e2960be0f4,128,2026-02-13,Falta Injustificada,8.0
+10813d45-ff45-48a2-8594-b24f13325c31,128,2025-07-09,Atestado Médico,8.0
+7184b713-a55f-45b7-a709-fba6329fc417,128,2024-10-05,Atestado Médico,8.0
+e7b33085-178b-4968-a0f8-7ba2cf2e3296,128,2026-04-17,Atestado Médico,8.0
+54e07431-cf13-4b65-9450-afa2d8e70aeb,128,2025-09-22,Falta Injustificada,8.0
+7603c36c-f139-4e3c-8aee-25571f5df912,130,2026-01-11,Atraso,3.8
+92ea1324-ec93-4596-ab01-57230cf697a5,131,2024-03-13,Atestado Médico,8.0
+651ea252-b974-4cde-9259-f9606ee35607,131,2025-06-04,Atestado Médico,8.0
+aee70ab2-61fa-4e7a-878c-26ce7f0223bc,131,2024-05-06,Atestado Médico,8.0
+36f7a26c-5a9c-4679-ac3d-17e26d39da75,131,2026-07-13,Falta Injustificada,8.0
+47a48c42-4665-4497-afe9-22aae886a011,131,2023-02-08,Falta Injustificada,8.0
+08dec921-260c-4547-a228-0fe3722dce13,131,2023-05-31,Atestado Médico,8.0
+3eebc04a-9df2-472e-9e82-5aae9d3616a1,131,2025-09-03,Atestado Médico,8.0
+69785221-7fb7-4c57-8b8c-031fa5b40983,131,2025-02-24,Atestado Médico,8.0
+0f9c5300-7aa1-4567-8cf9-eea9e1fdc6d1,131,2024-07-19,Atestado Médico,8.0
+2321e64e-620d-4a1f-879f-66281674eb65,131,2025-02-06,Atestado Médico,8.0
+e2789642-a484-4035-b30f-aaa36b52f93c,131,2022-07-10,Atraso,1.3
+a1791e93-3fc8-45ac-869b-c00fcc152a1b,131,2023-01-24,Atestado Médico,8.0
+cb7b0b3a-8b2d-458a-8d5a-e324fe7c80e9,131,2026-04-19,Falta Injustificada,8.0
+c82ba1be-61eb-44e6-bd49-8e2004ffeab2,131,2024-03-01,Atestado Médico,8.0
+8b6584ce-7acc-4970-9bee-c570b69f75c5,131,2024-12-14,Atestado Médico,8.0
+e9a53368-5812-4eb2-bc13-f47ac80c2195,131,2025-03-17,Falta Injustificada,8.0
+636cf499-5254-4ad3-809c-d83990ce82e8,131,2024-11-09,Falta Injustificada,8.0
+51a1f5df-06ac-4010-ae08-69c1453b45fe,131,2023-02-18,Atraso,5.2
+e550d736-0780-4e71-b811-b51998dc9e0b,131,2025-03-09,Atestado Médico,8.0
+0effd5bd-47eb-440d-874e-48ffcf89569d,131,2023-01-30,Atestado Médico,8.0
+8788dfed-78c0-4ed8-bdd4-ff21cf03f0c8,131,2024-02-19,Falta Injustificada,8.0
+ffe62994-9580-4c2a-844f-c4b85b80b8d1,131,2025-09-25,Atestado Médico,8.0
+19a2676f-28dd-4bfd-b956-be953b964c74,131,2024-01-31,Atestado Médico,8.0
+443b1d0f-3dbc-4093-a828-44423f738f50,131,2023-03-17,Atestado Médico,8.0
+ead18464-ca8e-458c-90f8-1063889fe107,131,2024-07-01,Atestado Médico,8.0
+ff138c80-c398-4332-8e50-0785bcaff931,132,2024-10-22,Atraso,5.2
+d8b48ead-9360-4edf-b82b-5b86f2a32efd,132,2025-12-22,Atestado Médico,8.0
+5ad479ef-636f-4890-8c21-cbdbfb8fe8c4,132,2025-12-27,Atestado Médico,8.0
+d86065a2-fdd5-40f8-96d7-44fdef69a980,132,2026-02-12,Atestado Médico,8.0
+97af5bde-3c8e-4d78-ad14-e9f42c78644f,132,2025-11-17,Atestado Médico,8.0
+b297a782-bcf4-44aa-8e63-cb1a5168bbf2,132,2026-04-15,Atestado Médico,8.0
+07388ba4-9770-43db-a9fa-97e25bd93609,132,2024-10-23,Atestado Médico,8.0
+f2933585-5a07-4758-b357-f3f9b4157cea,132,2025-10-17,Atestado Médico,8.0
+9027e770-2460-40d2-9048-83c191519998,132,2023-03-24,Licença Paternidade/Maternidade,8.0
+fcedf994-d631-4383-b030-14d0f2c84743,132,2025-03-13,Atestado Médico,8.0
+7e02921d-f86b-443a-a1b2-43cccf767343,132,2024-12-27,Atestado Médico,8.0
+7d8d3ddd-2cf1-49cb-8f1e-1a378ac8ad93,132,2023-09-30,Atraso,7.9
+3b8d3447-0e61-465f-971b-1b8009b7fdf7,132,2026-05-28,Falta Injustificada,8.0
+86c5547c-051a-4039-b803-dcee9a069295,132,2024-11-09,Atestado Médico,8.0
+eafb3e90-54ec-44ce-802c-cb257a5d7c82,132,2023-04-13,Atestado Médico,8.0
+2167c35e-ce73-44f2-b393-2b6c9d37efb6,132,2026-06-24,Atestado Médico,8.0
+eb3537a0-2d6e-4291-b789-3986573bfc17,132,2025-10-16,Falta Injustificada,8.0
+52d6b779-de43-49cb-9823-0076cd6bb03b,132,2024-08-14,Atraso,7.8
+962c04dd-25d0-4461-859c-15740f3f0f48,132,2026-05-17,Falta Injustificada,8.0
+c63ce21d-2443-4958-aacf-33a9b466fab6,134,2026-06-26,Atestado Médico,8.0
+dc54d59b-86bb-42c7-98b2-f8b61c654aa2,135,2025-03-07,Falta Injustificada,8.0
+5fa3a531-1291-4e60-b5e7-2daf5d696bc8,135,2026-03-04,Atestado Médico,8.0
+6545c030-a981-4a54-b121-e129b45c9a54,135,2026-06-20,Atestado Médico,8.0
+4d407b28-5628-4dcd-99dd-3e8c96053035,135,2026-06-10,Atestado Médico,8.0
+28522ca2-f9d2-414a-a2ee-7f0752961fb3,135,2025-10-08,Atraso,2.0
+cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,135,2026-08-12,Atestado Médico,8.0
+a630ad9d-7cb9-43f5-b5ed-f382a3a6ef83,135,2025-05-20,Falta Injustificada,8.0
+f7ff88d4-b509-408a-ac98-8bca51397c06,136,2025-08-10,Atestado Médico,8.0
+edc8cca8-e3bc-46f3-b18d-2c8c8fddbebc,138,2022-07-14,Atestado Médico,8.0
+392612e9-5b58-4b49-8978-4b529d1c0838,138,2024-11-25,Atestado Médico,8.0
+2ce3d822-d080-42b8-96c5-6fe7aa604892,138,2024-03-09,Atestado Médico,8.0
+b0416f19-bbe7-4835-8e8b-f78a60ddc7f1,138,2024-10-10,Falta Injustificada,8.0
+ba94aa66-2d7e-4a45-a099-e71f4b657bcc,138,2023-04-12,Atestado Médico,8.0
+f2dde1f5-b3b6-4344-b2e3-c6f00075d3d5,138,2024-09-28,Falta Injustificada,8.0
+fe8956c8-d9cb-4540-a43f-fdae92a54d04,139,2025-10-29,Falta Injustificada,8.0
+084a3c4b-9146-4cdc-b716-4b73c55523ed,139,2025-12-14,Atraso,6.4
+ebc92914-5176-49d1-9a36-24d62e9ce8ff,139,2026-07-17,Atestado Médico,8.0
+388c9751-9c83-49ae-b7b0-2805cf0df860,140,2023-04-20,Atestado Médico,8.0
+efcac577-1aa6-47cb-90c7-e6aca3bfe403,140,2023-09-22,Atestado Médico,8.0
+beced21a-54c7-443b-a401-342a7f05fbf5,140,2025-11-10,Atraso,2.5
+fb7d3ba1-58c8-4c48-bced-4d1f13eb22c9,140,2024-10-09,Atraso,8.0
+e2a45909-a2dd-42d5-aafa-ab7b51cbf9e5,140,2025-08-19,Atestado Médico,8.0
+b57ec883-d258-4d90-96b6-bf61f68c62e6,140,2025-11-24,Licença Paternidade/Maternidade,8.0
+e2fbb984-bab2-4bce-a39c-3bd5ab86bafd,140,2025-01-23,Atestado Médico,8.0
+43e4f668-02ea-42df-b256-56e355f3ad50,140,2024-09-16,Falta Injustificada,8.0
+115affac-b173-4cdf-bfe1-e8f335adde88,140,2023-12-03,Atestado Médico,8.0
+1ba827c6-c97a-44ad-81b4-55b859b9222c,140,2025-07-12,Falta Injustificada,8.0
+62ccc604-0c53-444b-8053-f649b86d066b,140,2025-12-09,Atestado Médico,8.0
+f8170ebf-6b6e-44c5-bb8a-a843702f31e5,140,2024-11-14,Licença Paternidade/Maternidade,8.0
+7e3a9f07-69fd-48e6-a271-fff92a9527f6,140,2026-01-05,Falta Injustificada,8.0
+8bc83a02-59ea-4936-a0f3-4ebce1bbb8cd,140,2024-12-08,Falta Injustificada,8.0
+7abfcebf-d42c-41ae-99f7-38cb6016c743,140,2026-07-23,Atestado Médico,8.0
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,141,2025-12-04,Atestado Médico,8.0
+29a3db6d-39bf-4a38-afe9-be90c21c3fb3,141,2026-03-26,Atestado Médico,8.0
+d883e3f8-cc98-43de-92de-9e5a7387928a,141,2025-10-28,Atestado Médico,8.0
+51976e75-0523-44fd-8b7f-2183088dbd82,141,2025-11-25,Atestado Médico,8.0
+12fecc2b-1acf-42c5-b3a0-212042d943ee,141,2025-12-11,Atraso,4.9
+601e0211-e34f-46b4-ab8c-03bf5780be17,142,2025-01-09,Atestado Médico,8.0
+8c0b393a-1333-4bc9-bb63-5ff529310971,142,2024-12-22,Atestado Médico,8.0
+17d5b563-fa60-4de1-a5eb-772df11c0ac5,142,2024-07-08,Atestado Médico,8.0
+9d17d218-fc3b-4de5-9812-62ac5683ede0,142,2026-02-05,Atestado Médico,8.0
+07ef2ba8-b45a-4ab3-bb94-a34de4aa786d,142,2025-02-18,Falta Injustificada,8.0
+2a3d418d-a754-429f-b143-e5456e6b34b9,142,2026-01-17,Atestado Médico,8.0
+2837f418-6f27-41b9-a3c6-dedb9b792afa,142,2025-04-24,Atraso,4.9
+349ef4a9-54c2-4d5c-99ec-08290db5d441,143,2025-05-19,Atestado Médico,8.0
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,143,2025-06-02,Atraso,1.9
+badf9397-ecf2-4429-b8d7-7d2f8dda4ff2,143,2026-07-05,Atraso,4.8
+4811e562-a91c-4192-83e8-644b8a45a905,143,2025-09-20,Atestado Médico,8.0
+0cb4e891-188d-423b-bccf-f6eb4c2272f3,143,2025-07-31,Atraso,7.7
+d700b461-8cb6-40ba-925f-819964953d5f,143,2025-01-08,Atestado Médico,8.0
+5c5f48d4-0df4-47b8-a751-ab867daec949,143,2025-06-05,Licença Paternidade/Maternidade,8.0
+4b6797a1-166e-4fe3-ad77-959500fa0eb4,143,2024-09-24,Atestado Médico,8.0
+99a7b99b-a005-45e1-a97a-2846d2eaef18,143,2025-06-02,Atraso,7.7
+06969d48-18d4-4238-b31d-e35c7af6cd41,143,2024-10-31,Atraso,3.4
+4ab427e3-a360-4681-abbb-a89d34fadee1,143,2025-11-07,Licença Paternidade/Maternidade,8.0
+d8014004-793b-4d1b-94f9-c394fa207403,143,2026-06-14,Falta Injustificada,8.0
+65c06b93-c8ed-4bdd-8ef0-3f801d91fe39,144,2026-01-31,Atestado Médico,8.0
+a939ebd1-e516-40d4-bd35-72cc788fd0cd,144,2024-08-06,Atestado Médico,8.0
+8b4bd7e7-a451-4ae0-9754-bf0843d75413,144,2024-07-12,Atestado Médico,8.0
+e2afa629-5efb-436e-af54-60336334fa2a,144,2026-06-02,Atestado Médico,8.0
+721e5419-2fc3-4649-9e91-1b9161a66444,144,2024-12-01,Falta Injustificada,8.0
+770e09db-7092-4401-8367-5d580b6c03c8,144,2026-07-20,Atestado Médico,8.0
+44c07a9a-d64a-4b1f-b9eb-038a436e3c49,144,2024-12-02,Atraso,2.0
+c0927b74-26b0-4ff6-8fc7-9913907276ea,144,2024-09-27,Falta Injustificada,8.0
+15f0ea19-18c1-40d2-aadf-3692b24beb96,145,2023-03-10,Licença Paternidade/Maternidade,8.0
+8a9c66f7-cee4-4512-9802-b640ab0b4cc5,145,2025-11-18,Atestado Médico,8.0
+96f84ff7-c1a7-4883-b880-287869fb0763,145,2024-03-03,Atraso,5.5
+d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0,145,2023-03-14,Atraso,1.7
+6b2b78b9-85c7-43be-9183-010f6319629b,145,2024-10-03,Atestado Médico,8.0
+ddecc40b-afe3-4f13-8917-78e8f7336094,145,2025-07-21,Falta Injustificada,8.0
+e1b41171-929d-474d-b98e-175fefb56207,145,2023-06-20,Falta Injustificada,8.0
+143665f5-4c81-4260-b9ec-533c3c53090e,146,2025-02-21,Atestado Médico,8.0
+b6dcbd05-da9b-4cc1-a71c-681a6511e61a,146,2024-10-09,Atestado Médico,8.0
+e684390c-923b-4820-8089-b8c508e3f771,146,2026-04-20,Atestado Médico,8.0
+ad72ed05-924c-4e09-8cea-5031844e250b,146,2025-03-14,Atestado Médico,8.0
+1ecacae9-25bf-413d-9eca-381bfb95d0fc,146,2025-11-24,Atestado Médico,8.0
+2c41cbd3-72f4-44ab-81d7-1f4af3025d16,146,2026-08-03,Atestado Médico,8.0
+f8dfcc3a-2acb-4fbd-bbff-8a7df2f5b176,146,2026-02-03,Atestado Médico,8.0
+204db9da-3156-4f2a-8ef7-4829363e6ef4,146,2026-02-04,Atestado Médico,8.0
+fcffe9e3-140f-4589-ac62-4c2c0aeccec7,146,2026-08-01,Atraso,2.4
+ff4d0930-33b0-4b53-af75-ee8aaee14f87,146,2025-07-25,Atestado Médico,8.0
+d5881c1c-25db-4946-a091-e5b4d2938e6e,147,2024-06-08,Atraso,5.5
+e92a7b97-51db-4a37-8204-d73398550b1e,147,2023-11-20,Atestado Médico,8.0
+1127b207-ceae-4325-aa07-4d80ba236c22,147,2025-03-30,Atestado Médico,8.0
+65b90e94-8e6d-4263-a35a-775d16476e3f,147,2024-04-14,Atestado Médico,8.0
+46b518de-db4b-48eb-937d-0bd18d536c75,147,2025-02-18,Atestado Médico,8.0
+df9b7c1f-eacb-4f6d-b549-c9f9850a48d4,148,2022-11-11,Atestado Médico,8.0
+9f80b96b-b34e-456a-895b-61f8032a461a,148,2023-08-20,Falta Injustificada,8.0
+6b6a8061-c81c-4d31-85c6-9fbf966b62ea,148,2024-12-29,Atestado Médico,8.0
+25f06b0a-264e-459d-aa18-e5af1cce08e9,148,2023-08-22,Falta Injustificada,8.0
+c2250530-952a-4345-9682-d9ff910c4cb7,148,2022-11-09,Falta Injustificada,8.0
+ecc817a6-19a6-480e-b08c-e6c2f6ff3521,148,2024-11-17,Atestado Médico,8.0
+19da8262-c790-4dc5-900c-0af71b0ae22e,148,2025-06-06,Atestado Médico,8.0
+891f4683-de12-4bf1-893d-6196c926a021,148,2023-09-12,Falta Injustificada,8.0
+693016ea-e0bd-41ee-9807-cf74e1509425,148,2024-04-10,Atestado Médico,8.0
+7c4f48e4-a7a0-4a3d-a20f-230b439e754c,148,2022-11-11,Atestado Médico,8.0
+099759a3-7919-455c-9be4-f19f92701d60,148,2022-09-14,Atraso,3.1
+24d38751-6729-4d3c-8681-8a882c154804,148,2026-01-12,Atestado Médico,8.0
+b193c8b8-ae49-4079-9bd0-d4c79e45455e,148,2023-04-03,Falta Injustificada,8.0
+e3bb22ae-6552-4c53-89ed-a6f566d71d97,148,2024-07-13,Atraso,3.0
+3cd1ff3f-b0c5-4278-94dc-cba5e1035e1c,148,2026-04-01,Atestado Médico,8.0
+ebbbd763-79a7-463b-bee9-75da0c9e5550,148,2025-09-12,Atestado Médico,8.0
+052dfb9a-5f58-4603-a5a3-d8e944c1f1b5,148,2025-08-04,Atestado Médico,8.0
+4d950273-cb2c-4805-9140-3430567e642e,148,2025-06-03,Atestado Médico,8.0
+7ddac1b6-d7c4-4aed-87c4-cc514f9a5f98,148,2023-05-28,Atestado Médico,8.0
+1924c644-af52-4666-b239-09f4dbb54645,148,2025-06-24,Falta Injustificada,8.0
+226716e3-3a5b-4ac5-9e70-3b72f8f58a26,148,2025-04-11,Atestado Médico,8.0
+716fb276-be64-4c2a-b966-71a54cec495b,148,2024-03-07,Atestado Médico,8.0
+44f8b53c-5224-4d05-9369-2867c626e38f,148,2023-09-25,Atraso,6.7
+a543148e-9adf-4981-aab1-9e15ba92992e,149,2026-05-21,Licença Paternidade/Maternidade,8.0
+361db014-7114-46de-b01c-8db316db80db,150,2024-05-22,Falta Injustificada,8.0
+bdae8eff-683c-410e-92ef-a93be9d6bb7e,150,2025-06-14,Atestado Médico,8.0
+de0018aa-8439-4fc0-826e-27067c059799,150,2023-04-05,Falta Injustificada,8.0
+83e8b700-0e63-413e-922e-32265fb8944d,150,2025-11-05,Atestado Médico,8.0
+4fa5c35e-10cc-4604-a8b2-6b1bca9f1d59,150,2022-11-11,Atestado Médico,8.0
+22b9f24c-6744-4fb8-81bd-55d5b5a6571c,150,2021-11-23,Atestado Médico,8.0
+e11bf0d4-8637-4f04-99ee-7dc9c7cfeca8,150,2025-12-12,Atraso,3.4
+3158f1fb-2c7a-4d31-8769-25839194821e,150,2023-06-22,Atestado Médico,8.0
+d6441a9d-3362-4476-953a-e57fe00bd534,150,2024-12-31,Atestado Médico,8.0
+74d9d1f5-0877-4804-bfde-98140ec0ad4b,150,2025-08-07,Atestado Médico,8.0
+b462e3e8-5c41-4a83-ab04-159c0cf173f9,150,2026-01-23,Atestado Médico,8.0
+d2d14ef5-5e4c-4fd1-8623-63a932f8dbab,150,2022-11-25,Licença Paternidade/Maternidade,8.0
+a2aa378c-659e-4258-814f-f65776d70561,150,2022-10-20,Falta Injustificada,8.0
+07d2fd4d-ae61-416a-9fb6-21aeec4e8cbb,150,2025-03-30,Falta Injustificada,8.0
+98133da1-7d21-40ad-9f59-fb4d3defa7ba,150,2025-05-26,Atestado Médico,8.0
+ded7d3ef-f5e4-49c1-ad76-1ffa7233d5af,150,2024-02-03,Atestado Médico,8.0
+5989dd6c-8d24-44f9-963d-c8bf797e3984,150,2026-06-15,Atestado Médico,8.0
+e4fd6c34-d670-4a21-a9dc-073e5820b3f2,150,2024-03-19,Atestado Médico,8.0
+b0588256-d4b3-48cf-bfbb-eab342378962,150,2024-09-15,Atestado Médico,8.0
+62f5f7c2-0706-4ec2-88fa-4e981723ecdb,150,2023-08-28,Falta Injustificada,8.0
+927f8103-da94-48c0-a9b4-4cb10cb5ee5c,150,2022-04-21,Atestado Médico,8.0
+db6ba39b-36dd-4529-b704-d72fc7a2f280,150,2024-01-24,Atestado Médico,8.0
+ad7d6f81-39a0-4145-a5ba-b05038aa76df,150,2025-07-27,Atestado Médico,8.0
+68d576b8-a6ce-4d7a-84e2-a94b34ec5264,151,2024-03-20,Atestado Médico,8.0
+c7c1fb1b-dd58-431b-8522-26b983666636,151,2023-12-20,Atestado Médico,8.0
+02472360-aea4-4441-847f-a57ef796611f,151,2025-11-09,Atraso,3.3
+a5ba2472-21df-4609-a959-137f795e6f2b,154,2024-05-06,Licença Paternidade/Maternidade,8.0
+022aadda-cd05-49e2-99e4-704c2c56e0cd,154,2023-07-08,Atraso,4.1
+ce1a1669-9bbc-4cbc-809c-a8f23948fe22,154,2023-09-10,Atestado Médico,8.0
+f78ee9e8-b676-491d-8e32-9b4bf168c605,154,2024-01-17,Atestado Médico,8.0
+6c7e9a2c-467f-458b-a48a-a108b599277f,154,2023-11-21,Atestado Médico,8.0
+59450186-da01-4d29-a060-b1ebe53e5f4c,154,2025-06-17,Atestado Médico,8.0
+7779857f-37dc-4c78-8082-fcda7580e4e9,154,2026-04-01,Licença Paternidade/Maternidade,8.0
+d30608be-8548-467b-ad5c-ba244d59616b,154,2025-05-29,Atestado Médico,8.0
+1a312044-95a0-4356-a5ab-c9ff9fa4a627,156,2026-06-18,Atestado Médico,8.0
+a9902071-ffda-4a93-82f2-900401e187d8,157,2023-09-08,Atestado Médico,8.0
+5fcd859e-d6e1-4109-97e1-74e6f76b9723,157,2022-09-17,Atestado Médico,8.0
+9beab529-9801-4a2f-a5b8-36938fbba749,157,2026-02-08,Falta Injustificada,8.0
+1bacbd0d-af35-430b-8c68-eb17485d831c,157,2023-01-10,Atestado Médico,8.0
+fd053963-5616-4f7e-9057-a0027b53359e,157,2024-12-21,Atestado Médico,8.0
+dc8ab6a7-533c-4ed5-a3fe-047946c79b36,157,2024-01-31,Atestado Médico,8.0
+b60a3dcc-a7f7-4451-82da-860946e1ee40,157,2023-04-05,Atestado Médico,8.0
+4c7d9313-a6c6-41b0-a472-9be5f3c2944a,157,2024-08-20,Falta Injustificada,8.0
+c3f62136-846d-4a3b-a661-c42630385dd7,157,2026-03-18,Atraso,4.5
+ce30a61d-0e88-48ec-a651-e3e13d846fc9,157,2026-04-22,Atraso,6.4
+999bc859-cf5e-4f0b-8d67-b5dfdb7904e0,157,2026-03-26,Falta Injustificada,8.0
+ae46024d-51d0-4ef3-a918-83fc6772fe9f,157,2023-01-08,Atestado Médico,8.0
+a7c854e4-0684-4c86-b8a6-040223d26b8d,157,2025-12-11,Falta Injustificada,8.0
+4269c28c-4bac-4edf-bf5a-229e7f53d344,157,2024-01-07,Atestado Médico,8.0
+6365fc2a-6793-4b09-ab27-1effe82b5b36,157,2024-06-03,Atestado Médico,8.0
+b54401cb-9541-4a9d-890a-aa93bc9a7998,157,2025-10-22,Licença Paternidade/Maternidade,8.0
+309e47ba-d0e6-46e5-9271-5f6efea82e3a,157,2023-08-08,Atestado Médico,8.0
+38eccb4d-b69f-4eab-b9ff-2c2957d9cbb0,157,2023-08-04,Atraso,7.7
+c8ef0377-a368-44f5-88dd-d880afb28b3d,157,2025-01-16,Atestado Médico,8.0
+abff9286-f0cf-4d73-a812-1ef079c9c839,157,2023-03-22,Falta Injustificada,8.0
+d86d655d-4cd9-4164-81df-62f45bc677ca,157,2024-11-29,Falta Injustificada,8.0
+e061f65f-a859-4f8c-9734-18fe2b843ef3,157,2026-07-22,Atraso,7.9
+18fc83b7-4b35-4e9a-ae5e-eb6a8ee9581a,158,2026-05-11,Falta Injustificada,8.0
+423701f1-bdac-4c5e-a0c0-f2757885187d,159,2026-02-05,Falta Injustificada,8.0
+c34e9baf-8f1c-42cc-8eef-9fa8b9a5d4d0,159,2025-11-17,Atestado Médico,8.0
+ae01a122-f269-421c-aedd-9141e9a1c6d5,159,2026-01-24,Atestado Médico,8.0
+16dc5a6e-a789-4770-95ec-024ae64b9b37,159,2026-06-03,Atestado Médico,8.0
+be848aa2-392c-44da-9af3-da5a38e59b27,159,2025-03-03,Falta Injustificada,8.0
+c9c04b7d-6ba4-470b-8e9d-23e9df162ec3,159,2025-04-02,Atestado Médico,8.0
+42b40281-5f26-4466-94d1-332ae3082ddc,159,2026-06-19,Falta Injustificada,8.0
+d9e92758-76b9-4436-8b46-ef3395e7f614,159,2026-03-25,Atestado Médico,8.0
+ddcbf4bc-0dbd-45da-b875-15b91e26ed31,159,2024-10-14,Atestado Médico,8.0
+f1bdb598-948f-464a-9565-257ba267d32f,159,2026-01-12,Falta Injustificada,8.0
+e3b16d36-78e3-4397-923b-31cf9ee339ff,159,2025-10-23,Atestado Médico,8.0
+de14553b-1eac-41d9-801f-490931cd9f6e,160,2026-04-17,Atestado Médico,8.0
+4c610ae8-87a3-4f10-a1b5-12edae423568,160,2025-11-22,Atestado Médico,8.0
+daaf7529-deef-482a-8dd7-015869c165ae,160,2026-07-29,Atraso,1.8
+3346a332-fe0a-424e-a32a-5e8226996aab,160,2026-07-21,Falta Injustificada,8.0
+91c46efc-fcb8-46bb-a8c0-cbef57b936b0,161,2023-12-02,Atestado Médico,8.0
+752366ce-fc95-4bba-a818-4f34e4917f7d,161,2025-12-29,Atestado Médico,8.0
+b7360c4f-dcc5-4975-90fe-819924aa5685,161,2025-10-17,Atestado Médico,8.0
+7cd2192f-14b0-4f62-8768-b07f2e2bdc6c,161,2023-08-16,Falta Injustificada,8.0
+2d445af8-fc94-46b1-a18b-5d1555273407,161,2023-09-15,Falta Injustificada,8.0
+0134e76b-0ed9-4a95-a26e-865b503be788,161,2024-08-15,Atestado Médico,8.0
+c2dd901d-359a-4533-8605-ec0e73b9c2ac,161,2025-09-13,Atestado Médico,8.0
+c3b534db-9387-43c9-ab29-bf36c606ddc4,161,2025-04-05,Atestado Médico,8.0
+c37944c1-c903-44ea-bd54-ec82288f3435,161,2023-06-09,Falta Injustificada,8.0
+9d4e8b5d-2120-4fba-9689-e0b8c79ddb62,161,2026-08-07,Falta Injustificada,8.0
+6744cb9e-6ded-4ba5-a22c-3d4f6f07b60f,161,2023-12-08,Atestado Médico,8.0
+62210670-7a36-4788-b71f-b9a66dd49c96,161,2026-01-20,Atestado Médico,8.0
+330ccff5-88a5-4a0d-89a8-5dc50131ff3b,161,2025-07-11,Atestado Médico,8.0
+039a8ed5-f337-4261-9f83-92d5bb0c7919,161,2023-04-18,Atraso,7.3
+d54e7948-c1c0-45e3-927c-8f50e45a87e8,161,2025-04-13,Atestado Médico,8.0
+ad3f5dd4-0496-46ba-b0c9-a2be87f1d48c,161,2023-02-04,Falta Injustificada,8.0
+3fb2df47-bbcd-4c18-a06e-8de5010e4265,162,2026-02-20,Falta Injustificada,8.0
+58274e80-e082-4918-b18a-d67d39ec8ca1,162,2026-05-29,Atestado Médico,8.0
+62305d27-1a4b-4606-a101-9bff4fe54745,162,2026-05-04,Atestado Médico,8.0
+2ac1d5ca-4e5d-4f12-96b3-1f4a80daa8ca,163,2025-09-09,Atestado Médico,8.0
+4c56fb8f-0bb4-42b3-92e7-6deb10b6a662,163,2024-04-09,Falta Injustificada,8.0
+ba533122-74b7-4620-8a73-b0bff2ce7eeb,163,2025-09-04,Falta Injustificada,8.0
+567c5d44-862c-42fd-98ab-b2e785319f0f,163,2025-05-28,Falta Injustificada,8.0
+fed747be-afd0-42f7-a352-44446f04af36,163,2025-12-29,Atestado Médico,8.0
+e6c11650-ff02-45b0-97bd-56c92240063b,163,2024-12-21,Atestado Médico,8.0
+303cb04b-c007-4336-9bf7-dda17d7c59a5,163,2026-02-19,Atraso,1.2
+eb0f827c-e82a-4879-b2b5-a7ea2a35ce30,164,2023-09-13,Falta Injustificada,8.0
+3a799efa-04e5-4bd5-a744-acd4cfdfc6f9,164,2024-11-26,Atestado Médico,8.0
+2196b3b5-fc21-409b-ba27-bc64396d1ffb,164,2024-02-03,Atraso,1.3
+96f61c09-059c-4ba0-bbec-721d3610901c,164,2025-08-12,Falta Injustificada,8.0
+5dd8effc-1f87-4b32-ab42-9596812faa38,164,2024-01-15,Atestado Médico,8.0
+0990a647-cac8-487e-a689-d07fb60b4f87,164,2024-01-08,Falta Injustificada,8.0
+417b6634-a3ec-452c-a065-3245600c9c71,164,2024-01-26,Licença Paternidade/Maternidade,8.0
+0c7031eb-9f85-42dd-88e4-4a48c5709e30,164,2026-04-30,Falta Injustificada,8.0
+a976dc4d-0c47-4187-bea3-5d37980b6853,166,2025-09-24,Atestado Médico,8.0
+050dcbfe-d60b-4603-a750-350e1bad52a8,166,2025-02-02,Atestado Médico,8.0
+6ab1cdb6-1da4-46fe-b093-70850c5921f8,166,2024-12-18,Atraso,6.4
+8c1ab2c7-1fa3-4d1f-a158-4f8871be94c3,166,2026-05-25,Atestado Médico,8.0
+27335670-b3ad-42ba-b972-09c040b374f8,167,2024-10-15,Atestado Médico,8.0
+a15c159a-af8c-4888-b1f8-1ad9349b5089,167,2024-11-01,Atestado Médico,8.0
+a962d996-6bbe-4b5a-8d15-f7d80261c87a,167,2025-03-16,Atestado Médico,8.0
+451d38fe-8532-4c74-a998-7bdf19d9d0b5,167,2024-10-22,Falta Injustificada,8.0
+231d260b-b362-4d55-9b0a-da0b9f6facc1,167,2024-10-18,Atraso,1.6
+1adba8cf-e60c-4638-94a5-a81e6b382a0a,167,2026-05-27,Atestado Médico,8.0
+1e23da4b-9e21-441f-b801-102682f73861,167,2025-09-18,Atestado Médico,8.0
+1b341937-c8e6-4939-9d2f-ed2a485f7888,167,2023-06-09,Atestado Médico,8.0
+3322c68b-9be7-4aec-b2da-81f07f6bd3c6,167,2026-05-10,Atraso,7.0
+85ece729-d4dd-4b56-8353-91b2c72850c1,167,2023-05-10,Falta Injustificada,8.0
+b4146e4a-5ba0-43e0-b3a0-daa7f91e5fcd,167,2023-09-10,Atestado Médico,8.0
+0a167e18-290e-4e89-8b9c-22f468e5c8cd,167,2025-09-14,Licença Paternidade/Maternidade,8.0
+352b6ec8-e90d-41cb-bf11-1a368c52d271,167,2024-11-22,Atraso,4.7
+54a27051-7b0c-4ad9-aee1-3caeb02e21aa,168,2023-12-18,Licença Paternidade/Maternidade,8.0
+abf0263e-0343-4b64-80b3-700f3c088990,168,2022-09-25,Atraso,6.3
+d5d1c669-1c45-4357-a829-4a6716c8e3d7,168,2024-05-21,Atestado Médico,8.0
+262e5559-7e7d-4a19-ab45-057892fbacf6,168,2025-04-23,Falta Injustificada,8.0
+82ff1f2e-c78f-47cf-970f-a87bf30ee4fe,168,2026-06-28,Atestado Médico,8.0
+19ee2c3b-b93c-4b0b-b93b-770c13365c0c,168,2025-10-07,Licença Paternidade/Maternidade,8.0
+3b2d520b-a4f3-4185-8182-2509e79f9f3d,168,2025-02-02,Falta Injustificada,8.0
+4bc81c16-fa2f-4d74-bd19-35cc74eda60e,168,2025-09-11,Falta Injustificada,8.0
+198d13a4-0cd2-4e43-b6da-e194439db29d,168,2024-11-02,Falta Injustificada,8.0
+0a190939-dfc7-4b26-acb9-41fcd02c75f9,168,2024-01-01,Atestado Médico,8.0
+cd3566ef-5c37-4739-8a62-9c5eda2cf852,168,2024-02-06,Atestado Médico,8.0
+bd10f87c-6d0e-4597-900d-92a7ad409244,168,2025-04-18,Atraso,3.4
+c219a845-d9eb-404c-9851-d1cf1dabb10a,168,2024-04-04,Atraso,2.3
+da1c96ae-0279-42ab-8bbf-6334e3ea2d7f,168,2023-05-07,Atestado Médico,8.0
+2ba6b158-a5ae-4f37-a9d1-a28e236dd176,168,2022-11-22,Atestado Médico,8.0
+700e0efc-e4ff-431a-9b86-ea6954231dbe,168,2026-06-01,Atestado Médico,8.0
+e0e3c5ce-44af-4cb7-9f2e-befcf480b91e,168,2025-01-23,Falta Injustificada,8.0
+d0a17fe8-5f64-4a53-97cb-a85dbbaa574f,168,2026-02-28,Licença Paternidade/Maternidade,8.0
+66995af5-1d24-481c-aed0-87d457bcad3a,168,2022-10-20,Atestado Médico,8.0
+4596da75-74df-483f-b659-f1886676cc75,168,2024-01-23,Atestado Médico,8.0
+d9c59cd9-b09d-421b-a2be-4009d5f0fb6a,168,2023-11-14,Licença Paternidade/Maternidade,8.0
+a61acd8e-6bf7-440f-8cc6-2fed7a6e43d0,168,2023-02-02,Falta Injustificada,8.0
+1cf14654-2ab2-42c2-8c02-43c6e2d903c8,168,2023-04-12,Atestado Médico,8.0
+0f037337-b9f6-443b-b238-305621ec4754,170,2026-07-03,Atestado Médico,8.0
+28ce231e-d827-4fc3-b145-8426fb481ded,170,2026-08-10,Atestado Médico,8.0
+973b6977-e946-4820-aa80-cac21a8cf13c,170,2025-09-24,Atestado Médico,8.0
+adab2c2f-91a6-46da-8d61-39887b90942f,171,2025-10-09,Atestado Médico,8.0
+613758c3-9c7f-4ca6-ae67-1784702b7014,172,2023-09-06,Falta Injustificada,8.0
+0760801f-9c81-4c46-9bcd-236cc7774fae,172,2022-07-14,Atraso,4.8
+d6aa5382-e144-4b45-af39-0a9ddcd1c413,172,2025-06-13,Falta Injustificada,8.0
+2172a0aa-e44a-413a-b933-a9faba2eeeb3,172,2026-01-23,Falta Injustificada,8.0
+1ce97871-7cf5-4d5f-ab9f-33cb7bab1baa,172,2025-07-28,Atestado Médico,8.0
+0bc4d7ba-70d0-4bcb-a949-ece5e3395b1a,172,2021-07-15,Atestado Médico,8.0
+5071e5f0-a7ac-490c-82f9-0f921036ca81,172,2022-01-02,Atestado Médico,8.0
+ad8cbfea-de4b-461e-b45e-9463032a09e0,172,2024-01-17,Atestado Médico,8.0
+939f44eb-be5e-415e-847c-c30b865a7766,172,2022-11-04,Falta Injustificada,8.0
+fa575cea-3957-4344-90a4-a421b9493906,172,2022-07-14,Atraso,6.7
+569adef0-df86-4633-ab7a-eb66f4acc7e2,172,2025-04-28,Atestado Médico,8.0
+b359390e-b030-4aaf-85ea-16e084e3b774,172,2024-06-13,Atestado Médico,8.0
+a9660a5a-6ecf-4ed2-9861-c9f39e44e98c,172,2023-01-04,Licença Paternidade/Maternidade,8.0
+588309de-7b5f-4e41-bfa2-bde0ba05dd0f,172,2024-06-16,Atestado Médico,8.0
+62874624-a433-4510-ad21-b4cca9e8f0d8,172,2024-07-28,Atestado Médico,8.0
+8eefa5dd-d391-4dcf-96ca-de2c260e37cc,172,2025-07-21,Falta Injustificada,8.0
+0df80b89-9ce7-4ed1-bcdf-e961e45e2ad0,172,2024-12-28,Falta Injustificada,8.0
+282c6470-ef32-472a-a4b5-c72302fb2869,172,2025-10-23,Atestado Médico,8.0
+da143a47-7823-41d9-994d-f188816ce054,172,2023-01-07,Atestado Médico,8.0
+132a5e58-2a57-4880-9e92-05ea7eef09ab,172,2022-07-20,Falta Injustificada,8.0
+3dab1614-5215-4ed8-bddc-a413c05db774,172,2022-11-30,Atestado Médico,8.0
+0ce3c8c8-4735-4e4f-b85b-6d0a54b58635,172,2026-02-18,Atestado Médico,8.0
+a4b0718e-8ced-4707-b903-4b6581c61eeb,172,2022-01-09,Falta Injustificada,8.0
+3c28f5dc-d12d-4ea8-a73d-292060ee64ba,172,2024-12-03,Atestado Médico,8.0
+cd1f75a3-71b6-4ca1-b587-3920142e3df0,172,2024-02-22,Falta Injustificada,8.0
+db496e6d-1688-482f-b2b6-96ca92b26acd,174,2025-03-11,Atestado Médico,8.0
+1e639261-50e9-4888-b273-0e7b7f9ad277,174,2025-02-13,Atraso,1.4
+a7437402-bec7-4b11-bf53-dc0afb0d3cda,174,2026-01-03,Atestado Médico,8.0
+698f04f8-6747-424a-9a46-d536048c8480,174,2026-05-30,Atestado Médico,8.0
+000b1f5e-8c91-4d13-8ea0-2346092c4801,174,2024-11-03,Atestado Médico,8.0
+9aad10ce-cab2-4f24-9744-ee3fd36ec1bd,174,2026-02-08,Atestado Médico,8.0
+4dfa21be-a335-42c8-9e7b-1e95f692641a,175,2026-04-19,Atraso,4.9
+34f43404-8ff5-4701-8222-6c16e3de4ec0,175,2025-10-07,Atraso,7.8
+f34a7949-74ca-4ad7-abe5-be96a7939a2e,175,2026-08-08,Atestado Médico,8.0
+0de4faf4-d347-44cc-9d04-032d57423882,175,2026-03-27,Atestado Médico,8.0
+74577d47-d825-4010-b911-2943d10bf4dc,175,2026-06-08,Falta Injustificada,8.0
+9ea87552-c475-46bf-8f66-0bbd54fc286f,176,2025-10-22,Atraso,3.9
+a83c1c2b-b776-4729-b91f-49f699966612,176,2025-02-26,Atestado Médico,8.0
+1d30a290-73d9-4ace-b746-1b725d00df1b,176,2025-08-01,Atestado Médico,8.0
+38c46b38-a8ae-47b9-8262-cad018f1a1e4,176,2024-07-03,Atestado Médico,8.0
+d4734534-5aea-4352-9763-2e1e008ffab9,176,2026-06-28,Falta Injustificada,8.0
+4abf6f5c-ccc7-447f-b6e5-203ca2379e6f,176,2026-02-16,Atestado Médico,8.0
+b3bc912f-5fb7-474e-85a0-d0898c357321,176,2024-10-28,Falta Injustificada,8.0
+2a061609-e599-4d3c-8bb8-1d381b37ef19,176,2024-09-26,Atestado Médico,8.0
+b783e1d5-d264-44b9-a3f4-7a557e0f60b2,176,2025-02-27,Falta Injustificada,8.0
+1b61d453-68c2-494d-b8b8-18cfbe153187,176,2024-04-13,Atestado Médico,8.0
+3002d831-3227-48d8-9c60-c81b41191aa7,177,2025-12-20,Atestado Médico,8.0
+6494dd5c-da29-4905-ae22-a70b1ee93260,177,2026-06-20,Atestado Médico,8.0
+c80b2af7-d315-4afa-b500-f7853730dfba,177,2026-06-22,Falta Injustificada,8.0
+1b968925-5682-4038-b77f-69b930c9c51f,178,2026-04-03,Atestado Médico,8.0
+ed376567-0be7-428e-aa1a-ba9dc1d48a10,178,2025-02-22,Atestado Médico,8.0
+96bc532d-ac11-4bab-9664-2fe8a21c0c06,178,2025-11-09,Atestado Médico,8.0
+735444fb-e44a-4371-85ab-4e571f8b4af1,178,2025-06-13,Atestado Médico,8.0
+f4c8e393-96dd-4c82-a890-9e3175175f39,178,2025-06-26,Falta Injustificada,8.0
+7fb33be5-f6bf-4f72-a277-8161811317a8,178,2025-05-04,Falta Injustificada,8.0
+0c6f3051-bc78-4423-87c5-f526011c4544,178,2025-09-11,Licença Paternidade/Maternidade,8.0
+d6bca712-6ecc-4931-af70-5d018da03d88,178,2026-08-01,Atestado Médico,8.0
+82221ad3-eca3-41d4-bba1-6dd795ca788d,181,2025-07-19,Licença Paternidade/Maternidade,8.0
+2d5d2395-e901-4768-abd1-4b0cc7f4f4f9,181,2026-03-03,Atestado Médico,8.0
+bb01b2a5-2c74-4800-941c-23fab11af726,181,2026-06-07,Atestado Médico,8.0
+632d0302-1a82-433c-a0dd-a0ffd0b3d752,181,2026-07-31,Atestado Médico,8.0
+e1f85b33-9b2d-4a2a-99bd-6240a8535961,181,2025-09-07,Atestado Médico,8.0
+6279403c-e1a2-4fe7-810d-5c5752645a59,182,2022-10-23,Falta Injustificada,8.0
+ea7917e1-9be7-42ab-bac0-8fc46b2d9ccc,182,2023-06-03,Falta Injustificada,8.0
+460a6125-3f8c-43d4-832a-fc4ab148b2a6,182,2025-01-30,Falta Injustificada,8.0
+f8722413-57c5-482c-b6ae-10e865daced0,183,2024-12-20,Atestado Médico,8.0
+2224a806-ce07-4a52-b3ed-b2234b4ef503,185,2026-06-07,Atestado Médico,8.0
+b33422cb-9a3f-4ad1-a9a9-aff9235fc3d5,185,2026-05-09,Atestado Médico,8.0
+4c859233-8325-4d9e-bf98-e734e2ed8686,185,2025-05-24,Atestado Médico,8.0
+dc57546d-8c3d-431a-b395-2193d7d3b9d9,186,2024-09-14,Atestado Médico,8.0
+ef7db821-bca0-458e-b63d-65d5505c7527,186,2026-07-23,Atestado Médico,8.0
+336d7786-37a3-430a-a1f0-fa7a8db78572,186,2025-01-19,Atestado Médico,8.0
+4a636af5-b6e1-47ac-9fc9-726435afbb2d,186,2024-12-20,Atestado Médico,8.0
+ac20af11-ebd3-4927-9865-28e6afc5c20e,186,2024-02-29,Falta Injustificada,8.0
+a66c0fa1-b5dc-4a9a-bb38-cd9121f6c63d,186,2024-09-17,Atraso,7.6
+80ff2909-2d85-4212-b554-e1f8f9a55cf2,186,2026-03-14,Atraso,1.8
+5287964d-a30a-4658-b1be-6df28ae0b8a0,186,2026-03-27,Falta Injustificada,8.0
+5a2c41bc-c2c2-46ff-9d8b-32d9b5d9ad36,186,2025-06-18,Atestado Médico,8.0
+9215583a-9532-4aba-baf9-85ff8ff19886,186,2024-10-19,Falta Injustificada,8.0
+6adfd568-b5ca-4993-aaca-d101f1530f68,186,2026-01-26,Falta Injustificada,8.0
+d7654a18-e4d4-46eb-bf74-531cac9b389a,186,2025-10-24,Atestado Médico,8.0
+d8e8b97c-e0a2-4901-8932-936e88addab1,186,2026-02-03,Atestado Médico,8.0
+85d1a1ef-0344-4db3-8eed-0ffc6c21835d,186,2024-09-10,Licença Paternidade/Maternidade,8.0
+253421bc-6180-478a-8678-3c341b41a61e,186,2025-03-26,Atestado Médico,8.0
+332cce0a-0e7d-4698-ab95-c72f0d95aaf5,187,2026-07-02,Atestado Médico,8.0
+29330fc4-c918-4346-800c-200c4458b006,188,2026-07-19,Atestado Médico,8.0
+4024c424-aef2-4b2f-895f-a2fcfbc8c77e,189,2022-08-26,Atestado Médico,8.0
+b0cad2eb-0fe1-421a-96e1-ba00257c54bc,189,2022-11-22,Atestado Médico,8.0
+c0eb8875-3439-4729-8b8e-5509c8cba592,189,2023-01-30,Atestado Médico,8.0
+d06405a8-5bd2-4cb1-8845-3b2f8a8a4105,189,2023-05-28,Atestado Médico,8.0
+de3790fb-9db9-4eee-9a3c-213173dd3bc6,190,2023-03-07,Atestado Médico,8.0
+dd664071-8fd7-41a1-bd4f-6118acef45c4,190,2022-12-01,Licença Paternidade/Maternidade,8.0
+8faf6d4a-a5a9-4ebc-be0e-c2da396c357b,190,2023-06-20,Atestado Médico,8.0
+c8c85ad6-82cb-4dc7-bcd3-0e99638e1388,190,2024-04-29,Atestado Médico,8.0
+49a2afde-b235-4a3c-8c7f-9517cbfd4a31,190,2024-03-28,Atestado Médico,8.0
+ed2e1bcd-0c06-4f90-aa1c-4023b1644235,190,2024-01-24,Atraso,1.7
+f4ea6b97-6aa4-45b5-a336-c81561af663c,190,2025-07-02,Atestado Médico,8.0
+500a174e-af65-48cc-b9cf-8499c9c1ad45,190,2024-01-31,Atestado Médico,8.0
+0351b09d-0dc5-4b06-8d58-09b7f740d87c,190,2025-09-20,Atraso,6.9
+9edd2182-33fd-462d-8057-e470be6127a8,190,2022-08-04,Licença Paternidade/Maternidade,8.0
+dec00f3a-dc46-4b34-87ea-b19bde6cf36b,190,2023-07-13,Atestado Médico,8.0
+e9572bc2-39bd-4bd6-9479-cc36716ca1f2,191,2025-07-22,Licença Paternidade/Maternidade,8.0
+a5cb3c6e-b5a4-455b-b462-9214a23ff67d,191,2023-06-29,Atestado Médico,8.0
+8beef83f-96a0-4bf2-814e-bd105e244824,191,2026-05-23,Atestado Médico,8.0
+c6b18d94-324b-4c3d-9a77-91a2bd0b0fa2,191,2024-06-23,Atestado Médico,8.0
+4b4f3b2e-3189-40ec-b6db-b2b6b993ff63,191,2024-01-20,Atestado Médico,8.0
+aec2bb19-fbc3-48d8-ad6b-c88272e588e9,191,2023-04-30,Falta Injustificada,8.0
+2c7dd667-f664-4720-afdd-b26a13106665,191,2024-09-12,Atestado Médico,8.0
+6090103c-1e8d-48ad-838b-77adbc2e2b59,191,2026-05-04,Atestado Médico,8.0
+8e7d3f5a-4773-466a-adb2-b0200a670143,191,2026-07-06,Falta Injustificada,8.0
+95801c3a-2932-4211-a14c-0a4d43a534d2,191,2026-06-26,Falta Injustificada,8.0
+549fc34c-0171-45a7-8148-bd11d89462e8,192,2025-05-01,Atestado Médico,8.0
+27a158a0-efff-42f4-b5ae-329d77617d80,192,2024-07-13,Falta Injustificada,8.0
+5297e1ad-edba-4484-a759-1ad40a398bf7,192,2024-10-10,Atestado Médico,8.0
+eeb093fe-c60e-44d5-8d04-dcb698cd2655,192,2025-07-11,Falta Injustificada,8.0
+a971a31f-d7d8-4594-9d98-87bca0180791,192,2024-12-19,Falta Injustificada,8.0
+929af586-ca37-4c36-bd94-bf104d187b75,192,2025-10-21,Atraso,5.0
+c8b648e0-12a8-40c5-9bab-7f4a8cd74c27,192,2025-01-20,Atestado Médico,8.0
+384f6e3b-8680-4a8a-915f-352cb52a9e6b,192,2026-06-23,Atestado Médico,8.0
+11740357-8546-4426-af12-0b9ef4fd25b7,192,2025-07-27,Atestado Médico,8.0
+6a7a7841-28cc-412a-8150-e0c9c948384b,192,2025-02-13,Atestado Médico,8.0
+1789be63-6746-4743-897b-303d8b074d1a,192,2026-06-01,Atestado Médico,8.0
+369e5af8-e226-49ee-b8a0-6ffe597278c5,192,2026-06-05,Atraso,4.2
+5c5d3f1b-54c0-46c2-94f6-516ea9d049dc,192,2025-08-26,Atestado Médico,8.0
+c0ae0b1a-f347-4736-b7ec-07a64b27b079,193,2023-01-25,Atestado Médico,8.0
+ff2336e9-7990-4d96-87ce-c69d9e47a339,193,2026-04-28,Falta Injustificada,8.0
+fb2b8b80-c08b-4674-92dd-3e268fb3a134,193,2025-05-07,Atestado Médico,8.0
+ab3f8d22-1d5e-4aee-8240-f59aa6388854,193,2025-01-08,Falta Injustificada,8.0
+e78d147c-3d87-4034-b217-3fa35893ef12,193,2023-04-25,Atestado Médico,8.0
+9f027cbf-eb29-4912-9d1b-83dfa46b6fce,194,2026-04-04,Atestado Médico,8.0
+aebbaf9c-0a35-453c-b57a-431e3e6b74fd,194,2026-08-01,Atestado Médico,8.0
+ea7a8c21-61a1-429c-9228-ed8de2ba9fce,196,2022-05-23,Atestado Médico,8.0
+62c8c3f4-1d06-449e-b1ea-b64acbd431cc,196,2023-03-23,Atraso,1.3
+48677b30-b956-4731-8a4c-fe1f41afeb2a,196,2022-04-18,Atestado Médico,8.0
+d275bd43-8451-4303-a94d-4fbe06531d47,196,2022-11-12,Atestado Médico,8.0
+cd8565ce-83a9-4235-9ffd-4015c53f1db3,196,2022-06-24,Atestado Médico,8.0
+0b39dccf-7c9f-4bc3-b210-045a823c7ef9,196,2023-03-03,Atestado Médico,8.0
+31487df8-a6ca-4d50-a5f5-c8914be318a8,197,2021-09-02,Atraso,6.0
+f2be029f-1514-4755-838e-9a615200044b,197,2021-05-04,Atestado Médico,8.0
+f4ce8477-f8bc-49ac-aada-62ce189099c9,197,2022-07-07,Falta Injustificada,8.0
+01e06ad8-8880-4d4d-89b8-b7eec5f833cf,197,2024-02-15,Atraso,4.2
+ab9b153d-35f5-4654-90c2-c2e5a07eafb1,197,2021-08-17,Atestado Médico,8.0
+dd6d6b41-3692-4531-8609-7cd8a127dc6b,197,2024-10-02,Atraso,5.5
+1a9af29e-d5ee-4587-ac98-fd9baf76b6c2,197,2026-07-11,Atestado Médico,8.0
+b3e6f4c6-d428-4f6c-89aa-429334a0dcd4,197,2024-09-29,Atestado Médico,8.0
+c673f2e0-bdca-410f-b9e9-cf93e0ee5e8a,197,2026-05-29,Atestado Médico,8.0
+f0938776-d116-4014-a585-08286f6bbdf3,197,2023-12-31,Falta Injustificada,8.0
+275c75dc-afa0-4cbe-bf34-3ca712767d13,197,2024-12-26,Atraso,4.4
+54eb4c91-b784-4e08-b58f-c8fa0614ac41,197,2021-04-29,Atestado Médico,8.0
+0de4833e-12c0-420c-9667-c51809b2eae6,197,2024-04-09,Falta Injustificada,8.0
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,197,2024-05-19,Atestado Médico,8.0
+3a46fbe3-d255-44de-9330-ba8312087e20,198,2025-03-30,Atestado Médico,8.0
+63561add-685a-4f2b-8236-c0bfe9366a85,198,2025-04-04,Atestado Médico,8.0
+6edaba8c-6789-47d0-a155-eb2c737cf8b5,198,2025-12-24,Atraso,4.8
+ac5d4e57-63b6-44f4-8452-f77950ffde64,198,2026-01-05,Falta Injustificada,8.0
+a43447fb-0182-4782-88ea-e7d41e494952,198,2025-04-04,Atestado Médico,8.0
+c186a221-1030-46b7-9e4c-24ddb864a47b,198,2026-06-01,Atestado Médico,8.0
+b36d0121-0ba6-4e09-95ea-6825bef6a59a,199,2023-04-20,Atestado Médico,8.0
+ed94898b-5b92-4c67-9295-38dfd926fe41,200,2024-07-22,Atestado Médico,8.0
+c971bf51-4a32-4b22-9b2b-b2ec80b9ec30,200,2025-01-27,Atestado Médico,8.0
+162534ca-9b47-4639-8d25-51ebaf95be79,200,2024-10-19,Atraso,5.3
+700b8b43-ed3b-4d13-83e9-0323481186e9,201,2025-05-17,Atestado Médico,8.0
+a9252745-d276-4c96-a526-247461a451ff,201,2025-02-17,Atestado Médico,8.0
+889157fd-2804-40ac-b957-41bb07e3c39a,201,2026-08-12,Atestado Médico,8.0
+641816b7-bf2b-43b4-a2e9-e52738491ecc,201,2025-06-30,Atraso,1.6
+8bb4995a-d976-42ba-8c27-f386cbf925b5,202,2024-12-06,Falta Injustificada,8.0
+24e2226c-a250-4133-b5cb-5be44b83b570,202,2025-07-11,Atestado Médico,8.0
+ea06f94b-e310-4f72-ad62-d0944c4d6e40,202,2023-09-21,Falta Injustificada,8.0
+bab503fb-ddfc-41d5-8b86-3deaf7222fbe,202,2026-04-07,Atestado Médico,8.0
+f3102525-f517-4e72-9f85-7b21a5df6f85,202,2023-08-16,Atestado Médico,8.0
+8e190d07-dff0-49bf-8db3-c2c102dabd76,202,2024-01-15,Atestado Médico,8.0
+0149a2af-0ab1-4504-9f8c-56e0243113fd,202,2026-03-11,Atestado Médico,8.0
+8982cbf8-64e2-49c0-98be-5ff0929daf9f,202,2022-10-23,Atestado Médico,8.0
+4e003d55-15ca-4faf-b26d-3dd38c2aa0b1,202,2026-01-08,Atraso,7.9
+e74ed0b3-bdce-435f-bf90-5d6a35c606b5,202,2025-12-31,Licença Paternidade/Maternidade,8.0
+69a3b991-3634-446c-9806-a961b9d707a9,202,2026-08-13,Falta Injustificada,8.0
+8336a758-d9f9-4502-a55b-c44fe7d73d1d,202,2022-07-14,Atestado Médico,8.0
+38858f7e-2f1a-45a8-a934-4e152477f047,203,2023-09-26,Atestado Médico,8.0
+31bf5cf6-40b3-4f7c-95b2-11a99dec2b83,203,2023-08-03,Falta Injustificada,8.0
+ccb68571-abc5-4545-ae6d-7a041d57e734,203,2023-07-30,Atestado Médico,8.0
+d9f48bbd-0dec-444c-9a2d-2156913a1734,203,2024-07-23,Atestado Médico,8.0
+fe8b4ccb-fd75-45f3-aeaf-ca83c04446bf,203,2024-02-17,Atestado Médico,8.0
+8cb6d1f0-a509-4396-b615-79e78c8181b4,206,2023-02-22,Licença Paternidade/Maternidade,8.0
+113eaf84-abf3-4096-8a68-369c12b99a50,206,2022-08-25,Atestado Médico,8.0
+b9c037aa-3289-458b-9923-cafc402d105b,206,2024-12-26,Atestado Médico,8.0
+54b2a582-f398-4e9e-bcb8-82a094a1eab0,206,2024-08-13,Falta Injustificada,8.0
+a7cd13cb-abda-46b2-a0d2-b5285b6d6b7c,206,2025-10-19,Atestado Médico,8.0
+9e98961d-48fe-4f6d-999c-8d943c0a584e,206,2026-08-01,Atestado Médico,8.0
+515a6b43-3189-4f48-a66e-2c1111defebf,206,2024-01-16,Atestado Médico,8.0
+9dc89e1a-540e-4d01-b35d-88f37c6166df,206,2025-05-10,Atestado Médico,8.0
+958c2936-b186-48ce-8e40-bfbaa8cfe589,206,2022-09-20,Falta Injustificada,8.0
+5d4f7107-911d-4c79-90c8-042027035b27,206,2025-02-22,Atestado Médico,8.0
+6da58dad-f56a-4bc0-90fb-35b0cec56969,206,2022-06-04,Atestado Médico,8.0
+3f05557c-502e-4818-813c-a9982b2bf58c,206,2023-06-22,Atraso,2.5
+bd64987e-b652-4e99-b8b5-e89ac921057c,206,2026-01-24,Atraso,7.2
+d71173e4-46d4-4d41-afa5-d3b0a40dfea5,206,2024-11-06,Atraso,2.9
+bba41ae0-adf8-4767-a261-ddef5c074653,206,2022-08-08,Atestado Médico,8.0
+767d3b27-7ade-4367-a0bd-202c54e14f3a,206,2026-01-08,Atestado Médico,8.0
+4e336644-c657-40ae-9bd6-7d4d7202fae5,206,2023-10-04,Atraso,7.3
+2cff45f8-1bdc-44a9-8d3a-5d767caa281b,206,2025-05-06,Falta Injustificada,8.0
+d77fbeeb-14fc-4a5d-9b4b-f377a542deb9,206,2025-11-15,Atestado Médico,8.0
+23d7263d-d391-4017-9bd4-a86d47d6723c,206,2022-05-15,Atestado Médico,8.0
+4363589c-3249-4cff-89e2-df24e42c0aea,206,2023-03-11,Atestado Médico,8.0
+139309d1-a06a-487d-a2e6-e7a6bbc99473,206,2023-12-13,Atraso,1.1
+04c4f46a-e461-4160-934d-695aba388c8f,208,2026-02-20,Atestado Médico,8.0
+07fc584e-a1b2-4627-81d6-7019d97e8d3c,208,2026-05-01,Atestado Médico,8.0
+67b6e467-9432-4797-94f6-c67ad0095507,208,2026-01-10,Atestado Médico,8.0
+e80382eb-3677-4be4-970c-9eb4c4ea4ece,208,2026-05-01,Falta Injustificada,8.0
+8b20ce3e-42b7-4048-8d35-43be09624ec9,209,2026-06-13,Licença Paternidade/Maternidade,8.0
+78dbcde3-8a28-4792-bfac-a645e4dc4306,210,2024-06-19,Atestado Médico,8.0
+5da64a3a-260c-4fb4-8673-5380a7668617,210,2025-08-04,Falta Injustificada,8.0
+c5ab48da-e435-4021-b92a-9fc4647ac591,210,2024-09-07,Atraso,5.0
+4a7eebc2-db6f-4c33-bbb4-c0ce96f01335,210,2026-05-23,Atestado Médico,8.0
+82aa5c46-8049-4bbf-b6f6-a77822460ac9,210,2025-02-06,Atestado Médico,8.0
+808e08d2-5d26-4b1b-a593-b659172e8c68,210,2025-11-28,Atestado Médico,8.0
+d9155664-3d27-4ad5-a9a5-4c2402b622e9,210,2026-07-11,Falta Injustificada,8.0
+9d31762a-fb5a-4b36-8e79-68b7f6c8b8b9,210,2025-07-11,Atestado Médico,8.0
+839e7623-c1d8-41d3-aa74-b90caf2537f5,210,2024-12-09,Falta Injustificada,8.0
+2ddc756b-28c2-4ce9-b23b-80d423ef5561,211,2026-03-17,Falta Injustificada,8.0
+a8cf4f62-90d9-470c-b2de-c75c90fcc9f1,211,2026-02-12,Atestado Médico,8.0
+bc653d94-256d-4d11-b7bd-8499df482e7c,211,2022-10-03,Atraso,6.5
+5bda0655-f06d-4a24-bbc6-e121bb64a525,211,2025-11-01,Atestado Médico,8.0
+7cd61da4-c2ef-4a8b-b804-87860a58f43c,211,2026-01-12,Atestado Médico,8.0
+5e934de0-43ac-4875-9017-ab443b53f64b,211,2022-05-30,Falta Injustificada,8.0
+34ef2552-ab28-4d09-8af5-7e603be8a5df,211,2024-10-11,Falta Injustificada,8.0
+5c7af83d-ca9d-4704-a860-bcb18494205c,211,2026-02-24,Atestado Médico,8.0
+7463835e-eafb-4f20-b83c-91eb635a11f2,211,2023-11-29,Atraso,1.4
+fb07ee93-0a37-41ab-8be3-534ae1ad640c,211,2024-06-03,Atraso,2.6
+b4280f0d-1a6c-4459-92f6-531fa605b7c9,211,2022-05-25,Atestado Médico,8.0
+d463c183-a231-4211-8578-b1c6f7ebc69a,211,2023-11-18,Atraso,5.2
+4368ae93-bded-4b7a-95ba-304c4603c9ee,212,2025-07-25,Atestado Médico,8.0
+2c816bf0-91f6-4406-8b5a-868394213090,212,2023-11-25,Atestado Médico,8.0
+5d8416e0-60e6-46ff-a757-43f9606cc2f5,212,2025-04-07,Atestado Médico,8.0
+d5e14d1f-e5f2-4dfb-a741-104b96721e98,212,2026-04-05,Atraso,4.4
+6057153a-4067-4790-8444-050413ed280a,212,2025-09-23,Falta Injustificada,8.0
+8430f0fa-390f-4cf5-a841-0a39f9012b9c,212,2025-11-02,Atestado Médico,8.0
+de22dc3f-d136-4db1-9a57-860767e54646,212,2026-02-26,Atestado Médico,8.0
+7b6b911e-caeb-4959-bca2-f582585409d9,212,2024-10-10,Falta Injustificada,8.0
+8078636d-01b0-42c1-9aad-9234e31db345,212,2025-11-12,Atestado Médico,8.0
+2a6524af-709d-438b-a393-6d45e1ccff0d,212,2024-03-19,Atraso,6.4
+a4bae8bf-83b8-4a05-93bc-0dc63ae0acdb,212,2025-05-22,Licença Paternidade/Maternidade,8.0
+2fd90ce1-2676-47ca-b625-fc2047e321c2,212,2025-02-11,Atestado Médico,8.0
+b7a1267e-9a1e-4036-9cba-a49628489240,213,2025-05-14,Atraso,2.9
+3af7fa21-a93e-4b5b-9e4a-e3a7d123f7c1,214,2026-06-04,Atestado Médico,8.0
+b862acc3-5489-4c37-8fa9-026b6a241f46,214,2025-01-28,Atraso,6.2
+7a9398bb-acdb-45f2-bb44-acd01d03c3d5,214,2025-07-14,Falta Injustificada,8.0
+29476f54-973e-429c-b5f0-b1be7aa1219a,214,2025-08-28,Falta Injustificada,8.0
+05bf0618-6930-40c4-9557-6899a5b2c7ea,214,2024-12-11,Atestado Médico,8.0
+92d00319-20bd-4422-8b0b-81de3e612d66,214,2024-11-25,Atraso,1.0
+a1298fa2-227d-4660-a93f-c26697a418b8,215,2026-03-24,Atestado Médico,8.0
+92803da2-e40b-40e4-8a08-6989833c8f55,215,2025-12-27,Atestado Médico,8.0
+421d4dca-2a95-4908-8e50-3fd82598f383,215,2025-09-26,Atestado Médico,8.0
+f54f1b92-8442-406f-ae16-f0b6ec257a75,215,2025-04-07,Atestado Médico,8.0
+904865c6-f820-4aa7-996f-7e8867cbfc39,216,2024-05-19,Atestado Médico,8.0
+b8344070-e0e5-46e5-84c4-4853a33b3dfd,216,2024-08-29,Falta Injustificada,8.0
+48907b6d-d240-4f02-a968-1fc1ba5c865d,216,2025-05-06,Atraso,4.1
+72fefdc2-3772-4a97-95f3-9d39f27f3ad7,216,2025-09-10,Atestado Médico,8.0
+de0787b1-78ae-4d5d-be26-8e779b4547e0,217,2024-05-21,Falta Injustificada,8.0
+d492b51a-3828-4a05-abaa-43c97b4e9ecd,217,2024-03-03,Atestado Médico,8.0
+cb6bf562-2488-484d-99d0-90fd6928043e,217,2024-05-07,Atraso,3.5
+2e8ff5a8-c47a-4b7e-9209-383b95284c0a,217,2024-05-11,Licença Paternidade/Maternidade,8.0
+43b7a0ef-82c4-4c54-a8de-bd889f8acdeb,217,2025-10-09,Atestado Médico,8.0
+57b94dfb-af82-470c-b964-4e4f2aefcf3b,217,2025-10-10,Falta Injustificada,8.0
+97314c91-98b6-491b-b416-9e82ec1f41ce,217,2026-04-19,Atestado Médico,8.0
+62ada157-60d2-459a-bad5-1382119fb03e,217,2025-01-03,Atestado Médico,8.0
+33cd1d56-043d-42db-9bcb-404c21d8b96a,217,2026-07-09,Licença Paternidade/Maternidade,8.0
+811db4af-e8ca-4483-9c0e-337585d0691c,217,2025-03-06,Atestado Médico,8.0
+2649a478-d396-4f0a-ab77-af9eaf32baf8,217,2024-02-18,Atestado Médico,8.0
+79d29001-2d6b-4a4e-98a7-06099b02c535,217,2024-11-30,Atestado Médico,8.0
+09fe4cdd-998d-45ba-9d60-22c5e6cfcbd8,217,2025-04-04,Licença Paternidade/Maternidade,8.0
+80da2ed7-880b-4b0e-88ab-96ace0b4659a,218,2023-08-14,Atestado Médico,8.0
+7b742440-17db-4c2f-9e15-8e2fc09c2ebe,218,2026-04-12,Atestado Médico,8.0
+9a7d509d-e6e8-490b-a15d-3b1fa8cdf44d,218,2024-07-03,Falta Injustificada,8.0
+e59fc1c2-004e-481a-93d8-77a88a0ea57a,218,2026-05-08,Licença Paternidade/Maternidade,8.0
+a6340d1a-adb6-40f4-865d-e86ef00f63ef,218,2026-01-24,Atestado Médico,8.0
+5ed10e7f-6bb1-42bc-85a4-b0cb6e76936a,218,2024-02-04,Atestado Médico,8.0
+87a20e22-b298-4811-8b1e-c578dff47c51,218,2025-04-11,Atestado Médico,8.0
+cd638ba8-f03c-464b-babf-9c656dd013f3,218,2024-02-04,Atestado Médico,8.0
+6198b718-c4c7-4ab4-8a20-508d7b6c7129,218,2023-12-03,Atestado Médico,8.0
+bdcbfffc-cdfb-44e9-96cb-dafb59bb8900,218,2024-08-25,Falta Injustificada,8.0
+b25b6de7-d652-4e08-82f4-3c10e869707c,218,2024-10-30,Falta Injustificada,8.0
+224629cd-6cec-4f82-9903-f9b3937ca77c,218,2024-08-24,Falta Injustificada,8.0
+3b85f6e1-c40f-4405-ba25-ed81412817eb,219,2025-10-05,Atestado Médico,8.0
+48842a14-1575-41ad-9bea-e9f8e8fb5a96,219,2025-08-24,Licença Paternidade/Maternidade,8.0
+689d1205-8b31-44d8-a073-c1d09929afeb,219,2025-10-16,Atestado Médico,8.0
+b58ac738-0166-4221-b063-ae7f41ff81d1,220,2025-03-30,Atraso,3.9
+93f6f723-01d2-4a76-8a17-9780be5f902f,220,2026-05-30,Falta Injustificada,8.0
+01d77831-850f-4cdc-9e2a-03f185c53910,220,2024-02-16,Atestado Médico,8.0
+b0117b0a-3496-41d6-a790-55b06001f54d,220,2025-09-20,Falta Injustificada,8.0
+5cbdb682-68aa-4236-90de-ef43cde5c35a,220,2025-02-08,Atestado Médico,8.0
+a6cdae3c-6d13-4705-a79f-91ab1b4909b6,220,2025-01-29,Falta Injustificada,8.0
+dadfc499-42e4-4f01-80ee-131d95dad216,220,2026-06-23,Atestado Médico,8.0
+5d9ad9f1-908e-4a95-ac6e-8796893e2b89,220,2024-10-16,Atestado Médico,8.0
+ae3c2ce6-fde6-449b-868b-22af9ca4364d,220,2026-04-06,Atraso,1.7
+69c9520f-3425-449c-8145-d6ba65bf8e04,220,2025-05-27,Atestado Médico,8.0
+7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,220,2023-09-25,Licença Paternidade/Maternidade,8.0
+8e0eabb7-8f20-45e7-9ec6-46eb2dc09158,220,2025-11-30,Atestado Médico,8.0
+4e80d10b-fd0e-40b6-80f7-924b7bd7b4bf,220,2025-07-23,Falta Injustificada,8.0
+b49b4b72-c631-4c16-9827-bc1d93e0f235,222,2023-11-22,Falta Injustificada,8.0
+dae13586-2358-455c-bc5c-3cd865ebd4dc,222,2024-07-06,Atestado Médico,8.0
+bf70c042-1e7c-4795-a8c6-c2dfdd23ff41,222,2023-12-03,Atestado Médico,8.0
+b3061300-c879-4932-b254-0ab73ad24ac8,222,2024-06-16,Atestado Médico,8.0
+36e6ba85-19ab-4c15-a96b-67bff301bb6c,222,2025-09-11,Atestado Médico,8.0
+56a3dccc-c93c-4cc6-a68b-28da8222cd7f,222,2025-05-18,Atestado Médico,8.0
+b2725aa7-9d30-442e-8cf2-9000cd04c001,222,2022-10-22,Falta Injustificada,8.0
+2926205d-0d53-451a-b4f0-2f6faf3f9d9a,222,2023-09-24,Atraso,3.2
+015aba1d-a2c8-4f62-b6ee-137d639c4c6c,222,2025-12-10,Atraso,2.4
+25343e85-d2c0-4ec2-9751-94d7cdeb2696,222,2023-10-22,Falta Injustificada,8.0
+6f74e55d-99a9-4f6a-ad05-473278bf46fa,222,2023-01-15,Falta Injustificada,8.0
+38c5ef5e-4359-4f43-9067-93b61690636b,222,2024-04-11,Falta Injustificada,8.0
+09aa5570-9be9-40c7-947d-7bfc5eef0d1e,222,2023-11-01,Atestado Médico,8.0
+fc04ca7a-ee41-4f16-a263-307cb9787c4b,222,2023-09-05,Atraso,6.1
+85609e8a-a7fb-4997-9d2c-d9446690a951,222,2025-08-05,Falta Injustificada,8.0
+98f3f640-f6a9-43e3-b62b-ccb149560c36,222,2024-10-18,Atestado Médico,8.0
+d1fa82a6-c60b-440c-b21a-6f380eb5e5a7,222,2025-04-10,Atestado Médico,8.0
+706078eb-7e8e-4d12-a3ea-21a22cde9187,222,2026-06-06,Atestado Médico,8.0
+a829907c-d9be-4cff-b3a3-15f302bdeabe,222,2023-05-28,Atestado Médico,8.0
+4937b90f-84a5-418b-8dcd-0a34ee462fcd,222,2023-11-15,Atraso,3.6
+9979cf26-c8b1-40e1-889a-9f4f31dae817,222,2026-06-14,Atestado Médico,8.0
+3b4ec9f5-b2cd-4a0a-840c-5cb082b34384,222,2024-03-31,Atestado Médico,8.0
+093b4d72-ac8c-4caf-ab63-3b189d7d1756,222,2024-02-03,Atraso,1.8
+0012d399-a7af-4545-bd3f-ec1b5c17ebb5,222,2025-03-16,Atestado Médico,8.0
+ff2f6883-163b-4481-a84e-4cd4f9c3ee05,222,2023-03-02,Atestado Médico,8.0
+5a669316-6641-4954-8798-a44546a3cc71,223,2025-04-04,Atestado Médico,8.0
+9609598e-67cb-427a-a528-1970ab6ef8dd,223,2024-03-26,Falta Injustificada,8.0
+bca726eb-03ef-4f77-848a-c92433478a91,223,2025-04-09,Atraso,1.2
+17151c03-eb4f-4638-9190-e515b4209103,223,2025-01-08,Atestado Médico,8.0
+d46b7756-b9e4-49ef-88d4-95a48cb21aa2,223,2024-04-25,Atraso,4.1
+591cc524-953b-4f1f-aa3e-072a8f221604,223,2024-07-18,Atestado Médico,8.0
+46c937e0-d0c5-4550-b69a-053958f42098,223,2023-12-03,Atraso,6.7
+31cc6738-f68a-49b7-9b3a-a1d139ee80ab,223,2024-11-15,Falta Injustificada,8.0
+932d1648-6769-40f1-ae01-b9e0746b161a,223,2025-02-16,Licença Paternidade/Maternidade,8.0
+6839f98f-2ccf-4472-82d7-f1120130d66b,225,2025-07-23,Atestado Médico,8.0
+1287e313-8f02-4c2c-9b41-49998198d1f5,225,2025-05-21,Atraso,2.8
+f26f9b19-5708-413e-8b54-167080cfb1db,225,2025-02-20,Falta Injustificada,8.0
+f4eae769-8366-4189-8d8d-9f751df44d3e,225,2025-11-23,Atestado Médico,8.0
+d02a6cbb-89b4-494a-a048-f1de41f83199,225,2025-10-07,Licença Paternidade/Maternidade,8.0
+b1b68ecd-4009-45ce-932c-3ec9cb1b8eff,225,2024-11-30,Atestado Médico,8.0
+902bd154-6088-4550-b74f-690071594914,225,2025-12-19,Atraso,7.9
+c1e9c4fa-3e47-47fd-851c-91f47bcf2b31,225,2026-01-19,Atestado Médico,8.0
+75771730-c68d-44b2-b613-bda056f401e5,225,2026-05-05,Falta Injustificada,8.0
+963a4333-e582-45dc-b5f1-c654ae7cfd14,225,2025-10-31,Atestado Médico,8.0
+1dc3c26e-7b62-459e-8700-749adcad8ec2,226,2025-07-24,Atestado Médico,8.0
+a237a8c1-61f6-4fbe-914b-3c79420079f5,226,2024-02-21,Atestado Médico,8.0
+ad4a2b3c-386a-49dd-be83-c32ac9e55c47,226,2026-04-03,Atestado Médico,8.0
+50d3ba03-ccd7-408f-badc-b38cb38046ef,226,2025-01-17,Atestado Médico,8.0
+84399ed9-5a64-445e-b498-16ad6994bf84,226,2026-01-02,Atestado Médico,8.0
+d5098e07-b368-4836-827d-380889207bc4,226,2026-07-19,Atestado Médico,8.0
+17cf775f-498b-4f67-bf8d-cf96436ae2bb,226,2026-04-25,Atestado Médico,8.0
+d231f372-bfb0-442c-ac77-776266205167,226,2025-07-17,Atestado Médico,8.0
+ee6ffbea-8df7-4647-9376-9ff9578cd875,226,2025-09-14,Falta Injustificada,8.0
+5a81762a-5059-477b-b9ff-89d92db13deb,226,2025-10-29,Atestado Médico,8.0
+44e22691-92de-4495-a4f1-e8e837f3f32b,226,2026-08-08,Atraso,1.6
+aee01ec9-bf04-48a9-b276-55132ecaf629,226,2026-03-12,Atraso,2.7
+7fbe6bb3-30ae-412d-a8f1-0194ee25356a,226,2025-11-25,Falta Injustificada,8.0
+bc45144a-3c1f-4ff0-b31d-58bbbcb3636d,227,2023-04-15,Atestado Médico,8.0
+34ef71df-43f1-4b58-9f6c-0d603df76a69,227,2025-12-25,Atraso,5.3
+3fec0a37-d5be-48dc-b3e8-82493aad5840,227,2025-07-06,Atestado Médico,8.0
+27ef5357-5b24-4c2a-9e5c-5dcdd61a080a,227,2025-12-21,Atestado Médico,8.0
+eb91731a-1eb0-4b4a-9b4f-fd5fc7688339,227,2026-02-25,Atestado Médico,8.0
+a9d6290d-f4ad-4a22-ad02-05f51417c2f9,227,2025-12-24,Falta Injustificada,8.0
+c3a58237-01b2-46cf-9d23-c3cf7e1f48c4,227,2024-08-05,Atestado Médico,8.0
+0ad1c18c-f53f-491e-8a9e-0964db6a34ea,227,2026-07-29,Atestado Médico,8.0
+9ee4105d-5f06-4c76-bb77-7e71d91738f8,227,2024-03-19,Atraso,7.8
+fc40a3d4-e5eb-4549-be0a-04c250bf2995,227,2024-10-07,Atraso,1.7
+de67a278-9313-43a7-a5a1-c6e4e1886146,227,2022-11-27,Atestado Médico,8.0
+fc014a22-2ed0-40b2-bda5-6b6e4654e77d,228,2023-08-02,Atestado Médico,8.0
+47bf8db7-82d9-4774-aa7f-6c7dc3a6b204,228,2025-03-15,Licença Paternidade/Maternidade,8.0
+93a05478-c00b-49de-b8db-128d65db6e43,228,2026-07-12,Atestado Médico,8.0
+cc9cf41c-8696-4901-8ddc-a78820d4ba18,228,2025-04-01,Atestado Médico,8.0
+8a6fc4b3-f08d-412e-ba73-2f356c5540f0,228,2025-06-20,Atestado Médico,8.0
+64caa1c7-58e7-4df8-80a2-372108560684,228,2025-08-05,Atraso,5.8
+2cbfb769-c6a1-4468-afb3-e3addc432ed5,228,2023-07-31,Falta Injustificada,8.0
+b2c027e8-1ed0-42e9-b9fc-6034750acc98,228,2024-11-02,Licença Paternidade/Maternidade,8.0
+b0701a53-50ce-457f-b5c7-2fb684a91789,229,2025-04-09,Atraso,4.2
+35f3de4a-ac92-44b4-8306-a2580227b8d5,229,2026-05-18,Atestado Médico,8.0
+534fc96d-19ca-4c1b-94bc-f47a61223189,229,2025-11-18,Atestado Médico,8.0
+427bbffb-dca1-4dcc-9cdf-06645c91f845,229,2023-12-03,Atestado Médico,8.0
+3cb526d7-434a-430e-8c6e-a6ad2fe938e4,229,2025-01-04,Atestado Médico,8.0
+9cf3137e-f562-437b-b8aa-16ea44f7f01a,229,2023-03-20,Atestado Médico,8.0
+7faf6458-2f14-4777-9dad-348e57d52b78,229,2025-10-13,Falta Injustificada,8.0
+b361e70a-6b49-4cc6-b5e5-74e06c878546,229,2023-08-31,Falta Injustificada,8.0
+dab51d55-5d75-403c-9f4f-af10c08fe6d7,229,2024-09-25,Atraso,3.9
+2e0d3860-7362-49b7-8795-cd1d668d3c8b,229,2023-07-23,Atestado Médico,8.0
+936db4a7-fab1-496a-a192-56139247e851,229,2023-09-23,Falta Injustificada,8.0
+1991103f-d06e-4cbc-ba83-59b6af9e7a0e,231,2025-01-18,Falta Injustificada,8.0
+3c5dba42-cdd8-4f09-851b-6267b8875caf,231,2025-02-19,Atestado Médico,8.0
+618192de-db37-4ca7-aea5-e3418e2ac3ff,231,2025-06-14,Falta Injustificada,8.0
+f58ab7c7-cccf-4130-a556-03d4323132fa,231,2026-05-17,Atestado Médico,8.0
+ce40483b-7915-4d7e-a648-c819bd1116ee,231,2024-10-02,Atestado Médico,8.0
+7fe5a4b6-6be8-4756-ad36-226c027e789c,232,2025-09-04,Atestado Médico,8.0
+d9719e00-e4ad-4e9b-bedd-22d9226cbc6a,232,2025-04-19,Atestado Médico,8.0
+b876a455-88b3-452d-845a-91b8a1726883,232,2025-08-28,Atestado Médico,8.0
+4ccf0a4b-7c93-443e-890b-945450d3802d,232,2024-08-05,Falta Injustificada,8.0
+915d9a63-dbc6-4928-8fe8-4e20403fd582,232,2025-07-20,Atraso,6.1
+b0c77002-1956-4990-a5fd-aadb0c36ad4e,232,2025-08-04,Falta Injustificada,8.0
+d0566199-3728-4dc2-8f5e-8b4729d0c613,232,2025-03-20,Falta Injustificada,8.0
+a13ea66d-d6c6-4997-b9fe-7ccc411920f6,232,2024-07-05,Atestado Médico,8.0
+55ac0d06-be9d-4951-b329-af6e18a73d94,234,2026-05-07,Falta Injustificada,8.0
+8f73198e-5c3d-4d5f-9c68-01d642803aa0,235,2024-08-06,Atestado Médico,8.0
+41f9994a-cf5d-437f-ae8d-5daa8eb7c306,235,2024-05-04,Atestado Médico,8.0
+1f096b9d-6969-49b2-8513-eda8581993cc,235,2025-03-28,Atestado Médico,8.0
+f68ece81-adf9-468b-9e0b-de1859e110eb,235,2026-02-03,Atestado Médico,8.0
+936dd1a8-93ac-400e-b2ee-eb389b0707e5,235,2024-07-31,Atestado Médico,8.0
+2cae93a2-89d7-46ef-a62d-7221a65d958e,235,2026-03-05,Atestado Médico,8.0
+5ae86d18-48dc-4e26-87c2-564afab8328f,235,2026-07-09,Atestado Médico,8.0
+7ccc63de-82ac-4e1d-ac56-5da653391df4,235,2024-09-26,Atraso,7.5
+e3bef3d6-726a-430d-bc8c-fa8fc655a597,235,2026-05-09,Atestado Médico,8.0
+49599bed-9d19-41a5-a18d-de71141283fb,235,2024-12-16,Atestado Médico,8.0
+2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3,235,2025-09-21,Atestado Médico,8.0
+cec68cfe-a3fd-47f0-aae6-3af6de46222e,237,2024-08-20,Falta Injustificada,8.0
+a19b224a-6bfc-4a47-965f-1491edb68b81,237,2025-02-11,Atestado Médico,8.0
+d9518f98-679f-4f42-9256-d7079cc05b67,237,2025-10-04,Atestado Médico,8.0
+2978cc73-1440-4dec-9243-9b0fe835f080,237,2025-05-20,Atestado Médico,8.0
+511eeeb8-5040-4c43-ba6c-7da657f7d71f,237,2025-06-26,Atestado Médico,8.0
+44791214-b5de-4807-8a96-5478a72bdddd,237,2024-11-02,Atestado Médico,8.0
+457083e4-653c-4f74-a507-68979afa8267,237,2026-06-04,Atestado Médico,8.0
+dce0e2bb-c7ed-4a02-b1e4-dc42e33fc52c,237,2025-04-28,Atestado Médico,8.0
+96405fcd-bf76-4449-9cf8-5eebf0533851,238,2025-05-03,Atestado Médico,8.0
+69fb2fe6-7346-4e07-b72c-b6c8855c0a97,238,2025-05-05,Atestado Médico,8.0
+05e9f407-daad-40b1-af13-2a6d2ad55c0b,238,2026-08-13,Licença Paternidade/Maternidade,8.0
+a97a4f4e-3c10-471b-ba4f-4b0320029d9f,238,2026-01-12,Atestado Médico,8.0
+b360dfaa-be6e-4d47-b0c0-804b406bf02d,238,2025-12-06,Atestado Médico,8.0
+2abaa4f9-35e8-4364-947f-1f67bfeef19d,238,2024-11-25,Atestado Médico,8.0
+1054b2d5-1876-4576-9a5e-d19665a4c79b,238,2026-07-17,Atraso,7.2
+8c662766-7922-4440-a0f1-e44cefd1b588,238,2026-01-30,Atestado Médico,8.0
+65a29cc8-c55b-495d-86bf-d9c40dc78104,238,2026-06-25,Atestado Médico,8.0
+154ff37d-fefa-4198-83d6-cd548623bc74,238,2026-01-09,Falta Injustificada,8.0
+27c00f89-9e3b-41b3-8330-125c1a9b0d42,239,2023-11-05,Atestado Médico,8.0
+e2ae3f87-ee7c-4782-a7a3-1d2515956c42,239,2025-10-22,Atestado Médico,8.0
+3f5560cd-3ab7-427e-8f32-ea5463ccf604,239,2024-06-07,Atestado Médico,8.0
+a06109db-7172-4636-88bf-b602bcd2e8eb,239,2024-05-29,Atraso,2.9
+d6a919e8-86d8-45e5-a19b-606d205c8491,239,2025-10-21,Atestado Médico,8.0
+a9de5b26-08ff-4ab0-8750-72d62bacf712,239,2026-02-06,Falta Injustificada,8.0
+534064b0-ea4f-4a80-9c41-21765b59f28e,239,2026-01-24,Atraso,1.4
+f99863f2-7799-4ddb-b9e5-46e7dd3ee854,239,2024-02-13,Atestado Médico,8.0
+45bcf3ba-ef52-436e-8a63-b93cdef3306a,239,2026-01-27,Atestado Médico,8.0
+f833ebfb-2296-43f1-b1e1-5b9f8c6d768e,239,2026-04-11,Atestado Médico,8.0
+2d5245f4-8a0e-4018-b297-69b2f2cffcae,239,2025-05-03,Atestado Médico,8.0
+a18c5492-74e0-479a-98fb-47279740b212,239,2024-05-10,Atestado Médico,8.0
+9061498f-e096-421e-a2c7-23d4bfb8abb9,240,2022-08-24,Atraso,2.4
+a3b81f92-a3c9-4c6a-8601-76336f5aad52,240,2022-01-19,Falta Injustificada,8.0
+58e0058f-e8af-401f-8f45-f6f788a613b4,240,2022-06-20,Falta Injustificada,8.0
+ce015413-3a25-46fe-8a27-b0b07b4d8646,240,2023-08-12,Atestado Médico,8.0
+5da3f9cf-4ed0-430d-b11d-c1dd16ed0330,240,2023-02-08,Licença Paternidade/Maternidade,8.0
+4db6f475-27dd-4ac4-8282-b6e46986305a,241,2025-03-08,Atraso,3.2
+d0bcbad5-85f8-4d9b-8006-0d5a02b3c948,241,2023-10-12,Licença Paternidade/Maternidade,8.0
+5808d790-22e4-4628-9913-057dc21f84fc,241,2025-01-10,Atestado Médico,8.0
+022111e5-88fc-4da1-b81d-5b6c49694032,241,2023-10-20,Falta Injustificada,8.0
+f26bcebf-7def-4b8e-ac0d-fc3ab011b125,241,2024-11-22,Atestado Médico,8.0
+02568389-4cb3-4663-ba21-1151c166a8b3,241,2022-03-29,Atestado Médico,8.0
+4afcf9e8-cc47-4b72-ae31-0234c4100108,241,2023-07-21,Atestado Médico,8.0
+01d909b4-cbf8-429e-bb30-ee9798d53cf5,241,2023-07-29,Falta Injustificada,8.0
+69678586-3046-4008-9fa7-20128c57a277,241,2026-05-05,Falta Injustificada,8.0
+650e78e4-6fe6-43f1-8f80-7d8be1d55f85,241,2024-03-02,Atestado Médico,8.0
+bcb3c168-b706-4cfa-a9cc-07893ff93134,241,2025-01-23,Atestado Médico,8.0
+60dc12eb-d413-4850-a3c4-e76da55fa725,241,2022-07-27,Atestado Médico,8.0
+6c17e150-1447-46cc-8352-acea3878becf,241,2026-03-01,Atestado Médico,8.0
+c3b8c80f-8440-4e98-bd53-ec43a0152b5b,241,2025-05-18,Atestado Médico,8.0
+cebd3b2b-9cfb-4ce7-a8f2-c584ccca1e14,241,2025-07-23,Atestado Médico,8.0
+48e09502-4598-43c8-af44-9605b1a50a3d,241,2026-02-02,Falta Injustificada,8.0
+cf0e1567-882d-4fc1-be30-74f8a60147c3,242,2026-02-17,Atestado Médico,8.0
+da7dcc53-3020-4f06-a9b4-119444d18524,242,2026-01-23,Atestado Médico,8.0
+4a22eae9-22f9-4afe-aeb2-3ca31186da93,242,2024-08-23,Atestado Médico,8.0
+9e2383d0-7491-4c14-a30b-669c1c405045,242,2026-04-17,Atraso,1.9
+9f6ccab4-b352-4c18-85aa-950373e88db6,243,2023-09-01,Falta Injustificada,8.0
+04f718c8-5215-4503-b012-f8197df37378,243,2024-01-16,Falta Injustificada,8.0
+88f3d7ea-f83f-4274-8cb4-afe126f341c8,243,2022-12-26,Atestado Médico,8.0
+1a2e9864-f8ea-4a36-af99-9b2a05aa5eab,244,2025-08-16,Atestado Médico,8.0
+b71714cd-2002-41bb-84e9-f8fb4838a888,244,2024-04-28,Atestado Médico,8.0
+3b997815-0219-49c7-ba23-b07a703c1286,244,2026-05-25,Falta Injustificada,8.0
+7e5b3ac9-03c5-41fe-a693-34ef17172654,244,2025-09-16,Atraso,3.9
+4fc37d4e-6b95-4c1d-9787-99d93799a376,244,2024-04-21,Falta Injustificada,8.0
+ff7a884d-7f96-4d35-8ca9-9089c9254bb5,245,2026-04-28,Atraso,4.0
+ca9acf77-b26a-41a5-b6b4-06725f13e10b,245,2026-05-24,Falta Injustificada,8.0
+d7f2a678-1489-4025-948b-2ce3081fec82,246,2026-01-19,Atestado Médico,8.0
+0e588770-2566-4316-b39e-f1bec02553ea,246,2026-08-03,Atraso,2.2
+12464474-6475-40ee-8691-30694439940d,246,2026-03-19,Atestado Médico,8.0
+3133839e-2e7d-452b-b85b-8a078b0ea0b9,246,2026-01-02,Atestado Médico,8.0
+d13757e1-4005-453d-976f-1e65e54c8739,247,2023-06-10,Atestado Médico,8.0
+1f38df55-033a-44d6-9408-539161af0e8e,247,2026-05-25,Atestado Médico,8.0
+3fbbff57-b6f5-4f1c-84a5-31cdf97f4994,247,2024-03-15,Atestado Médico,8.0
+7165e36b-f997-4779-856f-05e662821d61,247,2025-02-23,Atestado Médico,8.0
+08942176-fe99-4f69-bcd4-99753f46057b,247,2021-12-22,Atestado Médico,8.0
+c55ffde8-bc3e-4d19-b5f9-423032fd73c5,248,2024-02-16,Atestado Médico,8.0
+fb6bf1dc-aa7f-4e06-8569-5f97180dc855,248,2022-03-02,Atestado Médico,8.0
+ae7300eb-639d-4fe7-b90b-185c355cca9c,248,2024-10-30,Atestado Médico,8.0
+52b444e8-efab-4d73-8fe6-6636f6121d2c,248,2022-11-17,Atestado Médico,8.0
+0accb23c-ba6d-4ed8-a110-e887289ac251,248,2023-03-17,Atestado Médico,8.0
+855b6c5b-8cb1-457e-affa-d15bbea6450f,248,2024-04-07,Falta Injustificada,8.0
+a3760c2d-7b31-4cdc-80d9-1a8e1f44aa88,248,2025-04-06,Falta Injustificada,8.0
+e3347bac-5c44-4bd1-b2df-8d454c7f03bb,248,2024-12-12,Licença Paternidade/Maternidade,8.0
+37c0f87a-aaac-426e-9d18-ab280d559b64,248,2025-10-10,Falta Injustificada,8.0
+a206527c-3c68-41d6-9ce8-e12ff9287d26,248,2024-11-20,Atestado Médico,8.0
+2ad820ca-03db-4a2e-9313-50e06f2537ce,248,2024-05-28,Falta Injustificada,8.0
+1ea15b0f-95ae-418b-86ae-7e06cb5d2b59,248,2025-12-14,Atestado Médico,8.0
+02493a09-3e3b-4a40-8a05-53a26553b15f,248,2024-11-14,Atestado Médico,8.0
+c891d55d-94c1-46b9-8ac0-13d5f80590f0,248,2024-06-11,Falta Injustificada,8.0
+98a15e4f-b03b-4934-b9ab-56d1b0d515ab,248,2026-02-04,Atestado Médico,8.0
+16e827b0-c552-43c5-9f13-fb9827ad8d51,248,2024-08-08,Falta Injustificada,8.0
+17661795-7ffa-4493-a85e-ed0a3fac4317,248,2024-11-07,Licença Paternidade/Maternidade,8.0
+ee4c1b18-56a2-449d-9e5f-8273af9a1168,248,2023-01-19,Atraso,1.6
+a008ac20-c272-48e6-bf39-a117f83b1806,248,2022-04-15,Atraso,6.6
+a502dc4b-5b03-44d8-8f4d-6c400f5f9707,248,2023-05-08,Atestado Médico,8.0
+ca9d8831-894e-4397-b38a-3db1276732d3,248,2023-10-02,Atestado Médico,8.0
+3b90908e-7ce3-4563-a036-3a731b7e0502,248,2022-04-18,Atestado Médico,8.0
+c9df301e-8ef0-4de1-bb4f-19725115d7ee,248,2023-08-27,Atestado Médico,8.0
+ce36e92a-58e9-40aa-81b6-edd4a50784cb,248,2023-05-17,Falta Injustificada,8.0
+31662c94-bbb2-4366-b04f-e1a8e44cbd41,248,2025-02-16,Falta Injustificada,8.0
+5bb0dd76-60b5-4717-b072-afc805776108,248,2023-09-25,Falta Injustificada,8.0
+e60ec813-402d-40fa-a27d-ceccb972393a,248,2023-01-21,Atestado Médico,8.0
+70000009-b4e5-40ba-bc3c-c2bc0a1bebd3,249,2026-07-16,Atestado Médico,8.0
+b271115b-8af0-4ec3-8b72-6a7c8f1c3fa0,249,2026-02-22,Atestado Médico,8.0
+2fc6c4e6-9113-4d7e-b095-26217d76ab58,249,2026-06-13,Atestado Médico,8.0
+bb7eb979-52dc-4ffd-9900-8d658b2ab759,249,2026-03-26,Atraso,1.8
+d4d353a5-de1f-4619-867b-a9e577e8b762,249,2024-01-03,Atestado Médico,8.0
+8df50b01-dc4d-4762-aa1a-f7d2994316bb,249,2024-11-13,Atestado Médico,8.0
+27afbff9-87f8-4f62-91a1-e557290c4414,249,2026-05-31,Atestado Médico,8.0
+436adb9d-d1c5-4a00-8bb1-3407730ad7de,249,2025-06-04,Falta Injustificada,8.0
+002f2ca4-743e-4531-9dfb-19228aa6b006,249,2026-05-29,Falta Injustificada,8.0
+6108ffcc-8186-422b-a355-ad05c6a28e4e,249,2023-08-08,Atestado Médico,8.0
+04cad30a-e207-4b20-af7f-2cd7bbd0fe6c,249,2025-11-03,Atestado Médico,8.0
+c6a90598-5d34-4833-9b59-2a199ea6ed4a,249,2026-06-06,Atestado Médico,8.0
+b893b08a-5219-4216-bd21-1daf9ec5405d,249,2024-08-04,Atestado Médico,8.0
+89f90de9-f798-4131-a885-a7b410372a5c,249,2025-10-01,Falta Injustificada,8.0
+86296fbe-309b-48dd-a332-9992d1ad3e51,250,2023-06-16,Falta Injustificada,8.0
+8d2cfe83-c407-4654-bf5f-61aaaee7c7a5,251,2022-12-09,Atestado Médico,8.0
+5295ea96-487b-45d7-9cf0-23dd277529a2,251,2025-04-12,Atestado Médico,8.0
+1c4760a5-5270-4b29-a412-47a268e8f311,251,2024-03-25,Atraso,3.4
+1111ee29-a8ad-4539-85f0-786a18a440bd,251,2023-03-31,Atestado Médico,8.0
+2138e2e6-f013-4170-95cf-3b4c0b34fc84,251,2025-03-21,Falta Injustificada,8.0
+33bb7382-0801-4e83-9f9d-39102dbb45bd,251,2023-06-01,Atestado Médico,8.0
+1947ea42-310d-49d1-bc41-3a2a1b67f7bb,251,2024-02-01,Atestado Médico,8.0
+d617b9c0-a449-464f-922d-dab608252b39,251,2023-12-07,Atestado Médico,8.0
+869c3a8e-7d6a-47c2-a86d-8706637b3648,251,2026-01-20,Atestado Médico,8.0
+4185300d-971d-45fd-b389-50ce9fbc879e,252,2026-05-23,Atraso,7.0
+9b1fc6d1-3881-49dc-9dc9-60970c90e028,252,2026-06-26,Atestado Médico,8.0
+ee224f70-0359-4c6d-9224-cbd2b7c4b3ee,253,2025-06-07,Atestado Médico,8.0
+7dccc026-a7df-40b2-b56f-dc0aebc8f6b7,253,2024-09-11,Atestado Médico,8.0
+14780c9d-d503-4b43-a3c7-ca9aedabddab,253,2025-12-16,Atestado Médico,8.0
+0f8a0c2c-a390-4bc0-8d0f-a4a677d2b94f,253,2024-08-15,Atestado Médico,8.0
+f030bfd4-be54-498e-8eda-64335c65a65c,253,2026-06-07,Atestado Médico,8.0
+5e7b4866-d270-4470-aa7b-e8b1e3f342a8,253,2024-10-23,Falta Injustificada,8.0
+d2da43ec-0eec-4013-b55b-eaaacb53f0be,253,2026-07-07,Atestado Médico,8.0
+0a683eb8-876d-48c5-840c-7e5b9def57b4,253,2024-10-23,Atestado Médico,8.0
+4dccb05d-d59e-40fd-9204-f4d6bbfb1b71,253,2026-06-28,Atraso,1.4
+f5e90352-3745-49f2-b1d1-88b913f39289,253,2025-03-20,Atestado Médico,8.0
+b9a4de2b-19e9-43a4-98dc-ceb684fcfcb0,255,2025-06-23,Atraso,2.2
+30807a5d-62a5-4eec-881a-f04f3b23feed,255,2025-12-09,Atestado Médico,8.0
+3faeef01-a829-4f3c-86b4-852c317046b9,255,2024-10-14,Atraso,3.0
+2dcc4095-f28f-4444-a015-4d6591ed554a,255,2024-09-18,Falta Injustificada,8.0
+6a4989a6-8ee2-4e54-bfcb-33888ef4d74b,255,2025-05-29,Licença Paternidade/Maternidade,8.0
+a37ce1c5-c42b-466b-9b02-fa24bf00f56c,255,2025-11-14,Atraso,6.7
+756eb67d-acab-4b69-9ba3-7cb59399ad15,255,2024-05-06,Atestado Médico,8.0
+e200c157-6d54-495a-aa4d-52a8b3da5808,255,2026-01-26,Atraso,6.5
+2e2e77a4-cade-4379-aab4-03f61aa67474,255,2024-02-18,Atestado Médico,8.0
+56673e49-8133-4bdc-a6cc-73768cca8963,256,2023-12-06,Atestado Médico,8.0
+ff9957a8-88ad-4388-a87e-4086a854027e,256,2023-12-18,Atestado Médico,8.0
+5a31e916-eefb-4a24-b169-3ed5999413cc,256,2024-08-14,Atestado Médico,8.0
+fdd084a1-8cd2-416f-90ad-ff63e7094153,256,2024-01-15,Atestado Médico,8.0
+5f290290-d848-4a54-931c-8812ff31950a,256,2025-01-09,Atestado Médico,8.0
+6e3b0507-a21c-4209-83a1-962d698f546d,256,2024-08-09,Atestado Médico,8.0
+9bc0fa93-52cd-4def-b9d2-76f4d37ee471,256,2025-06-03,Falta Injustificada,8.0
+36c3fe85-8bae-495e-902a-405c3d9ffe59,256,2025-12-18,Licença Paternidade/Maternidade,8.0
+ed17f6e9-8cdc-418d-8405-742060042231,257,2024-04-30,Atestado Médico,8.0
+f62ecf88-5c29-450b-810b-fc29be9cafcf,258,2023-04-23,Atestado Médico,8.0
+65a7ba30-f5b7-4dd9-b28f-589773d0b6c7,258,2025-04-27,Atestado Médico,8.0
+fba3091f-08df-4af8-b9ef-aad6000cd21a,258,2024-02-15,Atestado Médico,8.0
+84820c08-042c-45ad-9883-e9b148d3d2ce,258,2023-11-27,Atestado Médico,8.0
+4d457ea5-e3ec-4f6a-be50-3fdc2294fa0a,258,2024-05-02,Atestado Médico,8.0
+38cd9122-fc01-45e1-8ce2-afa201ae7eb1,258,2022-03-23,Atestado Médico,8.0
+058e389e-509d-47cd-9b10-7e7f36fea0b4,258,2025-05-09,Atraso,6.6
+b0916fb7-f17f-4f92-926a-a790c5828939,258,2026-02-10,Atestado Médico,8.0
+8dbcde5a-eb4a-4de6-86a5-2064d284b528,258,2022-04-28,Atestado Médico,8.0
+ed0940f7-9217-4fb0-8e6b-308582e2b02d,258,2024-01-23,Atestado Médico,8.0
+09a9161a-1823-4383-a79b-637c9255273f,258,2024-09-09,Atestado Médico,8.0
+236eb832-27f6-42ac-9b0c-417075dacbbe,258,2026-01-02,Atestado Médico,8.0
+95082801-e3be-4ca0-9df9-24fb43d643ed,258,2023-05-12,Falta Injustificada,8.0
+cfa28fb8-4199-422e-bba5-81263ff69f41,258,2025-09-11,Atestado Médico,8.0
+66592d83-920b-425b-9787-18104ce09ecb,258,2023-11-14,Atestado Médico,8.0
+bbf8da91-37a9-4824-aafa-4d5b91ae3d4c,258,2024-05-08,Atraso,7.7
+cafbc4fe-531f-44af-b93c-92d513c37b5d,258,2023-08-21,Atraso,5.1
+d3616b3a-7cff-4e92-ac43-56677b874b4a,258,2026-02-21,Falta Injustificada,8.0
+9383f86d-b3ed-46ed-b089-4de4e6267164,258,2026-07-20,Atestado Médico,8.0
+98611260-1869-4755-a85c-1ec9d1cbc092,258,2025-11-28,Falta Injustificada,8.0
+bb1502ea-0991-4f46-8ce6-928ba46acc9a,259,2026-07-01,Atestado Médico,8.0
+1417182a-61ad-418a-9387-5413ceef7261,260,2025-02-16,Atestado Médico,8.0
+c559cd0f-ebff-453f-8e50-f355c7b611cd,260,2025-03-03,Atestado Médico,8.0
+d13032db-e13a-44ca-9911-f42e559a8f54,260,2025-03-20,Atestado Médico,8.0
+de2a2ddf-ee24-4b72-aaa1-2abd6f2e92b9,260,2024-09-27,Atestado Médico,8.0
+3a0a2b59-c538-4872-9eaa-543e1edbbe71,260,2025-06-06,Atestado Médico,8.0
+9a307096-d977-46be-a71c-8948bf67de42,260,2024-04-29,Atraso,6.6
+c704e80e-a246-4cd7-82ed-5d15edbc36d8,260,2024-10-17,Atraso,2.5
+4e0648d0-0ddb-445b-a1ea-aa65a1d770ea,261,2025-01-01,Falta Injustificada,8.0
+8a38d5aa-51be-4a8e-8a8a-eb94863dfcd6,261,2025-10-18,Atestado Médico,8.0
+809d6444-53ab-4cce-a64a-e04f909e21ba,261,2025-02-28,Atraso,3.3
+0ceeddc2-2737-4345-b886-29ffb2a0f778,261,2025-03-16,Atestado Médico,8.0
+6493f5ef-ff53-46a4-bb48-bbbaac735be0,261,2025-05-10,Falta Injustificada,8.0
+985a9548-c0ba-42a4-b213-e7ccf89617fa,261,2025-12-11,Atestado Médico,8.0
+38da9a90-170f-4d32-8135-f15a9343e6ea,262,2024-06-02,Falta Injustificada,8.0
+64f2502e-c94f-4ed3-8a2f-38766e935615,262,2025-05-31,Atestado Médico,8.0
+1521ad35-560f-4e2d-a1d7-243225e42403,262,2025-01-06,Atraso,7.3
+0c9fa6e6-becc-4760-9249-ee3a79d19c4e,262,2024-03-10,Atraso,1.3
+15c7bc83-4336-4fe5-a631-66a78c53b74c,262,2025-05-05,Atestado Médico,8.0
+c6196773-6f3a-4f33-8077-7ac56605de3c,262,2024-02-06,Atestado Médico,8.0
+2286e3f8-c314-46ea-a160-446eb2a7a475,262,2024-05-27,Atraso,7.5
+7ce4770e-32b7-4d80-8f2e-08d37b1dbca3,262,2024-06-30,Atestado Médico,8.0
+32339053-9242-4a54-a6f9-c0e165339cf0,262,2025-04-16,Atraso,4.2
+bc54b8c1-ff40-4dcc-9db1-f7f98fa8ae34,263,2023-01-14,Atestado Médico,8.0
+1257429e-3e08-4cb7-bf09-f7a686351a54,263,2022-08-23,Atestado Médico,8.0
+52cb1ae0-6e18-49b3-86da-85f144296ca2,263,2023-08-06,Atestado Médico,8.0
+16efacdf-9375-4e61-ac94-503eaf4afcdd,263,2022-10-17,Atestado Médico,8.0
+6c6d282b-69e0-4370-abf7-a5d01ccec1ef,263,2023-06-10,Falta Injustificada,8.0
+521be8c2-30c3-4f8a-992a-b43d5d822e3a,263,2022-06-05,Atestado Médico,8.0
+06326b36-a7c8-40c5-9808-552c5832c8de,263,2023-12-04,Atestado Médico,8.0
+fcd6c18e-2b54-400d-8e08-9bb4c509d558,263,2023-04-22,Atestado Médico,8.0
+fd7b1279-d253-4515-9dc0-a8b55987038a,263,2022-05-13,Atestado Médico,8.0
+25545c1a-9f88-4da3-b134-ae6ecd840a47,263,2023-12-27,Atraso,5.7
+d173b70b-ec99-4c80-8b7d-185670c23600,263,2022-10-30,Atraso,1.4
+5fb2b838-af73-43cf-b31e-91f23bc5f97f,263,2023-08-13,Atestado Médico,8.0
+da4ec04c-ba7e-4b86-81fa-d75327ef0a4b,263,2023-03-20,Licença Paternidade/Maternidade,8.0
+0df63417-bd55-48c7-9cc4-64ed15f7ef61,264,2026-06-15,Falta Injustificada,8.0
+ed3e2846-9efa-4407-b2ed-cab03e3869e2,264,2024-11-14,Atestado Médico,8.0
+d1f44c8d-d51b-4974-9e66-8dd025ce2a21,264,2026-08-03,Atraso,1.7
+b19c905e-57e0-41f1-8384-066149a5baeb,264,2025-03-19,Atestado Médico,8.0
+73373c2f-4e1c-4762-9c7c-b6edcde55848,264,2025-12-14,Atestado Médico,8.0
+3581a632-54f5-4f70-85d2-d205789fed96,264,2024-10-31,Atraso,1.9
+342c5348-363d-45f1-89ba-b9c8bd717da3,265,2024-12-08,Atestado Médico,8.0
+4237692a-c017-466e-85f4-c0a28be27516,265,2025-11-02,Licença Paternidade/Maternidade,8.0
+badc4599-9f7f-4e0c-bba7-9d058c7e2904,265,2024-07-09,Atraso,1.1
+b2e19f66-b1f0-4ea8-a42f-5829fe07832a,265,2025-12-04,Atestado Médico,8.0
+953fcfd4-6069-4b6d-84b5-1c12ab132032,265,2023-12-14,Atraso,6.7
+0b21a308-86dc-4e34-a9dc-fe52e7f2418a,265,2024-05-23,Atestado Médico,8.0
+48b51c88-0f63-4f4a-ab9a-118e4165964c,265,2025-12-01,Atestado Médico,8.0
+9e32f085-b24f-42b9-8a08-41de3360d115,266,2023-11-29,Falta Injustificada,8.0
+a79e3626-7707-4c0e-8d96-feb34572b385,266,2021-08-18,Atraso,2.6
+637e3f94-110c-4d92-8222-305df1f71605,266,2021-09-24,Atestado Médico,8.0
+da221b85-a9b9-4a1d-8574-98caa90e319d,266,2025-04-30,Atestado Médico,8.0
+dd419a67-5c37-4254-a8fc-5690e9b1c4a1,267,2022-01-09,Falta Injustificada,8.0
+de0e9c53-4ae0-4d7a-84e2-51321b9ec5f9,267,2022-01-11,Falta Injustificada,8.0
+3b2dddc9-62f3-4fae-a63f-cf12e226a768,267,2023-03-17,Falta Injustificada,8.0
+fa033d6c-822f-42f0-a175-a257fad3b44c,267,2023-07-06,Atestado Médico,8.0
+50c1b8f7-e764-48c4-997f-a0fdb5ae2a56,267,2023-02-16,Atestado Médico,8.0
+88145bde-98db-4732-9de4-d1947c12d198,267,2022-03-21,Atestado Médico,8.0
+802aa6eb-32e9-4c2d-afb9-0ccf168885c2,267,2023-08-06,Licença Paternidade/Maternidade,8.0
+ed25459e-8f89-47fa-b53e-9662f77fa3a7,267,2025-10-15,Atestado Médico,8.0
+3f551740-0a2d-46a6-8580-4493b6646199,267,2025-09-03,Atestado Médico,8.0
+5564d1d3-4e0f-4ae1-8787-c3f4ec19e4eb,267,2022-03-13,Atraso,5.5
+28317f0d-be90-43fb-a4b5-d9a57d6c3d2a,267,2025-03-31,Atestado Médico,8.0
+5a16f9d9-af2f-4773-98c6-915804b40ac9,267,2022-04-02,Atraso,1.5
+3c77ea4a-4d65-4036-a00f-230b5afa0fb3,267,2024-08-10,Falta Injustificada,8.0
+80520405-fa84-4b5f-ba6e-3743fef97d57,267,2021-07-01,Licença Paternidade/Maternidade,8.0
+a033edad-0fdf-4e19-8fd8-35fc469ff562,267,2024-11-14,Atestado Médico,8.0
+e3f16406-631d-4c8b-a0f0-fe7941f74651,267,2025-02-04,Atestado Médico,8.0
+078b13a9-fd88-465a-909a-934bfffcd743,267,2022-05-16,Falta Injustificada,8.0
+47bac8aa-f2f9-4b2c-8e10-814ff1b2f143,267,2023-12-02,Licença Paternidade/Maternidade,8.0
+e5ad481d-577f-4c16-a6d6-58fb39bfc9b6,267,2023-06-03,Falta Injustificada,8.0
+1679bbe0-2323-4416-a82c-ae186491982b,267,2025-07-02,Atestado Médico,8.0
+f5ea4128-854d-43bf-a1d8-5365bada0c94,267,2022-08-24,Falta Injustificada,8.0
+a0226155-df69-4d17-9cc9-6aedad9112c5,267,2024-12-21,Falta Injustificada,8.0
+3d884938-6ad6-4b8c-ba38-b844afbffde4,267,2025-08-24,Falta Injustificada,8.0
+f8751fd4-6d2c-4f42-a71a-919f92a97acd,267,2022-04-20,Falta Injustificada,8.0
+544c0132-9af9-4493-a8e4-6b314ff85111,267,2023-10-05,Licença Paternidade/Maternidade,8.0
+34ee0b67-21bb-4183-8acf-d4d672fcc072,268,2026-07-25,Falta Injustificada,8.0
+8a962a11-94be-4d9f-a379-c05fa7087280,268,2026-02-10,Atestado Médico,8.0
+dcd28b97-33ca-4a6b-8cd3-af7caf1dcfb8,268,2026-01-08,Atestado Médico,8.0
+b483d162-b043-439a-8f1a-84cb235b275b,271,2026-04-03,Atestado Médico,8.0
+229fe85b-e8d9-4a20-8618-1db2e60d7a94,272,2025-10-10,Atestado Médico,8.0
+f9cc83ed-e8b4-4c6a-bee5-43b36e18b184,272,2025-09-06,Atestado Médico,8.0
+eedb0ce5-a7fe-4dcd-a528-b516c521ff2e,272,2025-11-25,Atestado Médico,8.0
+51476e86-2875-440a-aac7-dc2e9099a283,272,2025-07-31,Atestado Médico,8.0
+f2d78d53-8870-4ae7-8ead-da9a115c42cd,272,2025-02-02,Atestado Médico,8.0
+514e1353-2f23-4c4d-9e4e-a133b82d40de,272,2025-05-23,Licença Paternidade/Maternidade,8.0
+ba21e269-2540-4bfe-a12f-f6cdd6eaf269,272,2025-06-22,Atraso,5.5
+e15052f3-5195-4000-83f3-8c8c078c3875,272,2025-05-24,Atestado Médico,8.0
+6947cbac-f610-440d-a9fe-890ff90fb6e4,272,2026-04-01,Atraso,5.2
+ef0b743e-bee0-4762-b168-bdec4da838b7,272,2026-05-27,Atestado Médico,8.0
+eee9795e-a308-4e48-a4e5-b5b0d25ad576,272,2025-06-30,Atestado Médico,8.0
+c7739d46-26e6-484a-8617-8161bd03d33b,273,2026-03-03,Atestado Médico,8.0
+2f4b8be8-21ac-4db5-9b55-5f6d301c6abf,273,2024-04-22,Atestado Médico,8.0
+9caad37c-fc67-45e2-832f-c21b06b4ed27,273,2026-08-11,Falta Injustificada,8.0
+9129bc75-9b08-45a8-8451-1ba09df034d3,273,2026-08-10,Falta Injustificada,8.0
+3b705092-98ab-482c-bb1d-01819cc3c1f5,273,2026-01-29,Atestado Médico,8.0
+5bf88d1d-06ad-4920-aff7-ff5d3b1d12cf,273,2025-01-28,Atestado Médico,8.0
+7a029a6d-c7a2-4171-b02a-06ee14588063,273,2024-10-22,Atestado Médico,8.0
+9ace63cc-d89c-43f6-8098-580d22538040,273,2025-09-07,Atestado Médico,8.0
+5fbbcda5-a64a-4fe8-b646-e2b17800e27a,273,2025-12-07,Atestado Médico,8.0
+7dcf60fd-6330-48ed-9a25-27952f191516,273,2025-08-29,Atestado Médico,8.0
+317979f9-29ed-4760-a334-08ba794e0838,273,2024-10-05,Licença Paternidade/Maternidade,8.0
+c3b8d179-6899-4c84-8840-323439ed0800,273,2026-04-30,Atraso,3.7
+451575b9-ece9-404b-83d7-f962f80443ee,274,2025-10-22,Atestado Médico,8.0
+be0bbddd-38f9-4001-a9bd-40d8f3402dd3,274,2026-06-12,Atraso,6.6
+c1fda581-33ec-46b1-bcfd-8547abdce0da,274,2022-10-03,Atestado Médico,8.0
+ed56a2a0-2d54-4f2b-90ee-4f77345e2eaf,275,2024-11-29,Atestado Médico,8.0
+ddfc2a92-7074-4eb3-bc52-17ccf4672866,275,2024-02-23,Atestado Médico,8.0
+532c5c01-b017-4533-bd6c-e5c39df79a27,275,2024-07-03,Falta Injustificada,8.0
+3f2d39c8-e338-4579-b521-aa18dde4f5c1,275,2025-03-25,Atraso,5.5
+0ab5207f-c6b6-420a-a7a5-59366d744a0b,275,2024-01-11,Falta Injustificada,8.0
+61603399-d307-4198-bc3e-b4029ba14c35,275,2025-04-23,Atestado Médico,8.0
+9c8b9550-64e7-4f9a-901a-0ccfb85f164b,275,2026-04-28,Falta Injustificada,8.0
+9803a82e-926a-4bd0-be12-5f8ff06b6c12,275,2026-07-28,Atestado Médico,8.0
+e033500e-a432-42b3-8675-820e8941bdd3,275,2023-11-12,Atraso,7.9
+85494255-09db-4bb5-8973-9495b440b852,275,2026-06-13,Atestado Médico,8.0
+d3b6ef1b-74f7-4d09-b39c-afa51bfc270c,275,2024-09-19,Atestado Médico,8.0
+feef21f8-e0b6-4f90-8adb-c4ffe0b55615,275,2024-03-14,Atestado Médico,8.0
+6546c66d-89b1-4ad1-84c9-b2763ee79d31,275,2024-11-30,Falta Injustificada,8.0
+8ec57d47-0a0c-44e5-bc34-1b4ffbdc532e,275,2026-03-30,Atestado Médico,8.0
+a1722ee3-c3e1-447c-8420-e0d8632c817e,275,2026-03-08,Falta Injustificada,8.0
+4a8abb17-309a-483a-8c9e-a060f66c7331,276,2026-02-14,Atestado Médico,8.0
+4df742ae-e267-412b-a5e5-f13f70869a45,276,2026-01-17,Falta Injustificada,8.0
+761ad914-4931-42d4-93de-f87cc60fb252,276,2026-04-19,Licença Paternidade/Maternidade,8.0
+9cf65e33-4b5f-474b-ac26-7b562a9edda7,276,2026-06-28,Licença Paternidade/Maternidade,8.0
+84581f73-b0a0-41cd-8df6-c527eb45bc38,277,2025-04-16,Atestado Médico,8.0
+d473e687-76ad-4c33-a469-d0c2e7574997,277,2023-08-27,Atestado Médico,8.0
+b8ff615c-1727-40fa-b3a2-7c7ba566e884,277,2026-05-13,Atestado Médico,8.0
+c75aec94-2e05-4f79-9cf8-d03f802b1bf4,277,2026-07-20,Falta Injustificada,8.0
+b2348948-e4f2-4e4c-b016-716b95dfe6cb,277,2025-05-01,Atestado Médico,8.0
+69df05c7-64a0-453f-a2a3-75568be15610,277,2021-06-03,Atestado Médico,8.0
+2dcafc82-0660-43e9-b36d-417c52ce55e3,277,2021-02-08,Atestado Médico,8.0
+b66f3507-e588-4999-971e-ea3974246baa,277,2024-04-21,Atestado Médico,8.0
+74661e6f-e1ee-41f1-b3b1-d0dce552d0a8,277,2021-05-23,Falta Injustificada,8.0
+b11464aa-52f6-4081-8005-64b8171603b1,277,2021-02-02,Atestado Médico,8.0
+cbe68571-b622-418e-a83b-cc84a6091ad0,277,2022-06-25,Falta Injustificada,8.0
+1fa09802-bbb7-4494-b7e7-67d429fb832c,281,2025-05-31,Atestado Médico,8.0
+730bc657-b4cb-4613-9d39-e9c217584f23,281,2024-10-18,Atestado Médico,8.0
+8618e40d-15d6-4658-9ce9-dbbca25291f3,281,2025-10-03,Atestado Médico,8.0
+ca835709-ba14-4757-a253-8cdfb5103e9c,281,2025-12-28,Atestado Médico,8.0
+f323123e-9cb0-490c-82fc-9294f9a62522,281,2025-05-26,Atestado Médico,8.0
+616f760a-8ce3-47d7-a0f1-152828ef2f46,281,2026-02-22,Falta Injustificada,8.0
+e98965f2-2bbf-4e35-84ac-b57d0b3d6dc9,281,2025-02-27,Atestado Médico,8.0
+a8d6faf6-df0d-4ef1-90c4-0e4555cf37ba,281,2025-03-07,Licença Paternidade/Maternidade,8.0
+de6ae459-2980-46ff-a66c-47fbdcd81a8b,281,2025-12-17,Atestado Médico,8.0
+b648be8a-c4e7-45b9-adca-365a2504fd28,281,2025-02-13,Atestado Médico,8.0
+4f3c9771-4edd-4a2a-ab69-b4ae0d22af35,281,2024-03-23,Falta Injustificada,8.0
+723dfacd-f601-4005-84c4-f69fbaebe15d,281,2025-10-15,Atestado Médico,8.0
+1e18046d-2e42-4840-a05f-36c849ed856e,282,2025-09-26,Atestado Médico,8.0
+33ee16e7-f5de-4eba-a1ae-a39be606d7c2,282,2025-12-15,Atestado Médico,8.0
+40cbe188-c3f0-4ac3-9f60-1d1700e78824,282,2024-08-28,Atestado Médico,8.0
+dafc3805-7f64-45de-b569-9aef03200c4e,282,2025-01-03,Licença Paternidade/Maternidade,8.0
+0178de26-ceb5-47ac-8b22-e4457fa70485,282,2024-06-18,Atestado Médico,8.0
+3ce5988c-7e53-4702-a1f8-d1929ba4d5a6,282,2025-02-05,Falta Injustificada,8.0
+79c842cb-a8d3-410e-96bf-ae6e37850b5c,282,2024-06-13,Atraso,4.6
+1453e17e-711e-4e6f-a8ff-ae1774283491,282,2024-10-19,Atestado Médico,8.0
+3ea585a9-01ae-4505-99a0-4abb99e95433,284,2025-07-08,Atraso,3.7
+9ea8fcb1-4732-48c9-8c1e-9464e1d5c0dc,284,2024-01-21,Atestado Médico,8.0
+d343bf88-d1f3-49b1-8ebb-8208a0ee404f,284,2025-06-04,Atraso,5.9
+25f41dd6-2f51-4c6e-8c85-f1543527bcee,284,2025-01-08,Atestado Médico,8.0
+09668d08-5959-4d27-a73d-27460e18ab96,284,2024-01-04,Falta Injustificada,8.0
+aac04912-084d-4822-9a94-8e70253741e4,284,2025-01-20,Atestado Médico,8.0
+4c66aa4d-9a70-4a8a-9688-1d3e93fde248,284,2024-03-02,Atestado Médico,8.0
+0c8d51d2-1673-4efb-ab9e-54e054c3b22e,284,2026-02-13,Falta Injustificada,8.0
+2da1afda-fe65-4dcc-aabd-b05a1be00f8e,284,2024-05-02,Falta Injustificada,8.0
+9c7060da-48cd-49c5-ac0e-1f71294d43ed,284,2026-03-24,Atestado Médico,8.0
+984fe323-b329-4925-b107-094ea9325ae1,284,2023-12-29,Atestado Médico,8.0
+2d6b5953-8fea-484e-898c-fd4892811c92,284,2025-06-02,Falta Injustificada,8.0
+94372280-bfd4-47e7-b491-050cf75efed8,284,2024-09-01,Falta Injustificada,8.0
+17d71fc0-092c-4030-ae75-76375c3552b3,284,2024-05-09,Atraso,1.1
+5e5a90c1-52a4-43f9-8c9e-903ac4bd338e,284,2024-06-15,Falta Injustificada,8.0
+11529a73-d1fc-4edd-a102-2b56e5c482ff,284,2023-10-01,Atraso,2.1
+8cebac57-d7e3-43cf-ad65-1847c2294116,284,2025-08-18,Falta Injustificada,8.0
+227197ca-7887-43ed-8af7-15b7109efb40,285,2024-01-21,Atestado Médico,8.0
+46404b2a-dc02-48af-b1d2-94571f3cea1d,285,2022-08-10,Atestado Médico,8.0
+864f36dd-69ec-49d5-86ec-ed9954470290,285,2022-02-02,Falta Injustificada,8.0
+9caf8df1-3584-4d71-b221-e1c535b86d0a,285,2023-03-29,Falta Injustificada,8.0
+bacf7cfc-9245-4cc4-9bfb-3b3d0ee52f63,285,2021-11-12,Atestado Médico,8.0
+fcb86f9e-8769-4baa-a104-bdcefab6ad91,285,2022-08-30,Atestado Médico,8.0
+b04ba584-b95c-4c2d-bbd1-565516718639,285,2021-10-25,Atraso,6.4
+fc7cbe71-c9c6-4b51-af13-864b9ad2bb72,285,2021-04-27,Atestado Médico,8.0
+9bdd3d7a-6d53-428b-8985-1b79b4f136fc,285,2023-01-13,Atestado Médico,8.0
+86800a0b-4279-4490-9105-64f9d90949aa,285,2023-07-25,Atestado Médico,8.0
+5a9621f5-9f8c-4da5-beb9-ea24933c8d00,285,2022-09-06,Atestado Médico,8.0
+9008cdc9-9d42-4bae-a134-e15bed56c714,285,2024-02-03,Atestado Médico,8.0
+a1c16b96-baab-49f2-850b-70737f13de67,285,2021-07-06,Atestado Médico,8.0
+2e0e6673-ced7-4d17-be14-c5957f6bf62c,285,2022-08-18,Atestado Médico,8.0
+b565f64e-3b93-453f-9c02-040de237c877,285,2021-08-02,Falta Injustificada,8.0
+00679b62-318c-4979-bab0-a15d4a5d6cea,285,2023-12-09,Atestado Médico,8.0
+a01e31f5-7702-4eba-8623-ffbf1e42d2b8,286,2025-02-19,Licença Paternidade/Maternidade,8.0
+d91b1a04-bcca-4a38-9e30-614fcbf6aa23,286,2024-04-16,Atraso,1.4
+ffbd9cdd-9d84-4303-8cb0-3fc53513a238,286,2025-06-13,Atestado Médico,8.0
+557368cf-0ba5-4050-a9fe-99a96a25542e,286,2023-03-17,Falta Injustificada,8.0
+a3336ea8-ce58-4e20-8f77-63e05982aa44,286,2024-05-02,Atestado Médico,8.0
+3381001f-a3ff-4fd2-82e4-60aa365bc763,286,2023-02-26,Atraso,2.8
+ca4a40bc-4121-41a3-8818-b004b0a4f557,286,2022-11-06,Atestado Médico,8.0
+81b66951-4cdf-497f-8eca-2e96115db44f,286,2025-06-28,Falta Injustificada,8.0
+0191d19d-c45c-4fbb-92ec-ac278ccc617e,286,2026-01-19,Falta Injustificada,8.0
+57637902-5552-4712-af92-ef221d2467e2,286,2026-04-29,Atestado Médico,8.0
+9db1bd5e-91a4-4796-b972-0eec65637d1f,286,2022-12-02,Atestado Médico,8.0
+2cf6073b-d500-4147-8774-3c94f5c9f459,286,2023-07-21,Falta Injustificada,8.0
+56830783-d575-4337-949c-9eb931ab0158,286,2026-06-05,Falta Injustificada,8.0
+ea89a979-7aa6-46ea-ac27-3009ec1a86d3,286,2025-02-15,Atestado Médico,8.0
+a54976d0-091a-4875-8c18-dd0e7978dc84,290,2022-11-18,Falta Injustificada,8.0
+a090360d-27c7-455a-bb43-4a7222c0c475,290,2025-04-08,Atestado Médico,8.0
+8976b471-dd7f-47d1-a45d-ef2675eb0e8f,290,2024-08-30,Falta Injustificada,8.0
+c8b3815e-7664-4043-95c9-bf0fe55b93ad,290,2024-10-08,Atestado Médico,8.0
+be1a070f-ed83-44c8-a9f8-d3e4d06d3943,290,2023-06-19,Atraso,2.3
+4ca1cabd-8565-4e0b-95c9-7d5d0e5779ec,290,2022-10-27,Atestado Médico,8.0
+50c4cb4b-ad9e-4c1e-b997-402490a014ab,290,2025-09-21,Atestado Médico,8.0
+3550b07e-04ca-4b38-892f-ca698e2017e1,291,2026-03-17,Atestado Médico,8.0
+ccae58fe-54eb-4e20-af7c-7d2b93d054e4,291,2024-11-18,Atestado Médico,8.0
+5a853cd8-cbb8-4be0-a355-e636ea8b31f5,291,2023-10-16,Atestado Médico,8.0
+47cc3a66-2638-48be-b838-93a210f35676,291,2024-05-03,Atestado Médico,8.0
+fbce7087-56d2-414d-87fa-f6f7d73aae7b,291,2023-12-04,Licença Paternidade/Maternidade,8.0
+d7a7e7b1-88c6-4063-a063-03ca600fc79c,291,2024-11-12,Atestado Médico,8.0
+63ba9d86-9b0e-40ad-922b-da482a7cf9e9,291,2026-07-28,Atestado Médico,8.0
+dd56030e-1de9-47a2-985e-7e892ff8107a,291,2024-04-29,Atestado Médico,8.0
+b48c531b-4eeb-47ff-8064-f074c847b130,291,2024-01-20,Atestado Médico,8.0
+0818c965-b5b8-4351-9083-0841db9a0eb7,291,2022-12-20,Atestado Médico,8.0
+7f3ef59b-1638-4137-a9f3-5b2d4580dac2,291,2025-09-26,Atestado Médico,8.0
+73b0220d-5f20-49ea-bcd6-1f5ee0864418,291,2024-08-15,Atestado Médico,8.0
+3754f16f-4d79-432c-b362-d408d4575305,291,2023-03-15,Atestado Médico,8.0
+1cbb304b-2ccd-42af-8d64-bb63866cfb2b,291,2025-05-07,Atestado Médico,8.0
+c71d4564-0992-4886-88f2-16c15fcc997d,291,2026-04-22,Atestado Médico,8.0
+719b2dd6-17b4-475b-a9d1-8ec233bcb8a9,291,2022-10-29,Atestado Médico,8.0
+7b8fd09a-cc8c-4ba9-8662-200c8188de48,291,2023-07-16,Atestado Médico,8.0
+30b1b67b-2771-4422-8003-8f26e7ab2ef7,291,2023-10-14,Atraso,6.6
+bb8141f0-7bc4-4138-ac73-75985711d5fd,291,2022-10-16,Atestado Médico,8.0
+c6895836-4f73-4b1c-860c-7b68dfb68a5f,291,2024-10-12,Falta Injustificada,8.0
+df2e37e7-c4fc-4b84-a4ae-fbea53cc6b95,291,2022-12-02,Atestado Médico,8.0
+f02254af-fb76-4637-9277-ab64192703a7,291,2025-02-20,Falta Injustificada,8.0
+21f9c072-fe22-4ba1-ad3d-581e84222f58,292,2026-02-02,Falta Injustificada,8.0
+75992b0a-095b-41d6-b97d-76173487246c,292,2026-02-10,Atestado Médico,8.0
+85b864d4-dd64-4387-b6b3-8fbc6338fb29,293,2025-07-19,Atraso,4.2
+eeada90c-4f9c-48bf-810d-583f1da76d69,293,2025-01-11,Atestado Médico,8.0
+98233b06-d91e-47e6-afe2-a9400b458c23,294,2025-03-01,Atestado Médico,8.0
+77852ddb-5552-4a3c-964a-9b18df3334c6,294,2025-12-05,Falta Injustificada,8.0
+854494ab-1a64-427d-8bcf-d0fce3a1af97,294,2026-07-19,Licença Paternidade/Maternidade,8.0
+4ffebdfd-bedc-4cb7-a8b3-31a0c4246277,297,2025-09-30,Atestado Médico,8.0
+4fe898d8-c22c-46a8-93da-f60d05c14422,297,2026-01-22,Atestado Médico,8.0
+5225374a-35b8-426c-a462-ff64a38bbaa4,297,2026-08-05,Atestado Médico,8.0
+46d28109-495c-4ac8-b14a-abdd33579b27,297,2025-12-03,Atestado Médico,8.0
+70ecf41b-c5d5-4016-91b3-ccf588433a38,297,2026-04-25,Falta Injustificada,8.0
+2639e214-45cc-4a93-9e1e-5d91abcec90f,297,2026-04-27,Atestado Médico,8.0
+03e7dd21-1d4d-46d6-860d-113d2851a8be,297,2025-07-04,Atestado Médico,8.0
+83997ac5-8f43-4250-9f79-5228f5530567,298,2023-10-21,Atestado Médico,8.0
+59ae7302-8ae3-497e-b4e2-41421a354475,298,2023-07-16,Atestado Médico,8.0
+243d116d-4563-4bbe-9188-3a268ca33a54,298,2023-02-18,Atestado Médico,8.0
+48843b5b-cdd3-414c-b450-8610f17aa7a9,298,2024-04-06,Falta Injustificada,8.0
+123cf911-2bd8-4d4d-beac-db2892f71993,298,2023-03-08,Atraso,2.6
+56b7979e-e46a-4b42-9cfe-cbd84fb67094,298,2024-02-01,Licença Paternidade/Maternidade,8.0
+214c87b1-0cfc-4420-b192-e4438a6342ca,298,2023-02-21,Atestado Médico,8.0
+aced4d55-e73e-4bc5-b882-2064076c108d,298,2024-01-21,Atraso,1.0
+0dc5d42e-6233-460a-9b1e-06c30ceaaf73,299,2026-02-18,Falta Injustificada,8.0
+2dd1d45b-6454-482a-ad2c-dbf9160beed4,299,2026-01-14,Falta Injustificada,8.0
+97bedf31-e42a-4836-989b-68c0b465c027,299,2025-10-02,Atestado Médico,8.0
+b3099e0d-b0ac-4677-960f-8680a124fdb2,299,2025-11-23,Atestado Médico,8.0
+4ffc1c54-5b0a-41ea-9dc6-d7837222534d,299,2026-05-08,Atestado Médico,8.0
